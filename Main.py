@@ -52,7 +52,7 @@ tf.app.flags.DEFINE_integer("pos_size", 5, "Size of embedding.")
 # training
 tf.app.flags.DEFINE_integer("batch_size", 2, "Batch size of train set.")
 tf.app.flags.DEFINE_integer("batch_update", 22, "apply gradients after steps")
-tf.app.flags.DEFINE_integer("epoch", 5000, "Number of training epoch.")
+tf.app.flags.DEFINE_integer("epoch", 100, "Number of training epoch.")
 tf.app.flags.DEFINE_float("learning_rate", 0.0003,'learning rate')
 
 # logging
