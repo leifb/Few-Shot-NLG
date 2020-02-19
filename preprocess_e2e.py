@@ -1,6 +1,7 @@
 import os
 import sys
 import csv
+import nltk
 
 # This script converts the e2e challange dataset into a format the can be processed
 # with preprocess.py. It writes both the *
@@ -50,8 +51,10 @@ def parse_row(row):
     if len(row) < 2:
         print("WARNING: input column without summary")
         return mr_string, ""
+    
+    tok_sum = " ".join(nltk.word_tokenize(row[1]))
 
-    return mr_string, row[1]
+    return mr_string, tok_sum
 
 
 def parse_mr(data):
@@ -75,7 +78,7 @@ def parse_mr(data):
     '''
     ret = []
     for prop in data.split(","):
-        print(prop)
+        #print(prop)
         name, values = prop.strip().strip(']').split('[')
         for index, value in enumerate(values.split(' '), start=1):
             ret.append((name + "_" + str(index), value))
