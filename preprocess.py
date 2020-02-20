@@ -874,7 +874,7 @@ if __name__ == '__main__':
     domain = sys.argv[2]
     subdir = os.path.join(root_path, domain)
     dem_file = os.path.join(root_path, "demonyms.csv")
-    merge_field_vocab = os.path.join(root_path, "human_books_songs_films_field_vocab.txt")
+    merge_field_vocab = os.path.join(root_path, "field_vocab.txt")
     make_dirs(subdir)
     preprocess(subdir, merge_field_vocab, dem_file)
     check_generated_box(subdir)

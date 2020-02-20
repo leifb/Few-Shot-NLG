@@ -2,10 +2,19 @@ import os
 import sys
 import csv
 import nltk
+import string
 
 # This script converts the e2e challange dataset into a format the can be processed
 # with preprocess.py. It writes both the *
 
+vocab = set()
+cnt = 0
+if os.path.exists("field_vocab.txt"):
+    with open("field_vocab.txt", "r") as vocab_file:
+        for line in vocab_file:
+            word, id = line.strip().split()
+            vocab.add(word.replace("_", " "))
+            cnt=int(id)     
 
 def start():
     if is_help():
@@ -16,11 +25,11 @@ def start():
     if len(sys.argv) < 4:
         print("Missing arguments.")
         sys.exit(1)
-
+    
     run(sys.argv[1], sys.argv[2], sys.argv[3])
 
 
-def run(src_path, box_path, sum_path):
+def run(src_path, box_path, sum_path):    
     with open(src_path, 'r') as src:
         with open(box_path, 'w') as box:
             with open(sum_path, 'w') as sum:
@@ -76,10 +85,18 @@ def parse_mr(data):
         ('familyFriendly_1', 'no')
     ]
     '''
+
+
+    global vocab, cnt
     ret = []
     for prop in data.split(","):
         #print(prop)
         name, values = prop.strip().strip(']').split('[')
+        if name not in vocab:
+            with open("field_vocab.txt", "a") as vocab_file:
+                vocab_file.write("{} {}\n".format(name.replace(" ", "_"), cnt))
+            vocab.add(name)
+            cnt += 1
         for index, value in enumerate(values.split(' '), start=1):
             ret.append((name + "_" + str(index), value))
 
