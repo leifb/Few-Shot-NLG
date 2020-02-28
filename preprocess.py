@@ -596,7 +596,7 @@ def split_summary_for_rouge(subdir):
         fread = open(fi, 'r')
         k = 0
         for line in fread:
-            with open(bwfile[i] + 'gold_summary_' + str(k), 'w') as sw:
+            with open(os.path.join(bwfile[i], 'gold_summary_' + str(k), 'w')) as sw:
                 sw.write(line.strip() + '\n')
             k += 1
         fread.close()
@@ -861,12 +861,13 @@ def make_dirs(subdir):
     Returns:
         None
     """
-    os.mkdir(os.path.join(subdir, "processed_data"))
-    os.mkdir(os.path.join(subdir, "processed_data", "train"))
-    os.mkdir(os.path.join(subdir, "processed_data", "test"))
-    os.mkdir(os.path.join(subdir, "processed_data", "valid"))
-    os.mkdir(os.path.join(subdir, "processed_data", "test", "test_split_for_rouge"))
-    os.mkdir(os.path.join(subdir, "processed_data", "valid", "valid_split_for_rouge"))
+    if not os.path.exists(os.path.join(subdir, "processed_data")):
+        os.mkdir(os.path.join(subdir, "processed_data"))
+        os.mkdir(os.path.join(subdir, "processed_data", "train"))
+        os.mkdir(os.path.join(subdir, "processed_data", "test"))
+        os.mkdir(os.path.join(subdir, "processed_data", "valid"))
+        os.mkdir(os.path.join(subdir, "processed_data", "test", "test_split_for_rouge"))
+        os.mkdir(os.path.join(subdir, "processed_data", "valid", "valid_split_for_rouge"))
 
 
 if __name__ == '__main__':
