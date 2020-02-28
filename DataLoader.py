@@ -241,6 +241,8 @@ class DataLoader:
                 gpt_context = " Book introduction : "
             elif self.domain == "songs":
                 gpt_context = " Song introduction : "
+            elif self.domain == "restaurants":
+                gpt_context = " Review : "
 
             gpt_context, _ = enc.encode(gpt_context)
 

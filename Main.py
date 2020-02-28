@@ -82,7 +82,7 @@ log_file = os.path.join(results_path, 'log.txt')
 root_path = FLAGS.root_path
 gold_path_valid = os.path.join(root_path, FLAGS.domain, 'original_data', 'valid.summary')
 gold_path_test = os.path.join(root_path, FLAGS.domain, 'original_data', 'test.summary')
-field_vocab_file = os.path.join(root_path, "human_books_songs_films_field_vocab.txt")
+field_vocab_file = os.path.join(root_path, "field_vocab.txt")
 processed_data_dir = os.path.join(root_path, FLAGS.domain, "processed_data")
 
 # bpe vocab
