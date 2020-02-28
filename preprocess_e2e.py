@@ -98,7 +98,7 @@ def parse_mr(data):
             vocab.add(name)
             cnt += 1
         for index, value in enumerate(values.split(' '), start=1):
-            ret.append((name + "_" + str(index), value))
+            ret.append((name.replace(" ", "_") + "_" + str(index), value))
 
     return ret
 
