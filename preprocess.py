@@ -414,6 +414,10 @@ def gen_context(subdir):
                     if domain == "songs":
                         to_write = "song name : " + this_value + " ,"
 
+                    # for restaurants
+                    if domain == "restaurants":
+                        to_write = "restaurant name : " + this_value + " ,"
+
                 else:
                     write_value = " " + this_value
                     write_name = " " + this_name.replace("_", " ")
