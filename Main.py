@@ -50,9 +50,9 @@ tf.app.flags.DEFINE_integer("field_size", 768, "Size of embedding.")
 tf.app.flags.DEFINE_integer("pos_size", 5, "Size of embedding.")
 
 # training
-tf.app.flags.DEFINE_integer("batch_size", 2, "Batch size of train set.")
-tf.app.flags.DEFINE_integer("batch_update", 22, "apply gradients after steps")
-tf.app.flags.DEFINE_integer("epoch", 100, "Number of training epoch.")
+tf.app.flags.DEFINE_integer("batch_size", 4, "Batch size of train set.")
+tf.app.flags.DEFINE_integer("batch_update", 44, "apply gradients after steps")
+tf.app.flags.DEFINE_integer("epoch", 3, "Number of training epoch.")
 tf.app.flags.DEFINE_float("learning_rate", 0.0003,'learning rate')
 
 # logging
@@ -111,7 +111,8 @@ def train(sess, preprocessed_data, model):
     record_copy_loss = 0.0
     record_cov_loss = 0.0
 
-    for _ in range(FLAGS.epoch):
+    for e in range(FLAGS.epoch):
+        write_log(log_file, "Training epoch {}".format(e))
         train_iterator.reset()
         for x in train_iterator:
             model(x, sess, 0)

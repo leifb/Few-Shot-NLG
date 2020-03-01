@@ -28,10 +28,12 @@ def join_box(list_in):
 
     for each_item in list_in:
         field_name = each_item.split(":")[0]
-        field_value = each_item.split(":")[1]
-
         if field_name == "":
             continue
+        field_value = each_item.split(":")[1]
+
+        #if field_name == "":
+        #    continue
 
         if not field_name[-1].isdigit():
             if field_value != "<none>":
@@ -51,7 +53,7 @@ def join_box(list_in):
         current_name = field_name
         current_value += (field_value + " ")
 
-    if current_value.strip() != "<none>":
+    if current_name != "" and current_value.strip() != "<none>":
         out_list.append((current_name, current_value.strip()))
 
     sorted_by_second = sorted(out_list, key=lambda tup: len(tup[1].split(" ")), reverse=True)
@@ -388,7 +390,7 @@ def gen_context(subdir):
         for ib in box:
             ib = ib.replace("-lrb-", "(")
             ib = ib.replace("-rrb-", ")")
-            item = ib.split('\t')
+            item = ib.strip().split('\t')
             box_out_list, _ = join_box(item)
 
             write_line = []
@@ -456,8 +458,7 @@ def split_infobox(subdir):
             ib = ib.replace("-rrb-", ")")
 
             box_single_word, box_single_label, box_single_pos = [], [], []
-            item = ib.split('\t')
-
+            item = ib.strip().split('\t')
             box_out_list, _ = join_box(item)
 
             for (this_name, this_value) in box_out_list:
