@@ -1,0 +1,8 @@
+name 0
+eatType 1
+priceRange 2
+customer_rating 3
+near 4
+food 5
+area 6
+familyFriendly 7

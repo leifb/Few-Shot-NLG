@@ -1,0 +1,547 @@
+familyFriendly:no	name:Alimentum	area_1:city	area_2:centre
+area_1:city	area_2:centre	near_1:Burger	near_2:King	name:Alimentum	familyFriendly:no
+area_1:city	area_2:centre	name:Alimentum	familyFriendly:yes
+near_1:Burger	near_2:King	name:Alimentum	familyFriendly:yes	area_1:city	area_2:centre
+name:Alimentum	area:riverside	familyFriendly:no
+near_1:Burger	near_2:King	area:riverside	name:Alimentum	familyFriendly:no
+familyFriendly:yes	name:Alimentum	area:riverside
+near_1:Burger	near_2:King	area:riverside	name:Alimentum	familyFriendly:yes
+name:Aromi	food:Chinese	eatType_1:coffee	eatType_2:shop	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes	area:riverside
+familyFriendly:yes	name:Aromi	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Chinese	eatType_1:coffee	eatType_2:shop	area:riverside
+area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	name:Aromi	food:Chinese	familyFriendly:no	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	name:Aromi	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Chinese	familyFriendly:yes
+area:riverside	familyFriendly:no	name:Aromi	eatType_1:coffee	eatType_2:shop	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Chinese
+food:Chinese	name:Aromi	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	area:riverside
+customer_rating:average	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	food:Chinese	name:Aromi	familyFriendly:no
+area_1:city	area_2:centre	familyFriendly:yes	food:Chinese	customer_rating:average	eatType_1:coffee	eatType_2:shop	name:Aromi
+food:Chinese	area:riverside	familyFriendly:no	name:Aromi	eatType_1:coffee	eatType_2:shop	customer_rating:average
+familyFriendly:yes	eatType_1:coffee	eatType_2:shop	food:Chinese	name:Aromi	area:riverside	customer_rating:average
+eatType_1:coffee	eatType_2:shop	area:riverside	familyFriendly:yes	name:Aromi	food:Chinese	customer_rating:high
+eatType_1:coffee	eatType_2:shop	food:Chinese	area_1:city	area_2:centre	customer_rating:low	name:Aromi	familyFriendly:no
+food:Chinese	familyFriendly:yes	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	customer_rating:low	name:Aromi
+name:Aromi	eatType_1:coffee	eatType_2:shop	area:riverside	customer_rating:low	food:Chinese	familyFriendly:no
+name:Aromi	eatType_1:coffee	eatType_2:shop	area:riverside	customer_rating:low	food:Chinese	familyFriendly:yes
+food:English	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Aromi	area:riverside	familyFriendly:yes	eatType_1:coffee	eatType_2:shop
+name:Aromi	eatType_1:coffee	eatType_2:shop	food:English	familyFriendly:yes	area:riverside	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area_1:city	area_2:centre	familyFriendly:no	name:Aromi	food:English	eatType_1:coffee	eatType_2:shop
+area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	food:English	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Aromi
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	food:English	name:Aromi	area:riverside	familyFriendly:no
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English	area:riverside	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	name:Aromi
+food:English	customer_rating:average	eatType_1:coffee	eatType_2:shop	familyFriendly:no	area_1:city	area_2:centre	name:Aromi
+name:Aromi	familyFriendly:yes	food:English	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	customer_rating:average
+food:English	familyFriendly:no	area:riverside	name:Aromi	customer_rating:average	eatType_1:coffee	eatType_2:shop
+familyFriendly:yes	food:English	area:riverside	name:Aromi	eatType_1:coffee	eatType_2:shop	customer_rating:average
+food:English	customer_rating:high	familyFriendly:yes	name:Aromi	eatType_1:coffee	eatType_2:shop	area:riverside
+familyFriendly:no	food:English	customer_rating:low	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	name:Aromi
+name:Aromi	area_1:city	area_2:centre	customer_rating:low	food:English	eatType_1:coffee	eatType_2:shop	familyFriendly:yes
+customer_rating:low	food:English	name:Aromi	area:riverside	eatType_1:coffee	eatType_2:shop	familyFriendly:no
+name:Aromi	customer_rating:low	food:English	area:riverside	eatType_1:coffee	eatType_2:shop	familyFriendly:yes
+name_1:Bibimbap	name_2:House	area_1:city	area_2:centre	near_1:Café	near_2:Sicilia
+near_1:Café	near_2:Sicilia	area:riverside	name_1:Bibimbap	name_2:House
+near_1:Crowne	near_2:Plaza	near_3:Hotel	name_1:Browns	name_2:Cambridge	food:Chinese	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	eatType_1:coffee	eatType_2:shop	familyFriendly:yes
+food:Chinese	area:riverside	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	name_1:Browns	name_2:Cambridge	near_1:Crowne	near_2:Plaza	near_3:Hotel	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Crowne	near_2:Plaza	near_3:Hotel	food:Chinese	familyFriendly:no	eatType_1:coffee	eatType_2:shop	name_1:Browns	name_2:Cambridge	area_1:city	area_2:centre
+area_1:city	area_2:centre	near_1:Crowne	near_2:Plaza	near_3:Hotel	food:Chinese	familyFriendly:yes	name_1:Browns	name_2:Cambridge	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop
+near_1:Crowne	near_2:Plaza	near_3:Hotel	food:Chinese	name_1:Browns	name_2:Cambridge	eatType_1:coffee	eatType_2:shop	area:riverside	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:no
+area:riverside	food:Chinese	familyFriendly:yes	name_1:Browns	name_2:Cambridge	near_1:Crowne	near_2:Plaza	near_3:Hotel	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop
+near_1:Crowne	near_2:Plaza	near_3:Hotel	name_1:Browns	name_2:Cambridge	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	customer_rating:average	familyFriendly:no	food:Chinese
+familyFriendly:yes	customer_rating:average	near_1:Crowne	near_2:Plaza	near_3:Hotel	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	name_1:Browns	name_2:Cambridge	food:Chinese
+area:riverside	customer_rating:average	eatType_1:coffee	eatType_2:shop	familyFriendly:no	name_1:Browns	name_2:Cambridge	near_1:Crowne	near_2:Plaza	near_3:Hotel	food:Chinese
+area:riverside	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	food:Chinese	near_1:Crowne	near_2:Plaza	near_3:Hotel	name_1:Browns	name_2:Cambridge	customer_rating:average
+familyFriendly:yes	near_1:Crowne	near_2:Plaza	near_3:Hotel	food:Chinese	customer_rating:high	name_1:Browns	name_2:Cambridge	area:riverside	eatType_1:coffee	eatType_2:shop
+area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	near_1:Crowne	near_2:Plaza	near_3:Hotel	familyFriendly:no	name_1:Browns	name_2:Cambridge	customer_rating:low	food:Chinese
+eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	familyFriendly:yes	name_1:Browns	name_2:Cambridge	customer_rating:low	near_1:Crowne	near_2:Plaza	near_3:Hotel	food:Chinese
+eatType_1:coffee	eatType_2:shop	near_1:Crowne	near_2:Plaza	near_3:Hotel	customer_rating:low	familyFriendly:no	food:Chinese	name_1:Browns	name_2:Cambridge	area:riverside
+customer_rating:low	familyFriendly:yes	food:Chinese	name_1:Browns	name_2:Cambridge	area:riverside	near_1:Crowne	near_2:Plaza	near_3:Hotel	eatType_1:coffee	eatType_2:shop
+food:English	area:riverside	name_1:Browns	name_2:Cambridge	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes	near_1:Crowne	near_2:Plaza	near_3:Hotel	eatType_1:coffee	eatType_2:shop
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English	eatType_1:coffee	eatType_2:shop	name_1:Browns	name_2:Cambridge	familyFriendly:yes	area:riverside	near_1:Crowne	near_2:Plaza	near_3:Hotel
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English	near_1:Crowne	near_2:Plaza	near_3:Hotel	eatType_1:coffee	eatType_2:shop	familyFriendly:no	area_1:city	area_2:centre	name_1:Browns	name_2:Cambridge
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:Browns	name_2:Cambridge	eatType_1:coffee	eatType_2:shop	food:English	near_1:Crowne	near_2:Plaza	near_3:Hotel	familyFriendly:yes	area_1:city	area_2:centre
+eatType_1:coffee	eatType_2:shop	food:English	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:Browns	name_2:Cambridge	area:riverside	near_1:Crowne	near_2:Plaza	near_3:Hotel	familyFriendly:no
+food:English	near_1:Crowne	near_2:Plaza	near_3:Hotel	area:riverside	name_1:Browns	name_2:Cambridge	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+familyFriendly:no	name_1:Browns	name_2:Cambridge	near_1:Crowne	near_2:Plaza	near_3:Hotel	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	food:English	customer_rating:average
+name_1:Browns	name_2:Cambridge	customer_rating:average	food:English	familyFriendly:yes	near_1:Crowne	near_2:Plaza	near_3:Hotel	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre
+food:English	familyFriendly:no	name_1:Browns	name_2:Cambridge	area:riverside	eatType_1:coffee	eatType_2:shop	near_1:Crowne	near_2:Plaza	near_3:Hotel	customer_rating:average
+customer_rating:average	food:English	familyFriendly:yes	name_1:Browns	name_2:Cambridge	near_1:Crowne	near_2:Plaza	near_3:Hotel	eatType_1:coffee	eatType_2:shop	area:riverside
+area:riverside	food:English	name_1:Browns	name_2:Cambridge	near_1:Crowne	near_2:Plaza	near_3:Hotel	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	customer_rating:high
+familyFriendly:no	customer_rating:low	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	near_1:Crowne	near_2:Plaza	near_3:Hotel	food:English	name_1:Browns	name_2:Cambridge
+familyFriendly:yes	food:English	name_1:Browns	name_2:Cambridge	near_1:Crowne	near_2:Plaza	near_3:Hotel	eatType_1:coffee	eatType_2:shop	customer_rating:low	area_1:city	area_2:centre
+area:riverside	familyFriendly:no	near_1:Crowne	near_2:Plaza	near_3:Hotel	eatType_1:coffee	eatType_2:shop	customer_rating:low	food:English	name_1:Browns	name_2:Cambridge
+area:riverside	eatType_1:coffee	eatType_2:shop	name_1:Browns	name_2:Cambridge	near_1:Crowne	near_2:Plaza	near_3:Hotel	familyFriendly:yes	food:English	customer_rating:low
+food:Chinese	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Clowns	eatType_1:coffee	eatType_2:shop	near_1:Clare	near_2:Hall	area:riverside
+food:Chinese	name:Clowns	area:riverside	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	near_1:Clare	near_2:Hall
+eatType_1:coffee	eatType_2:shop	near_1:Clare	near_2:Hall	name:Clowns	food:Chinese	area_1:city	area_2:centre	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Chinese	near_1:Clare	near_2:Hall	name:Clowns	eatType_1:coffee	eatType_2:shop	area:riverside
+name:Clowns	food:Chinese	customer_rating:average	eatType_1:coffee	eatType_2:shop	near_1:Clare	near_2:Hall	area_1:city	area_2:centre
+customer_rating:average	near_1:Clare	near_2:Hall	food:Chinese	area:riverside	eatType_1:coffee	eatType_2:shop	name:Clowns
+food:Chinese	name:Clowns	eatType_1:coffee	eatType_2:shop	near_1:Clare	near_2:Hall	customer_rating:high	area:riverside
+name:Clowns	area_1:city	area_2:centre	customer_rating:low	eatType_1:coffee	eatType_2:shop	near_1:Clare	near_2:Hall	food:Chinese
+eatType_1:coffee	eatType_2:shop	food:Chinese	name:Clowns	area:riverside	customer_rating:low	near_1:Clare	near_2:Hall
+eatType_1:coffee	eatType_2:shop	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Clowns	food:English	near_1:Clare	near_2:Hall	area:riverside
+near_1:Clare	near_2:Hall	food:English	area:riverside	name:Clowns	eatType_1:coffee	eatType_2:shop	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+eatType_1:coffee	eatType_2:shop	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English	area_1:city	area_2:centre	name:Clowns	near_1:Clare	near_2:Hall
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	food:English	near_1:Clare	near_2:Hall	area:riverside	name:Clowns
+eatType_1:coffee	eatType_2:shop	near_1:Clare	near_2:Hall	food:English	area_1:city	area_2:centre	customer_rating:average	name:Clowns
+eatType_1:coffee	eatType_2:shop	food:English	area:riverside	name:Clowns	near_1:Clare	near_2:Hall	customer_rating:average
+food:English	customer_rating:high	area:riverside	name:Clowns	near_1:Clare	near_2:Hall	eatType_1:coffee	eatType_2:shop
+name:Clowns	eatType_1:coffee	eatType_2:shop	food:English	area_1:city	area_2:centre	near_1:Clare	near_2:Hall	customer_rating:low
+area:riverside	food:English	name:Clowns	near_1:Clare	near_2:Hall	eatType_1:coffee	eatType_2:shop	customer_rating:low
+customer_rating:high	priceRange:£20-25	eatType_1:coffee	eatType_2:shop	familyFriendly:no	food:Chinese	name:Cocum
+priceRange:£20-25	familyFriendly:yes	name:Cocum	customer_rating:high	eatType_1:coffee	eatType_2:shop	food:Chinese
+priceRange:cheap	familyFriendly:no	name:Cocum	eatType_1:coffee	eatType_2:shop	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Chinese
+food:Chinese	eatType_1:coffee	eatType_2:shop	priceRange:cheap	name:Cocum	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes
+customer_rating:average	familyFriendly:no	eatType_1:coffee	eatType_2:shop	food:Chinese	priceRange:cheap	name:Cocum
+customer_rating:average	familyFriendly:yes	food:Chinese	priceRange:cheap	eatType_1:coffee	eatType_2:shop	name:Cocum
+name:Cocum	food:Chinese	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	priceRange:high	familyFriendly:no
+name:Cocum	priceRange:high	food:Chinese	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	familyFriendly:yes
+customer_rating:average	food:Chinese	name:Cocum	priceRange:high	eatType_1:coffee	eatType_2:shop	familyFriendly:no
+familyFriendly:yes	priceRange:high	name:Cocum	customer_rating:average	eatType_1:coffee	eatType_2:shop	food:Chinese
+familyFriendly:no	priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType_1:coffee	eatType_2:shop	name:Cocum	customer_rating:low	food:Chinese
+priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:Chinese	eatType_1:coffee	eatType_2:shop	name:Cocum	customer_rating:low	familyFriendly:yes
+priceRange:moderate	name:Cocum	eatType_1:coffee	eatType_2:shop	food:Chinese	familyFriendly:no	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+priceRange:moderate	food:Chinese	name:Cocum	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+priceRange:moderate	familyFriendly:no	food:Chinese	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	name:Cocum
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	food:Chinese	priceRange:moderate	name:Cocum	familyFriendly:yes
+eatType_1:coffee	eatType_2:shop	priceRange_1:more	priceRange_2:than	priceRange_3:£30	familyFriendly:no	food:Chinese	name:Cocum	customer_rating:high
+name:Cocum	food:Chinese	familyFriendly:yes	priceRange_1:more	priceRange_2:than	priceRange_3:£30	eatType_1:coffee	eatType_2:shop	customer_rating:high
+eatType_1:coffee	eatType_2:shop	name:Cocum	priceRange:£20-25	customer_rating:high	familyFriendly:no	food:English
+priceRange:£20-25	customer_rating:high	name:Cocum	food:English	familyFriendly:yes	eatType_1:coffee	eatType_2:shop
+priceRange:cheap	name:Cocum	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:no	eatType_1:coffee	eatType_2:shop	food:English
+food:English	eatType_1:coffee	eatType_2:shop	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes	name:Cocum	priceRange:cheap
+food:English	priceRange:cheap	familyFriendly:no	customer_rating:average	name:Cocum	eatType_1:coffee	eatType_2:shop
+customer_rating:average	familyFriendly:yes	priceRange:cheap	food:English	eatType_1:coffee	eatType_2:shop	name:Cocum
+eatType_1:coffee	eatType_2:shop	familyFriendly:no	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Cocum	food:English	priceRange:high
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	food:English	name:Cocum	familyFriendly:yes	priceRange:high
+customer_rating:average	name:Cocum	familyFriendly:no	priceRange:high	eatType_1:coffee	eatType_2:shop	food:English
+customer_rating:average	familyFriendly:yes	eatType_1:coffee	eatType_2:shop	priceRange:high	food:English	name:Cocum
+food:English	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name:Cocum	eatType_1:coffee	eatType_2:shop	familyFriendly:no	customer_rating:low
+priceRange_1:less	priceRange_2:than	priceRange_3:£20	name:Cocum	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	customer_rating:low	food:English
+familyFriendly:no	food:English	priceRange:moderate	eatType_1:coffee	eatType_2:shop	name:Cocum	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+food:English	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	name:Cocum	priceRange:moderate	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+food:English	name:Cocum	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate	familyFriendly:no	eatType_1:coffee	eatType_2:shop
+name:Cocum	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English	priceRange:moderate
+customer_rating:high	priceRange:£20-25	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	food:Chinese	name:Cotto	near_1:The	near_2:Portland	near_3:Arms
+near_1:The	near_2:Portland	near_3:Arms	priceRange:£20-25	food:Chinese	area:riverside	name:Cotto	eatType_1:coffee	eatType_2:shop	customer_rating:high
+food:Chinese	priceRange:cheap	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	name:Cotto	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:The	near_2:Portland	near_3:Arms
+eatType_1:coffee	eatType_2:shop	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:The	near_2:Portland	near_3:Arms	food:Chinese	priceRange:cheap	name:Cotto	area:riverside
+customer_rating:average	name:Cotto	near_1:The	near_2:Portland	near_3:Arms	priceRange:cheap	food:Chinese	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre
+name:Cotto	customer_rating:average	near_1:The	near_2:Portland	near_3:Arms	eatType_1:coffee	eatType_2:shop	priceRange:cheap	area:riverside	food:Chinese
+food:Chinese	near_1:The	near_2:Portland	near_3:Arms	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:high	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	name:Cotto
+eatType_1:coffee	eatType_2:shop	name:Cotto	priceRange:high	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:The	near_2:Portland	near_3:Arms	food:Chinese	area:riverside
+name:Cotto	food:Chinese	eatType_1:coffee	eatType_2:shop	near_1:The	near_2:Portland	near_3:Arms	priceRange:high	area_1:city	area_2:centre	customer_rating:average
+name:Cotto	near_1:The	near_2:Portland	near_3:Arms	eatType_1:coffee	eatType_2:shop	customer_rating:average	food:Chinese	area:riverside	priceRange:high
+customer_rating:low	area_1:city	area_2:centre	name:Cotto	food:Chinese	eatType_1:coffee	eatType_2:shop	priceRange_1:less	priceRange_2:than	priceRange_3:£20	near_1:The	near_2:Portland	near_3:Arms
+priceRange_1:less	priceRange_2:than	priceRange_3:£20	name:Cotto	near_1:The	near_2:Portland	near_3:Arms	area:riverside	eatType_1:coffee	eatType_2:shop	food:Chinese	customer_rating:low
+name:Cotto	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area_1:city	area_2:centre	near_1:The	near_2:Portland	near_3:Arms	eatType_1:coffee	eatType_2:shop	food:Chinese	priceRange:moderate
+priceRange:moderate	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	name:Cotto	near_1:The	near_2:Portland	near_3:Arms	eatType_1:coffee	eatType_2:shop	food:Chinese
+priceRange:moderate	area_1:city	area_2:centre	name:Cotto	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	near_1:The	near_2:Portland	near_3:Arms	food:Chinese
+area:riverside	eatType_1:coffee	eatType_2:shop	name:Cotto	food:Chinese	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate	near_1:The	near_2:Portland	near_3:Arms
+near_1:The	near_2:Portland	near_3:Arms	name:Cotto	area_1:city	area_2:centre	food:Chinese	eatType_1:coffee	eatType_2:shop	customer_rating:high	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+customer_rating:high	name:Cotto	area:riverside	eatType_1:coffee	eatType_2:shop	priceRange_1:more	priceRange_2:than	priceRange_3:£30	food:Chinese	near_1:The	near_2:Portland	near_3:Arms
+customer_rating:high	food:English	name:Cotto	near_1:The	near_2:Portland	near_3:Arms	eatType_1:coffee	eatType_2:shop	priceRange:£20-25	area_1:city	area_2:centre
+area:riverside	name:Cotto	food:English	customer_rating:high	eatType_1:coffee	eatType_2:shop	priceRange:£20-25	near_1:The	near_2:Portland	near_3:Arms
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Cotto	priceRange:cheap	eatType_1:coffee	eatType_2:shop	near_1:The	near_2:Portland	near_3:Arms	area_1:city	area_2:centre	food:English
+priceRange:cheap	eatType_1:coffee	eatType_2:shop	food:English	name:Cotto	near_1:The	near_2:Portland	near_3:Arms	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside
+near_1:The	near_2:Portland	near_3:Arms	area_1:city	area_2:centre	customer_rating:average	priceRange:cheap	food:English	name:Cotto	eatType_1:coffee	eatType_2:shop
+area:riverside	near_1:The	near_2:Portland	near_3:Arms	customer_rating:average	food:English	name:Cotto	priceRange:cheap	eatType_1:coffee	eatType_2:shop
+name:Cotto	eatType_1:coffee	eatType_2:shop	near_1:The	near_2:Portland	near_3:Arms	priceRange:high	area_1:city	area_2:centre	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English
+area:riverside	eatType_1:coffee	eatType_2:shop	priceRange:high	name:Cotto	food:English	near_1:The	near_2:Portland	near_3:Arms	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+near_1:The	near_2:Portland	near_3:Arms	name:Cotto	customer_rating:average	area_1:city	area_2:centre	priceRange:high	eatType_1:coffee	eatType_2:shop	food:English
+food:English	priceRange:high	name:Cotto	customer_rating:average	eatType_1:coffee	eatType_2:shop	near_1:The	near_2:Portland	near_3:Arms	area:riverside
+name:Cotto	area_1:city	area_2:centre	food:English	near_1:The	near_2:Portland	near_3:Arms	priceRange_1:less	priceRange_2:than	priceRange_3:£20	customer_rating:low	eatType_1:coffee	eatType_2:shop
+name:Cotto	customer_rating:low	eatType_1:coffee	eatType_2:shop	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:English	near_1:The	near_2:Portland	near_3:Arms	area:riverside
+near_1:The	near_2:Portland	near_3:Arms	food:English	area_1:city	area_2:centre	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	priceRange:moderate	name:Cotto
+near_1:The	near_2:Portland	near_3:Arms	priceRange:moderate	food:English	eatType_1:coffee	eatType_2:shop	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	name:Cotto
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	near_1:The	near_2:Portland	near_3:Arms	priceRange:moderate	food:English	name:Cotto
+priceRange:moderate	eatType_1:coffee	eatType_2:shop	name:Cotto	area:riverside	food:English	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:The	near_2:Portland	near_3:Arms
+name:Cotto	eatType_1:coffee	eatType_2:shop	priceRange_1:more	priceRange_2:than	priceRange_3:£30	customer_rating:high	food:English	area_1:city	area_2:centre	near_1:The	near_2:Portland	near_3:Arms
+eatType_1:coffee	eatType_2:shop	priceRange:£20-25	area_1:city	area_2:centre	customer_rating:high	food:Chinese	familyFriendly:no	name:Fitzbillies
+area_1:city	area_2:centre	priceRange:£20-25	name:Fitzbillies	eatType_1:coffee	eatType_2:shop	customer_rating:high	food:Chinese	familyFriendly:yes
+food:Chinese	familyFriendly:no	name:Fitzbillies	area:riverside	customer_rating:high	priceRange:£20-25	eatType_1:coffee	eatType_2:shop
+familyFriendly:yes	food:Chinese	eatType_1:coffee	eatType_2:shop	name:Fitzbillies	priceRange:£20-25	area:riverside	customer_rating:high
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area_1:city	area_2:centre	name:Fitzbillies	priceRange:cheap	eatType_1:coffee	eatType_2:shop	familyFriendly:no	food:Chinese
+area_1:city	area_2:centre	familyFriendly:yes	eatType_1:coffee	eatType_2:shop	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:cheap	name:Fitzbillies	food:Chinese
+food:Chinese	name:Fitzbillies	area:riverside	familyFriendly:no	eatType_1:coffee	eatType_2:shop	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:cheap
+familyFriendly:yes	food:Chinese	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:cheap	eatType_1:coffee	eatType_2:shop	name:Fitzbillies	area:riverside
+customer_rating:average	priceRange:cheap	familyFriendly:no	food:Chinese	eatType_1:coffee	eatType_2:shop	name:Fitzbillies	area_1:city	area_2:centre
+area_1:city	area_2:centre	familyFriendly:yes	eatType_1:coffee	eatType_2:shop	customer_rating:average	name:Fitzbillies	food:Chinese	priceRange:cheap
+priceRange:cheap	eatType_1:coffee	eatType_2:shop	area:riverside	food:Chinese	name:Fitzbillies	customer_rating:average	familyFriendly:no
+customer_rating:average	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	name:Fitzbillies	area:riverside	priceRange:cheap	food:Chinese
+food:Chinese	eatType_1:coffee	eatType_2:shop	priceRange:high	name:Fitzbillies	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area_1:city	area_2:centre	familyFriendly:no
+area_1:city	area_2:centre	name:Fitzbillies	familyFriendly:yes	eatType_1:coffee	eatType_2:shop	priceRange:high	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Chinese
+familyFriendly:no	name:Fitzbillies	eatType_1:coffee	eatType_2:shop	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:high	food:Chinese	area:riverside
+food:Chinese	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	name:Fitzbillies	priceRange:high	area:riverside
+priceRange:high	food:Chinese	familyFriendly:no	customer_rating:average	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	name:Fitzbillies
+food:Chinese	priceRange:high	familyFriendly:yes	customer_rating:average	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	name:Fitzbillies
+customer_rating:average	name:Fitzbillies	eatType_1:coffee	eatType_2:shop	area:riverside	priceRange:high	familyFriendly:no	food:Chinese
+food:Chinese	area:riverside	customer_rating:average	familyFriendly:yes	eatType_1:coffee	eatType_2:shop	priceRange:high	name:Fitzbillies
+food:Chinese	customer_rating:low	familyFriendly:no	eatType_1:coffee	eatType_2:shop	name:Fitzbillies	area_1:city	area_2:centre	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+eatType_1:coffee	eatType_2:shop	name:Fitzbillies	familyFriendly:yes	customer_rating:low	food:Chinese	area_1:city	area_2:centre	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+food:Chinese	familyFriendly:no	name:Fitzbillies	area:riverside	priceRange_1:less	priceRange_2:than	priceRange_3:£20	customer_rating:low	eatType_1:coffee	eatType_2:shop
+food:Chinese	area:riverside	priceRange_1:less	priceRange_2:than	priceRange_3:£20	customer_rating:low	name:Fitzbillies	eatType_1:coffee	eatType_2:shop	familyFriendly:yes
+familyFriendly:no	eatType_1:coffee	eatType_2:shop	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Chinese	priceRange:moderate	area_1:city	area_2:centre	name:Fitzbillies
+area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	food:Chinese	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Fitzbillies	familyFriendly:yes	priceRange:moderate
+name:Fitzbillies	food:Chinese	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	familyFriendly:no	eatType_1:coffee	eatType_2:shop	priceRange:moderate
+eatType_1:coffee	eatType_2:shop	area:riverside	familyFriendly:yes	food:Chinese	priceRange:moderate	name:Fitzbillies	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+familyFriendly:no	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate	eatType_1:coffee	eatType_2:shop	name:Fitzbillies	area_1:city	area_2:centre	food:Chinese
+priceRange:moderate	eatType_1:coffee	eatType_2:shop	food:Chinese	familyFriendly:yes	area_1:city	area_2:centre	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Fitzbillies
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Chinese	area:riverside	eatType_1:coffee	eatType_2:shop	name:Fitzbillies	familyFriendly:no	priceRange:moderate
+area:riverside	eatType_1:coffee	eatType_2:shop	food:Chinese	name:Fitzbillies	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes	priceRange:moderate
+priceRange_1:more	priceRange_2:than	priceRange_3:£30	customer_rating:high	familyFriendly:no	name:Fitzbillies	eatType_1:coffee	eatType_2:shop	food:Chinese	area_1:city	area_2:centre
+eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	familyFriendly:yes	customer_rating:high	priceRange_1:more	priceRange_2:than	priceRange_3:£30	food:Chinese	name:Fitzbillies
+food:Chinese	familyFriendly:no	area:riverside	name:Fitzbillies	priceRange_1:more	priceRange_2:than	priceRange_3:£30	customer_rating:high	eatType_1:coffee	eatType_2:shop
+name:Fitzbillies	food:Chinese	customer_rating:high	priceRange_1:more	priceRange_2:than	priceRange_3:£30	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	area:riverside
+customer_rating:high	food:English	name:Fitzbillies	priceRange:£20-25	area_1:city	area_2:centre	familyFriendly:no	eatType_1:coffee	eatType_2:shop
+eatType_1:coffee	eatType_2:shop	familyFriendly:yes	area_1:city	area_2:centre	food:English	name:Fitzbillies	customer_rating:high	priceRange:£20-25
+area:riverside	food:English	name:Fitzbillies	eatType_1:coffee	eatType_2:shop	familyFriendly:no	customer_rating:high	priceRange:£20-25
+eatType_1:coffee	eatType_2:shop	priceRange:£20-25	familyFriendly:yes	food:English	area:riverside	name:Fitzbillies	customer_rating:high
+eatType_1:coffee	eatType_2:shop	name:Fitzbillies	area_1:city	area_2:centre	familyFriendly:no	priceRange:cheap	food:English	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+area_1:city	area_2:centre	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:cheap	food:English	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	name:Fitzbillies
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:cheap	name:Fitzbillies	food:English	area:riverside	familyFriendly:no	eatType_1:coffee	eatType_2:shop
+eatType_1:coffee	eatType_2:shop	familyFriendly:yes	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:cheap	food:English	area:riverside	name:Fitzbillies
+eatType_1:coffee	eatType_2:shop	customer_rating:average	area_1:city	area_2:centre	priceRange:cheap	familyFriendly:no	food:English	name:Fitzbillies
+priceRange:cheap	food:English	familyFriendly:yes	area_1:city	area_2:centre	name:Fitzbillies	eatType_1:coffee	eatType_2:shop	customer_rating:average
+eatType_1:coffee	eatType_2:shop	name:Fitzbillies	food:English	priceRange:cheap	customer_rating:average	area:riverside	familyFriendly:no
+name:Fitzbillies	familyFriendly:yes	priceRange:cheap	eatType_1:coffee	eatType_2:shop	area:riverside	food:English	customer_rating:average
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:high	area_1:city	area_2:centre	name:Fitzbillies	eatType_1:coffee	eatType_2:shop	food:English	familyFriendly:no
+familyFriendly:yes	eatType_1:coffee	eatType_2:shop	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area_1:city	area_2:centre	priceRange:high	name:Fitzbillies	food:English
+priceRange:high	area:riverside	food:English	eatType_1:coffee	eatType_2:shop	name:Fitzbillies	familyFriendly:no	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+area:riverside	familyFriendly:yes	food:English	priceRange:high	name:Fitzbillies	eatType_1:coffee	eatType_2:shop	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+priceRange:high	customer_rating:average	familyFriendly:no	eatType_1:coffee	eatType_2:shop	food:English	name:Fitzbillies	area_1:city	area_2:centre
+eatType_1:coffee	eatType_2:shop	familyFriendly:yes	priceRange:high	name:Fitzbillies	food:English	area_1:city	area_2:centre	customer_rating:average
+customer_rating:average	familyFriendly:no	name:Fitzbillies	eatType_1:coffee	eatType_2:shop	food:English	priceRange:high	area:riverside
+priceRange:high	familyFriendly:yes	eatType_1:coffee	eatType_2:shop	name:Fitzbillies	customer_rating:average	food:English	area:riverside
+priceRange_1:less	priceRange_2:than	priceRange_3:£20	name:Fitzbillies	customer_rating:low	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	familyFriendly:no	food:English
+familyFriendly:yes	area_1:city	area_2:centre	name:Fitzbillies	food:English	customer_rating:low	priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType_1:coffee	eatType_2:shop
+priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType_1:coffee	eatType_2:shop	customer_rating:low	food:English	name:Fitzbillies	familyFriendly:no	area:riverside
+eatType_1:coffee	eatType_2:shop	name:Fitzbillies	customer_rating:low	food:English	area:riverside	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:yes
+priceRange:moderate	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English	area_1:city	area_2:centre	name:Fitzbillies	familyFriendly:no	eatType_1:coffee	eatType_2:shop
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English	name:Fitzbillies	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	familyFriendly:yes	priceRange:moderate
+priceRange:moderate	familyFriendly:no	area:riverside	name:Fitzbillies	food:English	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop
+name:Fitzbillies	familyFriendly:yes	eatType_1:coffee	eatType_2:shop	priceRange:moderate	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English	area:riverside
+eatType_1:coffee	eatType_2:shop	familyFriendly:no	priceRange:moderate	name:Fitzbillies	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English	area_1:city	area_2:centre
+eatType_1:coffee	eatType_2:shop	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Fitzbillies	priceRange:moderate	familyFriendly:yes	area_1:city	area_2:centre	food:English
+familyFriendly:no	eatType_1:coffee	eatType_2:shop	area:riverside	food:English	name:Fitzbillies	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate
+area:riverside	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	name:Fitzbillies	priceRange:moderate	familyFriendly:yes	food:English
+customer_rating:high	familyFriendly:no	name:Fitzbillies	priceRange_1:more	priceRange_2:than	priceRange_3:£30	food:English	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre
+name:Fitzbillies	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	food:English	area_1:city	area_2:centre	customer_rating:high	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+name:Fitzbillies	priceRange_1:more	priceRange_2:than	priceRange_3:£30	familyFriendly:no	customer_rating:high	eatType_1:coffee	eatType_2:shop	area:riverside	food:English
+name_1:Midsummer	name_2:House	near_1:The	near_2:Bakers	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:Midsummer	name_2:House	near_1:The	near_2:Bakers
+near_1:The	near_2:Bakers	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:Midsummer	name_2:House
+customer_rating:average	near_1:The	near_2:Bakers	name_1:Midsummer	name_2:House
+near_1:The	near_2:Bakers	customer_rating:high	name_1:Midsummer	name_2:House
+near_1:The	near_2:Bakers	customer_rating:low	name_1:Midsummer	name_2:House
+name_1:Taste	name_2:of	name_3:Cambridge	near_1:Crowne	near_2:Plaza	near_3:Hotel	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	familyFriendly:no	food:Chinese
+food:Chinese	name_1:Taste	name_2:of	name_3:Cambridge	near_1:Crowne	near_2:Plaza	near_3:Hotel	area_1:city	area_2:centre	familyFriendly:yes	eatType_1:coffee	eatType_2:shop
+eatType_1:coffee	eatType_2:shop	familyFriendly:no	food:Chinese	area:riverside	near_1:Crowne	near_2:Plaza	near_3:Hotel	name_1:Taste	name_2:of	name_3:Cambridge
+area:riverside	eatType_1:coffee	eatType_2:shop	near_1:Crowne	near_2:Plaza	near_3:Hotel	food:Chinese	name_1:Taste	name_2:of	name_3:Cambridge	familyFriendly:yes
+familyFriendly:no	eatType_1:coffee	eatType_2:shop	food:English	area_1:city	area_2:centre	near_1:Crowne	near_2:Plaza	near_3:Hotel	name_1:Taste	name_2:of	name_3:Cambridge
+name_1:Taste	name_2:of	name_3:Cambridge	familyFriendly:yes	near_1:Crowne	near_2:Plaza	near_3:Hotel	food:English	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop
+eatType_1:coffee	eatType_2:shop	food:English	name_1:Taste	name_2:of	name_3:Cambridge	familyFriendly:no	near_1:Crowne	near_2:Plaza	near_3:Hotel	area:riverside
+familyFriendly:yes	near_1:Crowne	near_2:Plaza	near_3:Hotel	area:riverside	eatType_1:coffee	eatType_2:shop	food:English	name_1:Taste	name_2:of	name_3:Cambridge
+area:riverside	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Burger	near_2:King	name_1:The	name_2:Cambridge	name_3:Blue	eatType_1:coffee	eatType_2:shop	familyFriendly:yes
+name_1:The	name_2:Cambridge	name_3:Blue	familyFriendly:yes	near_1:Burger	near_2:King	eatType_1:coffee	eatType_2:shop	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside
+familyFriendly:no	eatType_1:coffee	eatType_2:shop	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Cambridge	name_3:Blue	near_1:Burger	near_2:King	area_1:city	area_2:centre
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	name_1:The	name_2:Cambridge	name_3:Blue	area_1:city	area_2:centre	near_1:Burger	near_2:King
+name_1:The	name_2:Cambridge	name_3:Blue	eatType_1:coffee	eatType_2:shop	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Burger	near_2:King	familyFriendly:no	area:riverside
+familyFriendly:yes	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Burger	near_2:King	name_1:The	name_2:Cambridge	name_3:Blue	area:riverside	eatType_1:coffee	eatType_2:shop
+familyFriendly:no	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Cambridge	name_3:Blue	customer_rating:average	near_1:Burger	near_2:King
+eatType_1:coffee	eatType_2:shop	familyFriendly:yes	near_1:Burger	near_2:King	name_1:The	name_2:Cambridge	name_3:Blue	area_1:city	area_2:centre	customer_rating:average
+eatType_1:coffee	eatType_2:shop	area:riverside	name_1:The	name_2:Cambridge	name_3:Blue	near_1:Burger	near_2:King	familyFriendly:no	customer_rating:average
+eatType_1:coffee	eatType_2:shop	familyFriendly:yes	name_1:The	name_2:Cambridge	name_3:Blue	near_1:Burger	near_2:King	area:riverside	customer_rating:average
+near_1:Burger	near_2:King	familyFriendly:yes	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Cambridge	name_3:Blue	area:riverside	customer_rating:high
+name_1:The	name_2:Cambridge	name_3:Blue	familyFriendly:no	near_1:Burger	near_2:King	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	customer_rating:low
+familyFriendly:yes	customer_rating:low	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Cambridge	name_3:Blue	near_1:Burger	near_2:King
+customer_rating:low	name_1:The	name_2:Cambridge	name_3:Blue	near_1:Burger	near_2:King	eatType_1:coffee	eatType_2:shop	area:riverside	familyFriendly:no
+near_1:Burger	near_2:King	area:riverside	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	name_1:The	name_2:Cambridge	name_3:Blue	customer_rating:low
+familyFriendly:yes	eatType_1:coffee	eatType_2:shop	near_1:The	near_2:Portland	near_3:Arms	name_1:The	name_2:Cricketers	food:Chinese	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+food:Chinese	name_1:The	name_2:Cricketers	familyFriendly:yes	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	near_1:The	near_2:Portland	near_3:Arms
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:no	name_1:The	name_2:Cricketers	near_1:The	near_2:Portland	near_3:Arms	food:Chinese	eatType_1:coffee	eatType_2:shop
+familyFriendly:yes	near_1:The	near_2:Portland	near_3:Arms	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Cricketers	food:Chinese
+food:Chinese	customer_rating:average	familyFriendly:no	name_1:The	name_2:Cricketers	eatType_1:coffee	eatType_2:shop	near_1:The	near_2:Portland	near_3:Arms
+familyFriendly:yes	eatType_1:coffee	eatType_2:shop	food:Chinese	near_1:The	near_2:Portland	near_3:Arms	name_1:The	name_2:Cricketers	customer_rating:average
+familyFriendly:yes	food:Chinese	near_1:The	near_2:Portland	near_3:Arms	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Cricketers	customer_rating:high
+food:Chinese	customer_rating:low	near_1:The	near_2:Portland	near_3:Arms	name_1:The	name_2:Cricketers	eatType_1:coffee	eatType_2:shop	familyFriendly:no
+eatType_1:coffee	eatType_2:shop	familyFriendly:yes	food:Chinese	name_1:The	name_2:Cricketers	customer_rating:low	near_1:The	near_2:Portland	near_3:Arms
+food:English	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	name_1:The	name_2:Cricketers	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:The	near_2:Portland	near_3:Arms
+familyFriendly:yes	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English	near_1:The	near_2:Portland	near_3:Arms	name_1:The	name_2:Cricketers	eatType_1:coffee	eatType_2:shop
+near_1:The	near_2:Portland	near_3:Arms	name_1:The	name_2:Cricketers	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	food:English	familyFriendly:no
+near_1:The	near_2:Portland	near_3:Arms	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	food:English	name_1:The	name_2:Cricketers
+near_1:The	near_2:Portland	near_3:Arms	food:English	familyFriendly:no	customer_rating:average	name_1:The	name_2:Cricketers	eatType_1:coffee	eatType_2:shop
+familyFriendly:yes	food:English	near_1:The	near_2:Portland	near_3:Arms	eatType_1:coffee	eatType_2:shop	customer_rating:average	name_1:The	name_2:Cricketers
+food:English	customer_rating:high	name_1:The	name_2:Cricketers	eatType_1:coffee	eatType_2:shop	near_1:The	near_2:Portland	near_3:Arms	familyFriendly:yes
+familyFriendly:no	customer_rating:low	near_1:The	near_2:Portland	near_3:Arms	food:English	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Cricketers
+near_1:The	near_2:Portland	near_3:Arms	customer_rating:low	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	food:English	name_1:The	name_2:Cricketers
+near_1:Café	near_2:Brazil	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Eagle	area:riverside	familyFriendly:yes
+near_1:Café	near_2:Brazil	name_1:The	name_2:Eagle	familyFriendly:yes	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside
+familyFriendly:no	area_1:city	area_2:centre	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Eagle	near_1:Café	near_2:Brazil
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes	area_1:city	area_2:centre	name_1:The	name_2:Eagle	near_1:Café	near_2:Brazil
+near_1:Café	near_2:Brazil	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	familyFriendly:no	name_1:The	name_2:Eagle
+familyFriendly:yes	near_1:Café	near_2:Brazil	area:riverside	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Eagle
+near_1:Café	near_2:Brazil	area_1:city	area_2:centre	customer_rating:average	name_1:The	name_2:Eagle	familyFriendly:no
+area_1:city	area_2:centre	name_1:The	name_2:Eagle	customer_rating:average	near_1:Café	near_2:Brazil	familyFriendly:yes
+near_1:Café	near_2:Brazil	area:riverside	name_1:The	name_2:Eagle	customer_rating:average	familyFriendly:no
+near_1:Café	near_2:Brazil	name_1:The	name_2:Eagle	familyFriendly:yes	customer_rating:average	area:riverside
+familyFriendly:yes	area:riverside	name_1:The	name_2:Eagle	customer_rating:high	near_1:Café	near_2:Brazil
+name_1:The	name_2:Eagle	near_1:Café	near_2:Brazil	customer_rating:low	familyFriendly:no	area_1:city	area_2:centre
+near_1:Café	near_2:Brazil	name_1:The	name_2:Eagle	familyFriendly:yes	area_1:city	area_2:centre	customer_rating:low
+area:riverside	familyFriendly:no	name_1:The	name_2:Eagle	customer_rating:low	near_1:Café	near_2:Brazil
+area:riverside	familyFriendly:yes	name_1:The	name_2:Eagle	near_1:Café	near_2:Brazil	customer_rating:low
+eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Eagle	food:Chinese	priceRange:£20-25	customer_rating:high	near_1:Burger	near_2:King	area_1:city	area_2:centre	familyFriendly:no
+name_1:The	name_2:Eagle	familyFriendly:yes	area_1:city	area_2:centre	customer_rating:high	eatType_1:coffee	eatType_2:shop	food:Chinese	priceRange:£20-25	near_1:Burger	near_2:King
+familyFriendly:no	area:riverside	name_1:The	name_2:Eagle	eatType_1:coffee	eatType_2:shop	food:Chinese	near_1:Burger	near_2:King	priceRange:£20-25	customer_rating:high
+near_1:Burger	near_2:King	priceRange:£20-25	area:riverside	name_1:The	name_2:Eagle	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	food:Chinese	customer_rating:high
+near_1:Burger	near_2:King	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Eagle	familyFriendly:no	priceRange:cheap	food:Chinese
+food:Chinese	eatType_1:coffee	eatType_2:shop	priceRange:cheap	area_1:city	area_2:centre	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes	near_1:Burger	near_2:King	name_1:The	name_2:Eagle
+familyFriendly:no	near_1:Burger	near_2:King	name_1:The	name_2:Eagle	priceRange:cheap	food:Chinese	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	area:riverside
+food:Chinese	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes	priceRange:cheap	near_1:Burger	near_2:King	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Eagle	area:riverside
+customer_rating:average	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	priceRange:cheap	food:Chinese	near_1:Burger	near_2:King	familyFriendly:no	name_1:The	name_2:Eagle
+near_1:Burger	near_2:King	name_1:The	name_2:Eagle	food:Chinese	priceRange:cheap	customer_rating:average	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	familyFriendly:yes
+area:riverside	priceRange:cheap	eatType_1:coffee	eatType_2:shop	food:Chinese	familyFriendly:no	near_1:Burger	near_2:King	name_1:The	name_2:Eagle	customer_rating:average
+food:Chinese	customer_rating:average	priceRange:cheap	name_1:The	name_2:Eagle	familyFriendly:yes	area:riverside	eatType_1:coffee	eatType_2:shop	near_1:Burger	near_2:King
+near_1:Burger	near_2:King	name_1:The	name_2:Eagle	area_1:city	area_2:centre	familyFriendly:no	priceRange:high	eatType_1:coffee	eatType_2:shop	food:Chinese	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+near_1:Burger	near_2:King	name_1:The	name_2:Eagle	area_1:city	area_2:centre	priceRange:high	food:Chinese	familyFriendly:yes	eatType_1:coffee	eatType_2:shop	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+name_1:The	name_2:Eagle	area:riverside	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:high	near_1:Burger	near_2:King	eatType_1:coffee	eatType_2:shop	food:Chinese	familyFriendly:no
+near_1:Burger	near_2:King	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Eagle	eatType_1:coffee	eatType_2:shop	area:riverside	familyFriendly:yes	priceRange:high	food:Chinese
+eatType_1:coffee	eatType_2:shop	priceRange:high	food:Chinese	familyFriendly:no	near_1:Burger	near_2:King	area_1:city	area_2:centre	name_1:The	name_2:Eagle	customer_rating:average
+near_1:Burger	near_2:King	familyFriendly:yes	area_1:city	area_2:centre	name_1:The	name_2:Eagle	priceRange:high	customer_rating:average	food:Chinese	eatType_1:coffee	eatType_2:shop
+customer_rating:average	priceRange:high	eatType_1:coffee	eatType_2:shop	familyFriendly:no	near_1:Burger	near_2:King	food:Chinese	area:riverside	name_1:The	name_2:Eagle
+customer_rating:average	familyFriendly:yes	area:riverside	name_1:The	name_2:Eagle	food:Chinese	priceRange:high	eatType_1:coffee	eatType_2:shop	near_1:Burger	near_2:King
+name_1:The	name_2:Eagle	near_1:Burger	near_2:King	eatType_1:coffee	eatType_2:shop	food:Chinese	familyFriendly:no	priceRange_1:less	priceRange_2:than	priceRange_3:£20	area_1:city	area_2:centre	customer_rating:low
+customer_rating:low	eatType_1:coffee	eatType_2:shop	food:Chinese	area_1:city	area_2:centre	name_1:The	name_2:Eagle	near_1:Burger	near_2:King	familyFriendly:yes	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+near_1:Burger	near_2:King	food:Chinese	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Eagle	area:riverside	customer_rating:low	familyFriendly:no	eatType_1:coffee	eatType_2:shop
+name_1:The	name_2:Eagle	eatType_1:coffee	eatType_2:shop	customer_rating:low	area:riverside	familyFriendly:yes	food:Chinese	near_1:Burger	near_2:King	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+eatType_1:coffee	eatType_2:shop	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Eagle	priceRange:moderate	area_1:city	area_2:centre	food:Chinese	near_1:Burger	near_2:King	familyFriendly:no
+near_1:Burger	near_2:King	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate	familyFriendly:yes	food:Chinese	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	name_1:The	name_2:Eagle
+name_1:The	name_2:Eagle	familyFriendly:no	eatType_1:coffee	eatType_2:shop	area:riverside	priceRange:moderate	near_1:Burger	near_2:King	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Chinese
+near_1:Burger	near_2:King	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Eagle	food:Chinese	area:riverside	priceRange:moderate	eatType_1:coffee	eatType_2:shop	familyFriendly:yes
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Burger	near_2:King	eatType_1:coffee	eatType_2:shop	food:Chinese	name_1:The	name_2:Eagle	area_1:city	area_2:centre	priceRange:moderate	familyFriendly:no
+eatType_1:coffee	eatType_2:shop	food:Chinese	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Eagle	familyFriendly:yes	priceRange:moderate	near_1:Burger	near_2:King	area_1:city	area_2:centre
+near_1:Burger	near_2:King	familyFriendly:no	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Chinese	area:riverside	priceRange:moderate	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Eagle
+food:Chinese	area:riverside	familyFriendly:yes	name_1:The	name_2:Eagle	near_1:Burger	near_2:King	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	priceRange:moderate
+familyFriendly:no	eatType_1:coffee	eatType_2:shop	customer_rating:high	food:Chinese	name_1:The	name_2:Eagle	priceRange_1:more	priceRange_2:than	priceRange_3:£30	area_1:city	area_2:centre	near_1:Burger	near_2:King
+near_1:Burger	near_2:King	food:Chinese	name_1:The	name_2:Eagle	area_1:city	area_2:centre	priceRange_1:more	priceRange_2:than	priceRange_3:£30	customer_rating:high	familyFriendly:yes	eatType_1:coffee	eatType_2:shop
+eatType_1:coffee	eatType_2:shop	area:riverside	food:Chinese	familyFriendly:no	near_1:Burger	near_2:King	priceRange_1:more	priceRange_2:than	priceRange_3:£30	customer_rating:high	name_1:The	name_2:Eagle
+eatType_1:coffee	eatType_2:shop	near_1:Burger	near_2:King	area:riverside	customer_rating:high	priceRange_1:more	priceRange_2:than	priceRange_3:£30	familyFriendly:yes	name_1:The	name_2:Eagle	food:Chinese
+priceRange:£20-25	familyFriendly:no	name_1:The	name_2:Eagle	area_1:city	area_2:centre	customer_rating:high	food:English	near_1:Burger	near_2:King	eatType_1:coffee	eatType_2:shop
+priceRange:£20-25	name_1:The	name_2:Eagle	customer_rating:high	familyFriendly:yes	near_1:Burger	near_2:King	eatType_1:coffee	eatType_2:shop	food:English	area_1:city	area_2:centre
+eatType_1:coffee	eatType_2:shop	customer_rating:high	priceRange:£20-25	familyFriendly:no	near_1:Burger	near_2:King	name_1:The	name_2:Eagle	food:English	area:riverside
+near_1:Burger	near_2:King	customer_rating:high	eatType_1:coffee	eatType_2:shop	food:English	name_1:The	name_2:Eagle	priceRange:£20-25	familyFriendly:yes	area:riverside
+area_1:city	area_2:centre	familyFriendly:no	food:English	eatType_1:coffee	eatType_2:shop	near_1:Burger	near_2:King	name_1:The	name_2:Eagle	priceRange:cheap	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+familyFriendly:yes	name_1:The	name_2:Eagle	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:cheap	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	food:English	near_1:Burger	near_2:King
+name_1:The	name_2:Eagle	area:riverside	eatType_1:coffee	eatType_2:shop	food:English	priceRange:cheap	familyFriendly:no	near_1:Burger	near_2:King	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+eatType_1:coffee	eatType_2:shop	food:English	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Burger	near_2:King	area:riverside	priceRange:cheap	name_1:The	name_2:Eagle	familyFriendly:yes
+area_1:city	area_2:centre	customer_rating:average	food:English	familyFriendly:no	near_1:Burger	near_2:King	name_1:The	name_2:Eagle	priceRange:cheap	eatType_1:coffee	eatType_2:shop
+familyFriendly:yes	near_1:Burger	near_2:King	name_1:The	name_2:Eagle	area_1:city	area_2:centre	food:English	priceRange:cheap	customer_rating:average	eatType_1:coffee	eatType_2:shop
+eatType_1:coffee	eatType_2:shop	familyFriendly:no	near_1:Burger	near_2:King	food:English	customer_rating:average	name_1:The	name_2:Eagle	priceRange:cheap	area:riverside
+area:riverside	priceRange:cheap	food:English	familyFriendly:yes	customer_rating:average	eatType_1:coffee	eatType_2:shop	near_1:Burger	near_2:King	name_1:The	name_2:Eagle
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Eagle	area_1:city	area_2:centre	priceRange:high	familyFriendly:no	near_1:Burger	near_2:King
+food:English	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	priceRange:high	name_1:The	name_2:Eagle	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Burger	near_2:King	familyFriendly:yes
+near_1:Burger	near_2:King	name_1:The	name_2:Eagle	food:English	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	eatType_1:coffee	eatType_2:shop	familyFriendly:no	priceRange:high
+food:English	priceRange:high	area:riverside	familyFriendly:yes	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Eagle	eatType_1:coffee	eatType_2:shop	near_1:Burger	near_2:King
+customer_rating:average	area_1:city	area_2:centre	food:English	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Eagle	priceRange:high	near_1:Burger	near_2:King	familyFriendly:no
+eatType_1:coffee	eatType_2:shop	near_1:Burger	near_2:King	familyFriendly:yes	customer_rating:average	name_1:The	name_2:Eagle	food:English	priceRange:high	area_1:city	area_2:centre
+area:riverside	familyFriendly:no	customer_rating:average	near_1:Burger	near_2:King	priceRange:high	food:English	name_1:The	name_2:Eagle	eatType_1:coffee	eatType_2:shop
+area:riverside	eatType_1:coffee	eatType_2:shop	near_1:Burger	near_2:King	name_1:The	name_2:Eagle	familyFriendly:yes	priceRange:high	food:English	customer_rating:average
+food:English	priceRange_1:less	priceRange_2:than	priceRange_3:£20	near_1:Burger	near_2:King	area_1:city	area_2:centre	customer_rating:low	eatType_1:coffee	eatType_2:shop	familyFriendly:no	name_1:The	name_2:Eagle
+area_1:city	area_2:centre	near_1:Burger	near_2:King	priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Eagle	customer_rating:low	food:English	familyFriendly:yes
+food:English	near_1:Burger	near_2:King	eatType_1:coffee	eatType_2:shop	area:riverside	customer_rating:low	familyFriendly:no	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Eagle
+eatType_1:coffee	eatType_2:shop	customer_rating:low	name_1:The	name_2:Eagle	near_1:Burger	near_2:King	food:English	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:yes	area:riverside
+priceRange:moderate	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:no	name_1:The	name_2:Eagle	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	near_1:Burger	near_2:King	food:English
+area_1:city	area_2:centre	name_1:The	name_2:Eagle	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	priceRange:moderate	near_1:Burger	near_2:King
+name_1:The	name_2:Eagle	food:English	priceRange:moderate	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Burger	near_2:King	familyFriendly:no	eatType_1:coffee	eatType_2:shop	area:riverside
+familyFriendly:yes	food:English	area:riverside	near_1:Burger	near_2:King	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Eagle
+food:English	eatType_1:coffee	eatType_2:shop	near_1:Burger	near_2:King	area_1:city	area_2:centre	familyFriendly:no	name_1:The	name_2:Eagle	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate
+familyFriendly:yes	food:English	near_1:Burger	near_2:King	area_1:city	area_2:centre	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Eagle	eatType_1:coffee	eatType_2:shop	priceRange:moderate
+eatType_1:coffee	eatType_2:shop	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Eagle	area:riverside	familyFriendly:no	priceRange:moderate	near_1:Burger	near_2:King	food:English
+eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Eagle	familyFriendly:yes	near_1:Burger	near_2:King	area:riverside	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate	food:English
+familyFriendly:no	near_1:Burger	near_2:King	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	food:English	priceRange_1:more	priceRange_2:than	priceRange_3:£30	name_1:The	name_2:Eagle	customer_rating:high
+eatType_1:coffee	eatType_2:shop	familyFriendly:yes	food:English	customer_rating:high	name_1:The	name_2:Eagle	priceRange_1:more	priceRange_2:than	priceRange_3:£30	area_1:city	area_2:centre	near_1:Burger	near_2:King
+area:riverside	name_1:The	name_2:Eagle	customer_rating:high	near_1:Burger	near_2:King	eatType_1:coffee	eatType_2:shop	food:English	priceRange_1:more	priceRange_2:than	priceRange_3:£30	familyFriendly:no
+name_1:The	name_2:Golden	name_3:Palace	customer_rating:high	food:Chinese	priceRange:£20-25	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop
+food:Chinese	name_1:The	name_2:Golden	name_3:Palace	customer_rating:high	priceRange:£20-25	area:riverside	eatType_1:coffee	eatType_2:shop
+priceRange:cheap	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Golden	name_3:Palace	food:Chinese	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop
+area:riverside	priceRange:cheap	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Golden	name_3:Palace	eatType_1:coffee	eatType_2:shop	food:Chinese
+area_1:city	area_2:centre	priceRange:cheap	name_1:The	name_2:Golden	name_3:Palace	customer_rating:average	eatType_1:coffee	eatType_2:shop	food:Chinese
+customer_rating:average	priceRange:cheap	eatType_1:coffee	eatType_2:shop	food:Chinese	area:riverside	name_1:The	name_2:Golden	name_3:Palace
+food:Chinese	area_1:city	area_2:centre	name_1:The	name_2:Golden	name_3:Palace	priceRange:high	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop
+eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Golden	name_3:Palace	priceRange:high	area:riverside	food:Chinese	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+name_1:The	name_2:Golden	name_3:Palace	customer_rating:average	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	food:Chinese	priceRange:high
+name_1:The	name_2:Golden	name_3:Palace	food:Chinese	area:riverside	eatType_1:coffee	eatType_2:shop	priceRange:high	customer_rating:average
+area_1:city	area_2:centre	name_1:The	name_2:Golden	name_3:Palace	eatType_1:coffee	eatType_2:shop	customer_rating:low	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:Chinese
+name_1:The	name_2:Golden	name_3:Palace	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:Chinese	customer_rating:low	eatType_1:coffee	eatType_2:shop	area:riverside
+priceRange:moderate	food:Chinese	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Golden	name_3:Palace	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+food:Chinese	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate	area:riverside	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Golden	name_3:Palace
+eatType_1:coffee	eatType_2:shop	priceRange:moderate	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area_1:city	area_2:centre	name_1:The	name_2:Golden	name_3:Palace	food:Chinese
+area:riverside	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Golden	name_3:Palace	food:Chinese	priceRange:moderate
+eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Golden	name_3:Palace	priceRange_1:more	priceRange_2:than	priceRange_3:£30	area_1:city	area_2:centre	customer_rating:high	food:Chinese
+name_1:The	name_2:Golden	name_3:Palace	eatType_1:coffee	eatType_2:shop	customer_rating:high	food:Chinese	area:riverside	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+eatType_1:coffee	eatType_2:shop	priceRange:£20-25	customer_rating:high	food:English	name_1:The	name_2:Golden	name_3:Palace	area_1:city	area_2:centre
+eatType_1:coffee	eatType_2:shop	customer_rating:high	food:English	name_1:The	name_2:Golden	name_3:Palace	priceRange:£20-25	area:riverside
+priceRange:cheap	name_1:The	name_2:Golden	name_3:Palace	food:English	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+food:English	eatType_1:coffee	eatType_2:shop	area:riverside	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Golden	name_3:Palace	priceRange:cheap
+customer_rating:average	priceRange:cheap	area_1:city	area_2:centre	food:English	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Golden	name_3:Palace
+priceRange:cheap	customer_rating:average	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Golden	name_3:Palace	food:English	area:riverside
+area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Golden	name_3:Palace	food:English	priceRange:high	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+priceRange:high	name_1:The	name_2:Golden	name_3:Palace	area:riverside	food:English	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop
+food:English	name_1:The	name_2:Golden	name_3:Palace	area_1:city	area_2:centre	priceRange:high	eatType_1:coffee	eatType_2:shop	customer_rating:average
+priceRange:high	food:English	eatType_1:coffee	eatType_2:shop	area:riverside	name_1:The	name_2:Golden	name_3:Palace	customer_rating:average
+customer_rating:low	area_1:city	area_2:centre	food:English	name_1:The	name_2:Golden	name_3:Palace	priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType_1:coffee	eatType_2:shop
+area:riverside	eatType_1:coffee	eatType_2:shop	food:English	name_1:The	name_2:Golden	name_3:Palace	customer_rating:low	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+priceRange:moderate	name_1:The	name_2:Golden	name_3:Palace	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre
+name_1:The	name_2:Golden	name_3:Palace	food:English	priceRange:moderate	eatType_1:coffee	eatType_2:shop	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Golden	name_3:Palace	area_1:city	area_2:centre	priceRange:moderate
+priceRange:moderate	name_1:The	name_2:Golden	name_3:Palace	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	eatType_1:coffee	eatType_2:shop	food:English
+priceRange_1:more	priceRange_2:than	priceRange_3:£30	food:English	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Golden	name_3:Palace	customer_rating:high
+food:English	area:riverside	name_1:The	name_2:Golden	name_3:Palace	priceRange_1:more	priceRange_2:than	priceRange_3:£30	customer_rating:high	eatType_1:coffee	eatType_2:shop
+priceRange:£20-25	name_1:The	name_2:Mill	area:riverside	eatType_1:coffee	eatType_2:shop	near_1:The	near_2:Sorrento	food:Chinese
+eatType_1:coffee	eatType_2:shop	priceRange:cheap	area:riverside	near_1:The	near_2:Sorrento	name_1:The	name_2:Mill	food:Chinese
+food:Chinese	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	priceRange:high	name_1:The	name_2:Mill	near_1:The	near_2:Sorrento
+eatType_1:coffee	eatType_2:shop	food:Chinese	name_1:The	name_2:Mill	near_1:The	near_2:Sorrento	area:riverside	priceRange:high
+eatType_1:coffee	eatType_2:shop	near_1:The	near_2:Sorrento	food:Chinese	area_1:city	area_2:centre	name_1:The	name_2:Mill	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+area:riverside	eatType_1:coffee	eatType_2:shop	near_1:The	near_2:Sorrento	name_1:The	name_2:Mill	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:Chinese
+area_1:city	area_2:centre	priceRange:moderate	name_1:The	name_2:Mill	food:Chinese	near_1:The	near_2:Sorrento	eatType_1:coffee	eatType_2:shop
+food:Chinese	area:riverside	priceRange:moderate	eatType_1:coffee	eatType_2:shop	near_1:The	near_2:Sorrento	name_1:The	name_2:Mill
+priceRange_1:more	priceRange_2:than	priceRange_3:£30	eatType_1:coffee	eatType_2:shop	food:Chinese	near_1:The	near_2:Sorrento	name_1:The	name_2:Mill	area:riverside
+near_1:The	near_2:Sorrento	priceRange:£20-25	name_1:The	name_2:Mill	food:English	area:riverside	eatType_1:coffee	eatType_2:shop
+priceRange:cheap	area:riverside	name_1:The	name_2:Mill	near_1:The	near_2:Sorrento	eatType_1:coffee	eatType_2:shop	food:English
+area_1:city	area_2:centre	food:English	priceRange:high	name_1:The	name_2:Mill	eatType_1:coffee	eatType_2:shop	near_1:The	near_2:Sorrento
+name_1:The	name_2:Mill	eatType_1:coffee	eatType_2:shop	area:riverside	near_1:The	near_2:Sorrento	food:English	priceRange:high
+eatType_1:coffee	eatType_2:shop	food:English	priceRange_1:less	priceRange_2:than	priceRange_3:£20	near_1:The	near_2:Sorrento	area_1:city	area_2:centre	name_1:The	name_2:Mill
+priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Mill	eatType_1:coffee	eatType_2:shop	area:riverside	near_1:The	near_2:Sorrento	food:English
+area_1:city	area_2:centre	name_1:The	name_2:Mill	food:English	near_1:The	near_2:Sorrento	priceRange:moderate	eatType_1:coffee	eatType_2:shop
+area:riverside	near_1:The	near_2:Sorrento	priceRange:moderate	food:English	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Mill
+priceRange_1:more	priceRange_2:than	priceRange_3:£30	near_1:The	near_2:Sorrento	area:riverside	name_1:The	name_2:Mill	food:English	eatType_1:coffee	eatType_2:shop
+area:riverside	name_1:The	name_2:Phoenix	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	name_1:The	name_2:Phoenix
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Phoenix	area_1:city	area_2:centre
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Phoenix	area:riverside
+customer_rating:average	name_1:The	name_2:Phoenix	area_1:city	area_2:centre
+name_1:The	name_2:Phoenix	area:riverside	customer_rating:average
+customer_rating:high	name_1:The	name_2:Phoenix	area:riverside
+area_1:city	area_2:centre	customer_rating:low	name_1:The	name_2:Phoenix
+customer_rating:low	name_1:The	name_2:Phoenix	area:riverside
+familyFriendly:yes	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	name_1:The	name_2:Punter
+familyFriendly:yes	area:riverside	name_1:The	name_2:Punter	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area_1:city	area_2:centre	familyFriendly:no	name_1:The	name_2:Punter
+name_1:The	name_2:Punter	area_1:city	area_2:centre	familyFriendly:yes	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+area:riverside	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:no	name_1:The	name_2:Punter
+area:riverside	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes	name_1:The	name_2:Punter
+name_1:The	name_2:Punter	area_1:city	area_2:centre	familyFriendly:no	customer_rating:average
+customer_rating:average	name_1:The	name_2:Punter	familyFriendly:yes	area_1:city	area_2:centre
+name_1:The	name_2:Punter	customer_rating:average	area:riverside	familyFriendly:no
+area:riverside	familyFriendly:yes	name_1:The	name_2:Punter	customer_rating:average
+familyFriendly:yes	area:riverside	customer_rating:high	name_1:The	name_2:Punter
+name_1:The	name_2:Punter	area_1:city	area_2:centre	customer_rating:low	familyFriendly:no
+area_1:city	area_2:centre	customer_rating:low	name_1:The	name_2:Punter	familyFriendly:yes
+familyFriendly:no	customer_rating:low	name_1:The	name_2:Punter	area:riverside
+name_1:The	name_2:Punter	familyFriendly:yes	customer_rating:low	area:riverside
+name_1:The	name_2:Punter	familyFriendly:no	eatType_1:coffee	eatType_2:shop	near_1:Café	near_2:Sicilia	customer_rating:high	food:Chinese	priceRange:£20-25
+name_1:The	name_2:Punter	eatType_1:coffee	eatType_2:shop	priceRange:£20-25	familyFriendly:yes	near_1:Café	near_2:Sicilia	food:Chinese	customer_rating:high
+name_1:The	name_2:Punter	familyFriendly:no	priceRange:cheap	near_1:Café	near_2:Sicilia	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	food:Chinese
+near_1:Café	near_2:Sicilia	eatType_1:coffee	eatType_2:shop	food:Chinese	name_1:The	name_2:Punter	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes	priceRange:cheap
+eatType_1:coffee	eatType_2:shop	priceRange:cheap	name_1:The	name_2:Punter	familyFriendly:no	food:Chinese	customer_rating:average	near_1:Café	near_2:Sicilia
+near_1:Café	near_2:Sicilia	eatType_1:coffee	eatType_2:shop	priceRange:cheap	food:Chinese	customer_rating:average	name_1:The	name_2:Punter	familyFriendly:yes
+familyFriendly:no	eatType_1:coffee	eatType_2:shop	near_1:Café	near_2:Sicilia	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Chinese	priceRange:high	name_1:The	name_2:Punter
+familyFriendly:yes	priceRange:high	near_1:Café	near_2:Sicilia	eatType_1:coffee	eatType_2:shop	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Punter	food:Chinese
+eatType_1:coffee	eatType_2:shop	customer_rating:average	familyFriendly:no	name_1:The	name_2:Punter	food:Chinese	priceRange:high	near_1:Café	near_2:Sicilia
+eatType_1:coffee	eatType_2:shop	near_1:Café	near_2:Sicilia	food:Chinese	name_1:The	name_2:Punter	familyFriendly:yes	customer_rating:average	priceRange:high
+customer_rating:low	food:Chinese	name_1:The	name_2:Punter	eatType_1:coffee	eatType_2:shop	near_1:Café	near_2:Sicilia	familyFriendly:no	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+familyFriendly:yes	name_1:The	name_2:Punter	near_1:Café	near_2:Sicilia	eatType_1:coffee	eatType_2:shop	food:Chinese	customer_rating:low	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+priceRange:moderate	near_1:Café	near_2:Sicilia	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	food:Chinese	name_1:The	name_2:Punter	familyFriendly:no
+food:Chinese	name_1:The	name_2:Punter	familyFriendly:yes	priceRange:moderate	near_1:Café	near_2:Sicilia	eatType_1:coffee	eatType_2:shop	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+near_1:Café	near_2:Sicilia	familyFriendly:no	name_1:The	name_2:Punter	eatType_1:coffee	eatType_2:shop	food:Chinese	priceRange:moderate	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+priceRange:moderate	food:Chinese	name_1:The	name_2:Punter	familyFriendly:yes	eatType_1:coffee	eatType_2:shop	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Café	near_2:Sicilia
+familyFriendly:no	priceRange_1:more	priceRange_2:than	priceRange_3:£30	name_1:The	name_2:Punter	eatType_1:coffee	eatType_2:shop	customer_rating:high	food:Chinese	near_1:Café	near_2:Sicilia
+near_1:Café	near_2:Sicilia	name_1:The	name_2:Punter	priceRange_1:more	priceRange_2:than	priceRange_3:£30	familyFriendly:yes	food:Chinese	customer_rating:high	eatType_1:coffee	eatType_2:shop
+near_1:Café	near_2:Sicilia	customer_rating:high	familyFriendly:no	priceRange:£20-25	eatType_1:coffee	eatType_2:shop	food:English	name_1:The	name_2:Punter
+priceRange:£20-25	customer_rating:high	name_1:The	name_2:Punter	food:English	near_1:Café	near_2:Sicilia	eatType_1:coffee	eatType_2:shop	familyFriendly:yes
+familyFriendly:no	name_1:The	name_2:Punter	near_1:Café	near_2:Sicilia	eatType_1:coffee	eatType_2:shop	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:cheap	food:English
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes	food:English	name_1:The	name_2:Punter	priceRange:cheap	near_1:Café	near_2:Sicilia	eatType_1:coffee	eatType_2:shop
+priceRange:cheap	eatType_1:coffee	eatType_2:shop	near_1:Café	near_2:Sicilia	customer_rating:average	name_1:The	name_2:Punter	food:English	familyFriendly:no
+eatType_1:coffee	eatType_2:shop	near_1:Café	near_2:Sicilia	customer_rating:average	food:English	familyFriendly:yes	priceRange:cheap	name_1:The	name_2:Punter
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Café	near_2:Sicilia	food:English	priceRange:high	familyFriendly:no	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Punter
+familyFriendly:yes	food:English	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:high	name_1:The	name_2:Punter	eatType_1:coffee	eatType_2:shop	near_1:Café	near_2:Sicilia
+eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Punter	near_1:Café	near_2:Sicilia	priceRange:high	familyFriendly:no	customer_rating:average	food:English
+familyFriendly:yes	customer_rating:average	priceRange:high	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Punter	near_1:Café	near_2:Sicilia	food:English
+near_1:Café	near_2:Sicilia	food:English	familyFriendly:no	customer_rating:low	name_1:The	name_2:Punter	eatType_1:coffee	eatType_2:shop	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+food:English	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:yes	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Punter	customer_rating:low	near_1:Café	near_2:Sicilia
+food:English	eatType_1:coffee	eatType_2:shop	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:no	name_1:The	name_2:Punter	priceRange:moderate	near_1:Café	near_2:Sicilia
+food:English	priceRange:moderate	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes	eatType_1:coffee	eatType_2:shop	near_1:Café	near_2:Sicilia	name_1:The	name_2:Punter
+eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Punter	priceRange:moderate	familyFriendly:no	near_1:Café	near_2:Sicilia	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English	familyFriendly:yes	eatType_1:coffee	eatType_2:shop	priceRange:moderate	name_1:The	name_2:Punter	near_1:Café	near_2:Sicilia
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Wrestlers	familyFriendly:yes
+near_1:The	near_2:Sorrento	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Wrestlers	familyFriendly:yes
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Wrestlers	familyFriendly:yes
+familyFriendly:yes	near_1:The	near_2:Sorrento	name_1:The	name_2:Wrestlers	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+familyFriendly:no	name_1:The	name_2:Wrestlers	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+name_1:The	name_2:Wrestlers	familyFriendly:no	near_1:The	near_2:Sorrento	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+familyFriendly:yes	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Wrestlers
+name_1:The	name_2:Wrestlers	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes	near_1:The	near_2:Sorrento
+name_1:The	name_2:Wrestlers	customer_rating:average	familyFriendly:no
+near_1:The	near_2:Sorrento	name_1:The	name_2:Wrestlers	customer_rating:average	familyFriendly:no
+familyFriendly:yes	customer_rating:average	name_1:The	name_2:Wrestlers
+near_1:The	near_2:Sorrento	customer_rating:average	name_1:The	name_2:Wrestlers	familyFriendly:yes
+name_1:The	name_2:Wrestlers	familyFriendly:yes	customer_rating:high
+near_1:The	near_2:Sorrento	familyFriendly:yes	customer_rating:high	name_1:The	name_2:Wrestlers
+name_1:The	name_2:Wrestlers	familyFriendly:no	customer_rating:low
+familyFriendly:no	name_1:The	name_2:Wrestlers	customer_rating:low	near_1:The	near_2:Sorrento
+customer_rating:low	name_1:The	name_2:Wrestlers	familyFriendly:yes
+customer_rating:low	name_1:The	name_2:Wrestlers	near_1:The	near_2:Sorrento	familyFriendly:yes
+eatType_1:coffee	eatType_2:shop	familyFriendly:yes	name_1:The	name_2:Wrestlers	food:Chinese	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	priceRange:£20-25
+priceRange:cheap	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Wrestlers	area:riverside	familyFriendly:yes	food:Chinese	near_1:Raja	near_2:Indian	near_3:Cuisine
+area_1:city	area_2:centre	food:Chinese	eatType_1:coffee	eatType_2:shop	familyFriendly:no	name_1:The	name_2:Wrestlers	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:high
+priceRange:high	name_1:The	name_2:Wrestlers	familyFriendly:yes	eatType_1:coffee	eatType_2:shop	food:Chinese	near_1:Raja	near_2:Indian	near_3:Cuisine	area_1:city	area_2:centre
+area:riverside	priceRange:high	name_1:The	name_2:Wrestlers	familyFriendly:no	food:Chinese	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType_1:coffee	eatType_2:shop
+eatType_1:coffee	eatType_2:shop	near_1:Raja	near_2:Indian	near_3:Cuisine	food:Chinese	familyFriendly:yes	area:riverside	name_1:The	name_2:Wrestlers	priceRange:high
+name_1:The	name_2:Wrestlers	food:Chinese	priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType_1:coffee	eatType_2:shop	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:no	area_1:city	area_2:centre
+near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange_1:less	priceRange_2:than	priceRange_3:£20	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Wrestlers	familyFriendly:yes	food:Chinese
+eatType_1:coffee	eatType_2:shop	food:Chinese	name_1:The	name_2:Wrestlers	familyFriendly:no	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange_1:less	priceRange_2:than	priceRange_3:£20	area:riverside
+name_1:The	name_2:Wrestlers	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	food:Chinese	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+food:Chinese	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:no	priceRange:moderate	name_1:The	name_2:Wrestlers
+priceRange:moderate	food:Chinese	eatType_1:coffee	eatType_2:shop	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	area_1:city	area_2:centre	name_1:The	name_2:Wrestlers
+area:riverside	familyFriendly:no	food:Chinese	eatType_1:coffee	eatType_2:shop	priceRange:moderate	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Wrestlers
+near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Wrestlers	familyFriendly:yes	area:riverside	priceRange:moderate	eatType_1:coffee	eatType_2:shop	food:Chinese
+familyFriendly:yes	priceRange_1:more	priceRange_2:than	priceRange_3:£30	name_1:The	name_2:Wrestlers	eatType_1:coffee	eatType_2:shop	food:Chinese	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside
+priceRange:£20-25	area:riverside	familyFriendly:yes	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType_1:coffee	eatType_2:shop	food:English	name_1:The	name_2:Wrestlers
+eatType_1:coffee	eatType_2:shop	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	name_1:The	name_2:Wrestlers	priceRange:cheap	food:English	familyFriendly:yes
+name_1:The	name_2:Wrestlers	familyFriendly:no	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	near_1:Raja	near_2:Indian	near_3:Cuisine	food:English	priceRange:high
+priceRange:high	name_1:The	name_2:Wrestlers	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine	food:English	familyFriendly:yes
+near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:no	area:riverside	eatType_1:coffee	eatType_2:shop	food:English	name_1:The	name_2:Wrestlers	priceRange:high
+name_1:The	name_2:Wrestlers	near_1:Raja	near_2:Indian	near_3:Cuisine	food:English	priceRange:high	area:riverside	eatType_1:coffee	eatType_2:shop	familyFriendly:yes
+food:English	eatType_1:coffee	eatType_2:shop	familyFriendly:no	name_1:The	name_2:Wrestlers	priceRange_1:less	priceRange_2:than	priceRange_3:£20	near_1:Raja	near_2:Indian	near_3:Cuisine	area_1:city	area_2:centre
+priceRange_1:less	priceRange_2:than	priceRange_3:£20	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	food:English	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	name_1:The	name_2:Wrestlers
+familyFriendly:no	eatType_1:coffee	eatType_2:shop	food:English	area:riverside	name_1:The	name_2:Wrestlers	priceRange_1:less	priceRange_2:than	priceRange_3:£20	near_1:Raja	near_2:Indian	near_3:Cuisine
+near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:yes	name_1:The	name_2:Wrestlers	food:English	eatType_1:coffee	eatType_2:shop
+near_1:Raja	near_2:Indian	near_3:Cuisine	eatType_1:coffee	eatType_2:shop	priceRange:moderate	area_1:city	area_2:centre	food:English	familyFriendly:no	name_1:The	name_2:Wrestlers
+area_1:city	area_2:centre	familyFriendly:yes	food:English	priceRange:moderate	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Wrestlers	near_1:Raja	near_2:Indian	near_3:Cuisine
+eatType_1:coffee	eatType_2:shop	near_1:Raja	near_2:Indian	near_3:Cuisine	food:English	name_1:The	name_2:Wrestlers	area:riverside	priceRange:moderate	familyFriendly:no
+near_1:Raja	near_2:Indian	near_3:Cuisine	food:English	familyFriendly:yes	priceRange:moderate	eatType_1:coffee	eatType_2:shop	area:riverside	name_1:The	name_2:Wrestlers
+food:English	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Wrestlers	eatType_1:coffee	eatType_2:shop	area:riverside	familyFriendly:yes	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+near_1:Raja	near_2:Indian	near_3:Cuisine	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:Travellers	name_2:Rest	name_3:Beefeater	area:riverside
+near_1:Raja	near_2:Indian	near_3:Cuisine	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:Travellers	name_2:Rest	name_3:Beefeater	area:riverside
+area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:Travellers	name_2:Rest	name_3:Beefeater
+name_1:Travellers	name_2:Rest	name_3:Beefeater	near_1:Raja	near_2:Indian	near_3:Cuisine	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside
+near_1:Raja	near_2:Indian	near_3:Cuisine	area_1:city	area_2:centre	name_1:Travellers	name_2:Rest	name_3:Beefeater	customer_rating:average
+customer_rating:average	name_1:Travellers	name_2:Rest	name_3:Beefeater	area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine
+near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	customer_rating:high	name_1:Travellers	name_2:Rest	name_3:Beefeater
+name_1:Travellers	name_2:Rest	name_3:Beefeater	near_1:Raja	near_2:Indian	near_3:Cuisine	area_1:city	area_2:centre	customer_rating:low
+near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:Travellers	name_2:Rest	name_3:Beefeater	customer_rating:low	area:riverside
+priceRange:£20-25	customer_rating:high	near:Ranch	food:Chinese	name:Wildwood	eatType_1:coffee	eatType_2:shop
+near:Ranch	name:Wildwood	priceRange:cheap	eatType_1:coffee	eatType_2:shop	food:Chinese	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+customer_rating:average	priceRange:cheap	eatType_1:coffee	eatType_2:shop	near:Ranch	food:Chinese	name:Wildwood
+near:Ranch	eatType_1:coffee	eatType_2:shop	priceRange:high	name:Wildwood	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Chinese
+name:Wildwood	priceRange:high	eatType_1:coffee	eatType_2:shop	near:Ranch	food:Chinese	customer_rating:average
+eatType_1:coffee	eatType_2:shop	food:Chinese	priceRange_1:less	priceRange_2:than	priceRange_3:£20	near:Ranch	name:Wildwood	customer_rating:low
+near:Ranch	food:Chinese	name:Wildwood	eatType_1:coffee	eatType_2:shop	priceRange:moderate	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate	food:Chinese	near:Ranch	eatType_1:coffee	eatType_2:shop	name:Wildwood
+eatType_1:coffee	eatType_2:shop	food:Chinese	customer_rating:high	near:Ranch	name:Wildwood	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+food:English	eatType_1:coffee	eatType_2:shop	name:Wildwood	priceRange:£20-25	customer_rating:high	near:Ranch
+eatType_1:coffee	eatType_2:shop	priceRange:cheap	food:English	name:Wildwood	near:Ranch	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+customer_rating:average	food:English	near:Ranch	eatType_1:coffee	eatType_2:shop	priceRange:cheap	name:Wildwood
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Wildwood	eatType_1:coffee	eatType_2:shop	priceRange:high	near:Ranch	food:English
+customer_rating:average	priceRange:high	food:English	near:Ranch	eatType_1:coffee	eatType_2:shop	name:Wildwood
+food:English	priceRange_1:less	priceRange_2:than	priceRange_3:£20	customer_rating:low	near:Ranch	name:Wildwood	eatType_1:coffee	eatType_2:shop
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English	eatType_1:coffee	eatType_2:shop	name:Wildwood	priceRange:moderate	near:Ranch
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English	name:Wildwood	eatType_1:coffee	eatType_2:shop	priceRange:moderate	near:Ranch

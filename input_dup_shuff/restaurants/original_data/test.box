@@ -1,0 +1,630 @@
+name_1:Blue	name_2:Spice	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop
+area:riverside	eatType_1:coffee	eatType_2:shop	name_1:Blue	name_2:Spice
+name_1:Blue	name_2:Spice	near_1:Crowne	near_2:Plaza	near_3:Hotel	eatType_1:coffee	eatType_2:shop	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+name_1:Blue	name_2:Spice	customer_rating:average	eatType_1:coffee	eatType_2:shop	near_1:Burger	near_2:King
+near_1:Crowne	near_2:Plaza	near_3:Hotel	name_1:Blue	name_2:Spice	eatType_1:coffee	eatType_2:shop	customer_rating:average
+area_1:city	area_2:centre	eatType:pub	name_1:Blue	name_2:Spice
+name_1:Blue	name_2:Spice	area:riverside	eatType:pub
+eatType:pub	near_1:Crowne	near_2:Plaza	near_3:Hotel	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:Blue	name_2:Spice
+eatType:pub	near_1:Burger	near_2:King	customer_rating:average	name_1:Blue	name_2:Spice
+near_1:Crowne	near_2:Plaza	near_3:Hotel	eatType:pub	name_1:Blue	name_2:Spice	customer_rating:average
+food:Chinese	near_1:Rainbow	near_2:Vegetarian	near_3:Café	eatType:pub	familyFriendly:no	area_1:city	area_2:centre	name_1:Blue	name_2:Spice
+near_1:Rainbow	near_2:Vegetarian	near_3:Café	food:Chinese	familyFriendly:yes	name_1:Blue	name_2:Spice	eatType:pub	area_1:city	area_2:centre
+area:riverside	name_1:Blue	name_2:Spice	eatType:pub	food:Chinese	familyFriendly:no	near_1:Rainbow	near_2:Vegetarian	near_3:Café
+name_1:Blue	name_2:Spice	near_1:Rainbow	near_2:Vegetarian	near_3:Café	food:Chinese	area:riverside	eatType:pub	familyFriendly:yes
+eatType:pub	near_1:Rainbow	near_2:Vegetarian	near_3:Café	area_1:city	area_2:centre	name_1:Blue	name_2:Spice	familyFriendly:no	food:English
+familyFriendly:yes	area_1:city	area_2:centre	name_1:Blue	name_2:Spice	food:English	near_1:Rainbow	near_2:Vegetarian	near_3:Café	eatType:pub
+eatType:pub	food:English	area:riverside	name_1:Blue	name_2:Spice	familyFriendly:no	near_1:Rainbow	near_2:Vegetarian	near_3:Café
+name_1:Blue	name_2:Spice	near_1:Rainbow	near_2:Vegetarian	near_3:Café	familyFriendly:yes	area:riverside	food:English	eatType:pub
+food:Chinese	familyFriendly:no	area_1:city	area_2:centre	name_1:Blue	name_2:Spice	near_1:Rainbow	near_2:Vegetarian	near_3:Café	eatType:restaurant
+area_1:city	area_2:centre	name_1:Blue	name_2:Spice	near_1:Rainbow	near_2:Vegetarian	near_3:Café	food:Chinese	eatType:restaurant	familyFriendly:yes
+eatType:restaurant	area:riverside	near_1:Rainbow	near_2:Vegetarian	near_3:Café	name_1:Blue	name_2:Spice	familyFriendly:no	food:Chinese
+near_1:Rainbow	near_2:Vegetarian	near_3:Café	familyFriendly:yes	eatType:restaurant	area:riverside	food:Chinese	name_1:Blue	name_2:Spice
+eatType:restaurant	name_1:Blue	name_2:Spice	food:English	familyFriendly:no	near_1:Rainbow	near_2:Vegetarian	near_3:Café	area_1:city	area_2:centre
+near_1:Rainbow	near_2:Vegetarian	near_3:Café	name_1:Blue	name_2:Spice	food:English	eatType:restaurant	area_1:city	area_2:centre	familyFriendly:yes
+familyFriendly:no	area:riverside	near_1:Rainbow	near_2:Vegetarian	near_3:Café	name_1:Blue	name_2:Spice	eatType:restaurant	food:English
+familyFriendly:yes	near_1:Rainbow	near_2:Vegetarian	near_3:Café	eatType:restaurant	area:riverside	food:English	name_1:Blue	name_2:Spice
+eatType_1:coffee	eatType_2:shop	near_1:All	near_2:Bar	near_3:One	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Clowns
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Crowne	near_2:Plaza	near_3:Hotel	name:Clowns	eatType_1:coffee	eatType_2:shop
+name:Clowns	eatType_1:coffee	eatType_2:shop	near_1:The	near_2:Sorrento
+near_1:All	near_2:Bar	near_3:One	eatType:pub	name:Clowns	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+near_1:Crowne	near_2:Plaza	near_3:Hotel	name:Clowns	eatType:pub	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+eatType:pub	near_1:The	near_2:Sorrento	name:Clowns
+customer_rating:high	eatType_1:coffee	eatType_2:shop	name:Cocum	near_1:Burger	near_2:King
+name:Cocum	eatType_1:coffee	eatType_2:shop	customer_rating:high	near_1:Café	near_2:Sicilia
+customer_rating:low	near_1:Café	near_2:Sicilia	name:Cocum	eatType_1:coffee	eatType_2:shop
+name:Cocum	customer_rating:low	eatType_1:coffee	eatType_2:shop	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn
+near_1:The	near_2:Rice	near_3:Boat	name:Cocum	eatType_1:coffee	eatType_2:shop
+name:Cocum	eatType_1:coffee	eatType_2:shop	near_1:The	near_2:Sorrento
+near_1:Burger	near_2:King	customer_rating:high	eatType:pub	name:Cocum
+eatType:pub	name:Cocum	near_1:Café	near_2:Sicilia	customer_rating:high
+customer_rating:low	eatType:pub	near_1:Café	near_2:Sicilia	name:Cocum
+name:Cocum	customer_rating:low	eatType:pub	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn
+name:Cocum	eatType:pub	near_1:The	near_2:Rice	near_3:Boat
+name:Cocum	eatType:pub	near_1:The	near_2:Sorrento
+name:Cotto	near_1:The	near_2:Bakers	eatType_1:coffee	eatType_2:shop
+name:Cotto	eatType:pub	near_1:The	near_2:Bakers
+near_1:The	near_2:Bakers	name:Giraffe	eatType_1:coffee	eatType_2:shop
+name:Giraffe	eatType_1:coffee	eatType_2:shop	near_1:The	near_2:Rice	near_3:Boat
+area:riverside	food:English	name:Giraffe	familyFriendly:yes	eatType:pub	near_1:Rainbow	near_2:Vegetarian	near_3:Café
+eatType:pub	name:Giraffe	near_1:Rainbow	near_2:Vegetarian	near_3:Café	area_1:city	area_2:centre	familyFriendly:no	food_1:Fast	food_2:food
+eatType:pub	food_1:Fast	food_2:food	familyFriendly:yes	name:Giraffe	near_1:Rainbow	near_2:Vegetarian	near_3:Café	area_1:city	area_2:centre
+area:riverside	familyFriendly:no	food_1:Fast	food_2:food	name:Giraffe	near_1:Rainbow	near_2:Vegetarian	near_3:Café	eatType:pub
+familyFriendly:yes	food_1:Fast	food_2:food	near_1:Rainbow	near_2:Vegetarian	near_3:Café	area:riverside	name:Giraffe	eatType:pub
+familyFriendly:yes	near_1:Raja	near_2:Indian	near_3:Cuisine	food_1:Fast	food_2:food	area:riverside	name:Giraffe	eatType:pub
+near_1:Raja	near_2:Indian	near_3:Cuisine	area_1:city	area_2:centre	name:Giraffe	eatType:pub	food:French	familyFriendly:no
+area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:pub	food:French	familyFriendly:yes	name:Giraffe
+food:French	area:riverside	name:Giraffe	familyFriendly:no	eatType:pub	near_1:Raja	near_2:Indian	near_3:Cuisine
+eatType:pub	familyFriendly:yes	near_1:Raja	near_2:Indian	near_3:Cuisine	name:Giraffe	food:French	area:riverside
+eatType:pub	near_1:The	near_2:Bakers	name:Giraffe
+near_1:The	near_2:Rice	near_3:Boat	eatType:pub	name:Giraffe
+food:English	eatType:restaurant	familyFriendly:yes	near_1:Rainbow	near_2:Vegetarian	near_3:Café	area:riverside	name:Giraffe
+food_1:Fast	food_2:food	eatType:restaurant	near_1:Rainbow	near_2:Vegetarian	near_3:Café	area_1:city	area_2:centre	familyFriendly:no	name:Giraffe
+area_1:city	area_2:centre	near_1:Rainbow	near_2:Vegetarian	near_3:Café	food_1:Fast	food_2:food	familyFriendly:yes	name:Giraffe	eatType:restaurant
+area:riverside	name:Giraffe	eatType:restaurant	near_1:Rainbow	near_2:Vegetarian	near_3:Café	familyFriendly:no	food_1:Fast	food_2:food
+familyFriendly:yes	near_1:Rainbow	near_2:Vegetarian	near_3:Café	food_1:Fast	food_2:food	eatType:restaurant	area:riverside	name:Giraffe
+eatType:restaurant	familyFriendly:yes	area:riverside	name:Giraffe	near_1:Raja	near_2:Indian	near_3:Cuisine	food_1:Fast	food_2:food
+familyFriendly:no	area_1:city	area_2:centre	name:Giraffe	food:French	eatType:restaurant	near_1:Raja	near_2:Indian	near_3:Cuisine
+eatType:restaurant	food:French	familyFriendly:yes	area_1:city	area_2:centre	name:Giraffe	near_1:Raja	near_2:Indian	near_3:Cuisine
+near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:no	name:Giraffe	food:French	area:riverside	eatType:restaurant
+name:Giraffe	familyFriendly:yes	near_1:Raja	near_2:Indian	near_3:Cuisine	food:French	eatType:restaurant	area:riverside
+name_1:Green	name_2:Man	near_1:All	near_2:Bar	near_3:One	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop
+near_1:All	near_2:Bar	near_3:One	name_1:Green	name_2:Man	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:Green	name_2:Man	eatType:pub	near_1:All	near_2:Bar	near_3:One
+eatType:pub	name_1:Green	name_2:Man	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:All	near_2:Bar	near_3:One
+area:riverside	name_1:Green	name_2:Man	eatType:pub	food:Italian	familyFriendly:yes	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn
+area:riverside	familyFriendly:yes	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:Green	name_2:Man	food:Italian	eatType:pub
+near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	name_1:Green	name_2:Man	familyFriendly:no	eatType:pub	area_1:city	area_2:centre	food:Japanese
+area_1:city	area_2:centre	food:Japanese	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	familyFriendly:yes	eatType:pub	name_1:Green	name_2:Man
+name_1:Green	name_2:Man	familyFriendly:no	eatType:pub	area:riverside	food:Japanese	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn
+near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	name_1:Green	name_2:Man	area:riverside	eatType:pub	food:Japanese	familyFriendly:yes
+food:Italian	area:riverside	name_1:Green	name_2:Man	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	familyFriendly:yes	eatType:restaurant
+near_1:Raja	near_2:Indian	near_3:Cuisine	food:Italian	name_1:Green	name_2:Man	eatType:restaurant	area:riverside	familyFriendly:yes
+familyFriendly:no	eatType:restaurant	area_1:city	area_2:centre	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	food:Japanese	name_1:Green	name_2:Man
+eatType:restaurant	area_1:city	area_2:centre	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	familyFriendly:yes	food:Japanese	name_1:Green	name_2:Man
+area:riverside	food:Japanese	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	eatType:restaurant	name_1:Green	name_2:Man	familyFriendly:no
+name_1:Green	name_2:Man	familyFriendly:yes	eatType:restaurant	food:Japanese	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	area:riverside
+name_1:Loch	name_2:Fyne	eatType_1:coffee	eatType_2:shop	area:riverside
+eatType:pub	name_1:Loch	name_2:Fyne	area:riverside
+area_1:city	area_2:centre	name:Strada	eatType_1:coffee	eatType_2:shop
+eatType_1:coffee	eatType_2:shop	near_1:All	near_2:Bar	near_3:One	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Strada
+name:Strada	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	near_1:Rainbow	near_2:Vegetarian	near_3:Café
+customer_rating:low	name:Strada	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	eatType_1:coffee	eatType_2:shop
+eatType:pub	area_1:city	area_2:centre	name:Strada
+eatType:pub	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:All	near_2:Bar	near_3:One	name:Strada
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Strada	near_1:Rainbow	near_2:Vegetarian	near_3:Café	eatType:pub
+customer_rating:low	eatType:pub	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	name:Strada
+eatType_1:coffee	eatType_2:shop	familyFriendly:yes	near:Avalon	name_1:The	name_2:Cricketers	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+eatType_1:coffee	eatType_2:shop	near:Avalon	familyFriendly:yes	name_1:The	name_2:Cricketers	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Cricketers	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	near_1:Crowne	near_2:Plaza	near_3:Hotel
+near_1:Crowne	near_2:Plaza	near_3:Hotel	name_1:The	name_2:Cricketers	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	familyFriendly:no
+familyFriendly:yes	near_1:Crowne	near_2:Plaza	near_3:Hotel	eatType_1:coffee	eatType_2:shop	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Cricketers
+customer_rating:average	familyFriendly:no	name_1:The	name_2:Cricketers	eatType_1:coffee	eatType_2:shop	near_1:Café	near_2:Sicilia
+near_1:Crowne	near_2:Plaza	near_3:Hotel	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Cricketers	customer_rating:average	familyFriendly:no
+name_1:The	name_2:Cricketers	customer_rating:average	eatType_1:coffee	eatType_2:shop	near_1:Café	near_2:Sicilia	familyFriendly:yes
+eatType_1:coffee	eatType_2:shop	customer_rating:high	familyFriendly:yes	name_1:The	name_2:Cricketers	near_1:Café	near_2:Sicilia
+familyFriendly:yes	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	customer_rating:high	name_1:The	name_2:Cricketers	eatType_1:coffee	eatType_2:shop
+eatType_1:coffee	eatType_2:shop	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	name_1:The	name_2:Cricketers	customer_rating:low	familyFriendly:no
+familyFriendly:no	eatType_1:coffee	eatType_2:shop	near:Ranch	name_1:The	name_2:Cricketers	customer_rating:low
+near:Ranch	eatType_1:coffee	eatType_2:shop	customer_rating:low	name_1:The	name_2:Cricketers	familyFriendly:yes
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:restaurant	name_1:The	name_2:Cricketers	near:Avalon	familyFriendly:yes
+familyFriendly:yes	name_1:The	name_2:Cricketers	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near:Avalon	eatType:restaurant
+familyFriendly:yes	near_1:Crowne	near_2:Plaza	near_3:Hotel	eatType:restaurant	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Cricketers
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Cricketers	near_1:Crowne	near_2:Plaza	near_3:Hotel	familyFriendly:no	eatType:restaurant
+name_1:The	name_2:Cricketers	familyFriendly:yes	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:restaurant	near_1:Crowne	near_2:Plaza	near_3:Hotel
+customer_rating:average	name_1:The	name_2:Cricketers	eatType:restaurant	familyFriendly:no	near_1:Café	near_2:Sicilia
+eatType:restaurant	customer_rating:average	near_1:Crowne	near_2:Plaza	near_3:Hotel	name_1:The	name_2:Cricketers	familyFriendly:no
+name_1:The	name_2:Cricketers	customer_rating:average	near_1:Café	near_2:Sicilia	familyFriendly:yes	eatType:restaurant
+eatType:restaurant	near_1:Café	near_2:Sicilia	name_1:The	name_2:Cricketers	customer_rating:high	familyFriendly:yes
+near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	eatType:restaurant	familyFriendly:yes	customer_rating:high	name_1:The	name_2:Cricketers
+familyFriendly:no	name_1:The	name_2:Cricketers	customer_rating:low	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	eatType:restaurant
+customer_rating:low	familyFriendly:no	eatType:restaurant	near:Ranch	name_1:The	name_2:Cricketers
+customer_rating:low	name_1:The	name_2:Cricketers	familyFriendly:yes	near:Ranch	eatType:restaurant
+food:Chinese	name_1:The	name_2:Cricketers	customer_rating:high	priceRange:£20-25	familyFriendly:no	area_1:city	area_2:centre	eatType:restaurant	near_1:All	near_2:Bar	near_3:One
+near_1:All	near_2:Bar	near_3:One	customer_rating:high	familyFriendly:yes	eatType:restaurant	area_1:city	area_2:centre	food:Chinese	name_1:The	name_2:Cricketers	priceRange:£20-25
+customer_rating:high	food:Chinese	name_1:The	name_2:Cricketers	priceRange:£20-25	familyFriendly:no	eatType:restaurant	near_1:All	near_2:Bar	near_3:One	area:riverside
+priceRange:£20-25	area:riverside	customer_rating:high	name_1:The	name_2:Cricketers	near_1:All	near_2:Bar	near_3:One	food:Chinese	eatType:restaurant	familyFriendly:yes
+priceRange:cheap	eatType:restaurant	familyFriendly:no	near_1:All	near_2:Bar	near_3:One	food:Chinese	name_1:The	name_2:Cricketers	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area_1:city	area_2:centre
+food:Chinese	eatType:restaurant	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:All	near_2:Bar	near_3:One	familyFriendly:yes	name_1:The	name_2:Cricketers	priceRange:cheap	area_1:city	area_2:centre
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:All	near_2:Bar	near_3:One	area:riverside	familyFriendly:no	food:Chinese	priceRange:cheap	name_1:The	name_2:Cricketers	eatType:restaurant
+area:riverside	eatType:restaurant	name_1:The	name_2:Cricketers	food:Chinese	priceRange:cheap	near_1:All	near_2:Bar	near_3:One	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes
+customer_rating:average	area_1:city	area_2:centre	familyFriendly:no	eatType:restaurant	priceRange:cheap	name_1:The	name_2:Cricketers	near_1:All	near_2:Bar	near_3:One	food:Chinese
+area_1:city	area_2:centre	priceRange:cheap	food:Chinese	near_1:All	near_2:Bar	near_3:One	customer_rating:average	eatType:restaurant	name_1:The	name_2:Cricketers	familyFriendly:yes
+priceRange:cheap	eatType:restaurant	area:riverside	food:Chinese	customer_rating:average	name_1:The	name_2:Cricketers	near_1:All	near_2:Bar	near_3:One	familyFriendly:no
+area:riverside	near_1:All	near_2:Bar	near_3:One	eatType:restaurant	customer_rating:average	food:Chinese	familyFriendly:yes	priceRange:cheap	name_1:The	name_2:Cricketers
+priceRange:high	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Chinese	near_1:All	near_2:Bar	near_3:One	familyFriendly:no	area_1:city	area_2:centre	name_1:The	name_2:Cricketers	eatType:restaurant
+near_1:All	near_2:Bar	near_3:One	familyFriendly:yes	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area_1:city	area_2:centre	food:Chinese	eatType:restaurant	name_1:The	name_2:Cricketers	priceRange:high
+name_1:The	name_2:Cricketers	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:no	priceRange:high	area:riverside	near_1:All	near_2:Bar	near_3:One	eatType:restaurant	food:Chinese
+name_1:The	name_2:Cricketers	near_1:All	near_2:Bar	near_3:One	food:Chinese	familyFriendly:yes	priceRange:high	eatType:restaurant	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside
+near_1:All	near_2:Bar	near_3:One	eatType:restaurant	food:Chinese	priceRange:high	familyFriendly:no	customer_rating:average	name_1:The	name_2:Cricketers	area_1:city	area_2:centre
+name_1:The	name_2:Cricketers	eatType:restaurant	food:Chinese	priceRange:high	familyFriendly:yes	area_1:city	area_2:centre	customer_rating:average	near_1:All	near_2:Bar	near_3:One
+priceRange:high	customer_rating:average	area:riverside	familyFriendly:no	name_1:The	name_2:Cricketers	near_1:All	near_2:Bar	near_3:One	food:Chinese	eatType:restaurant
+food:Chinese	eatType:restaurant	near_1:All	near_2:Bar	near_3:One	customer_rating:average	familyFriendly:yes	priceRange:high	area:riverside	name_1:The	name_2:Cricketers
+name_1:The	name_2:Cricketers	area_1:city	area_2:centre	food:Chinese	priceRange_1:less	priceRange_2:than	priceRange_3:£20	near_1:All	near_2:Bar	near_3:One	familyFriendly:no	customer_rating:low	eatType:restaurant
+area_1:city	area_2:centre	familyFriendly:yes	priceRange_1:less	priceRange_2:than	priceRange_3:£20	customer_rating:low	food:Chinese	eatType:restaurant	near_1:All	near_2:Bar	near_3:One	name_1:The	name_2:Cricketers
+eatType:restaurant	name_1:The	name_2:Cricketers	customer_rating:low	near_1:All	near_2:Bar	near_3:One	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:no	area:riverside	food:Chinese
+familyFriendly:yes	food:Chinese	name_1:The	name_2:Cricketers	area:riverside	priceRange_1:less	priceRange_2:than	priceRange_3:£20	near_1:All	near_2:Bar	near_3:One	customer_rating:low	eatType:restaurant
+eatType:restaurant	near_1:All	near_2:Bar	near_3:One	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:no	food:Chinese	priceRange:moderate	area_1:city	area_2:centre	name_1:The	name_2:Cricketers
+area_1:city	area_2:centre	eatType:restaurant	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate	name_1:The	name_2:Cricketers	food:Chinese	near_1:All	near_2:Bar	near_3:One	familyFriendly:yes
+priceRange:moderate	near_1:All	near_2:Bar	near_3:One	area:riverside	name_1:The	name_2:Cricketers	eatType:restaurant	food:Chinese	familyFriendly:no	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+familyFriendly:yes	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	priceRange:moderate	eatType:restaurant	food:Chinese	name_1:The	name_2:Cricketers	near_1:All	near_2:Bar	near_3:One
+name_1:The	name_2:Cricketers	food:Chinese	familyFriendly:no	area_1:city	area_2:centre	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:All	near_2:Bar	near_3:One	eatType:restaurant	priceRange:moderate
+area_1:city	area_2:centre	priceRange:moderate	familyFriendly:yes	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:restaurant	food:Chinese	near_1:All	near_2:Bar	near_3:One	name_1:The	name_2:Cricketers
+eatType:restaurant	near_1:All	near_2:Bar	near_3:One	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Chinese	area:riverside	familyFriendly:no	priceRange:moderate	name_1:The	name_2:Cricketers
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate	familyFriendly:yes	name_1:The	name_2:Cricketers	eatType:restaurant	area:riverside	food:Chinese	near_1:All	near_2:Bar	near_3:One
+priceRange_1:more	priceRange_2:than	priceRange_3:£30	near_1:All	near_2:Bar	near_3:One	eatType:restaurant	customer_rating:high	food:Chinese	name_1:The	name_2:Cricketers	area_1:city	area_2:centre	familyFriendly:no
+near_1:All	near_2:Bar	near_3:One	area_1:city	area_2:centre	food:Chinese	customer_rating:high	priceRange_1:more	priceRange_2:than	priceRange_3:£30	name_1:The	name_2:Cricketers	eatType:restaurant	familyFriendly:yes
+name_1:The	name_2:Cricketers	customer_rating:high	familyFriendly:no	food:Chinese	priceRange_1:more	priceRange_2:than	priceRange_3:£30	area:riverside	near_1:All	near_2:Bar	near_3:One	eatType:restaurant
+familyFriendly:yes	area:riverside	food:Chinese	name_1:The	name_2:Cricketers	near_1:All	near_2:Bar	near_3:One	eatType:restaurant	priceRange_1:more	priceRange_2:than	priceRange_3:£30	customer_rating:high
+familyFriendly:no	eatType:restaurant	area_1:city	area_2:centre	food:English	customer_rating:high	near_1:All	near_2:Bar	near_3:One	priceRange:£20-25	name_1:The	name_2:Cricketers
+near_1:All	near_2:Bar	near_3:One	familyFriendly:yes	name_1:The	name_2:Cricketers	food:English	area_1:city	area_2:centre	eatType:restaurant	priceRange:£20-25	customer_rating:high
+customer_rating:high	familyFriendly:no	name_1:The	name_2:Cricketers	priceRange:£20-25	food:English	near_1:All	near_2:Bar	near_3:One	area:riverside	eatType:restaurant
+eatType:restaurant	near_1:All	near_2:Bar	near_3:One	priceRange:£20-25	food:English	area:riverside	name_1:The	name_2:Cricketers	familyFriendly:yes	customer_rating:high
+food:English	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:no	area_1:city	area_2:centre	near_1:Café	near_2:Rouge	eatType:restaurant	priceRange:cheap	name_1:The	name_2:Cricketers
+near_1:Café	near_2:Rouge	name_1:The	name_2:Cricketers	priceRange:cheap	area_1:city	area_2:centre	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English	eatType:restaurant	familyFriendly:yes
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Café	near_2:Rouge	area:riverside	priceRange:cheap	food:English	eatType:restaurant	familyFriendly:no	name_1:The	name_2:Cricketers
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:restaurant	food:English	name_1:The	name_2:Cricketers	area:riverside	priceRange:cheap	near_1:Café	near_2:Rouge	familyFriendly:yes
+near_1:Café	near_2:Rouge	food:English	customer_rating:average	eatType:restaurant	priceRange:cheap	familyFriendly:no	name_1:The	name_2:Cricketers	area_1:city	area_2:centre
+customer_rating:average	food:English	priceRange:cheap	area_1:city	area_2:centre	familyFriendly:yes	eatType:restaurant	near_1:Café	near_2:Rouge	name_1:The	name_2:Cricketers
+name_1:The	name_2:Cricketers	familyFriendly:no	priceRange:cheap	eatType:restaurant	area:riverside	near_1:Café	near_2:Rouge	customer_rating:average	food:English
+familyFriendly:yes	priceRange:cheap	eatType:restaurant	name_1:The	name_2:Cricketers	food:English	near_1:Café	near_2:Rouge	area:riverside	customer_rating:average
+familyFriendly:no	name_1:The	name_2:Cricketers	area_1:city	area_2:centre	near_1:Café	near_2:Rouge	priceRange:high	food:English	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:restaurant
+area_1:city	area_2:centre	food:English	near_1:Café	near_2:Rouge	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:high	eatType:restaurant	familyFriendly:yes	name_1:The	name_2:Cricketers
+familyFriendly:no	area:riverside	near_1:Café	near_2:Rouge	priceRange:high	eatType:restaurant	food:English	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Cricketers
+priceRange:high	name_1:The	name_2:Cricketers	familyFriendly:yes	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	eatType:restaurant	food:English	near_1:Café	near_2:Rouge
+near_1:Café	near_2:Rouge	customer_rating:average	food:English	name_1:The	name_2:Cricketers	area_1:city	area_2:centre	eatType:restaurant	familyFriendly:no	priceRange:high
+customer_rating:average	food:English	near_1:Café	near_2:Rouge	eatType:restaurant	priceRange:high	area_1:city	area_2:centre	name_1:The	name_2:Cricketers	familyFriendly:yes
+food:English	priceRange:high	familyFriendly:no	eatType:restaurant	customer_rating:average	area:riverside	near_1:Café	near_2:Rouge	name_1:The	name_2:Cricketers
+name_1:The	name_2:Mill	food:English	priceRange:high	familyFriendly:yes	area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:pub
+familyFriendly:no	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Mill	area_1:city	area_2:centre	food:English	eatType:pub	near_1:Raja	near_2:Indian	near_3:Cuisine
+near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange_1:less	priceRange_2:than	priceRange_3:£20	area_1:city	area_2:centre	familyFriendly:yes	name_1:The	name_2:Mill	food:English	eatType:pub
+food:English	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Mill	familyFriendly:no	eatType:pub	priceRange_1:less	priceRange_2:than	priceRange_3:£20	area:riverside
+area:riverside	food:English	familyFriendly:yes	name_1:The	name_2:Mill	eatType:pub	priceRange_1:less	priceRange_2:than	priceRange_3:£20	near_1:Raja	near_2:Indian	near_3:Cuisine
+food:English	area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Mill	familyFriendly:no	eatType:pub	priceRange:moderate
+near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:moderate	eatType:pub	familyFriendly:yes	food:English	name_1:The	name_2:Mill	area_1:city	area_2:centre
+eatType:pub	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Mill	area:riverside	familyFriendly:no	food:English	priceRange:moderate
+food:English	familyFriendly:yes	area:riverside	eatType:pub	priceRange:moderate	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Mill
+familyFriendly:yes	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Mill	food:English	area:riverside	priceRange_1:more	priceRange_2:than	priceRange_3:£30	eatType:pub
+name_1:The	name_2:Mill	area:riverside	priceRange:£20-25	eatType:pub	familyFriendly:yes	near_1:Raja	near_2:Indian	near_3:Cuisine	food_1:Fast	food_2:food
+priceRange:£20-25	name_1:The	name_2:Mill	area_1:city	area_2:centre	familyFriendly:no	food_1:Fast	food_2:food	customer_rating:high	near_1:Café	near_2:Rouge	eatType:pub
+area_1:city	area_2:centre	near_1:Café	near_2:Rouge	food_1:Fast	food_2:food	name_1:The	name_2:Mill	familyFriendly:yes	priceRange:£20-25	eatType:pub	customer_rating:high
+food_1:Fast	food_2:food	eatType:pub	near_1:Café	near_2:Rouge	name_1:The	name_2:Mill	area:riverside	priceRange:£20-25	familyFriendly:no	customer_rating:high
+familyFriendly:yes	name_1:The	name_2:Mill	customer_rating:high	area:riverside	food_1:Fast	food_2:food	near_1:Café	near_2:Rouge	priceRange:£20-25	eatType:pub
+customer_rating:high	area:riverside	near_1:Café	near_2:Sicilia	familyFriendly:yes	eatType:pub	name_1:The	name_2:Mill	priceRange:£20-25	food_1:Fast	food_2:food
+familyFriendly:yes	name_1:The	name_2:Mill	area:riverside	eatType:pub	priceRange:cheap	food_1:Fast	food_2:food	near_1:Raja	near_2:Indian	near_3:Cuisine
+near_1:Café	near_2:Sicilia	food_1:Fast	food_2:food	area_1:city	area_2:centre	priceRange:cheap	familyFriendly:no	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Mill	eatType:pub
+food_1:Fast	food_2:food	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Café	near_2:Sicilia	eatType:pub	area_1:city	area_2:centre	name_1:The	name_2:Mill	familyFriendly:yes	priceRange:cheap
+familyFriendly:no	eatType:pub	priceRange:cheap	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Café	near_2:Sicilia	food_1:Fast	food_2:food	area:riverside	name_1:The	name_2:Mill
+food_1:Fast	food_2:food	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Mill	eatType:pub	familyFriendly:yes	priceRange:cheap	near_1:Café	near_2:Sicilia	area:riverside
+eatType:pub	area_1:city	area_2:centre	name_1:The	name_2:Mill	near_1:Café	near_2:Sicilia	familyFriendly:no	customer_rating:average	food_1:Fast	food_2:food	priceRange:cheap
+near_1:Café	near_2:Sicilia	customer_rating:average	food_1:Fast	food_2:food	familyFriendly:yes	priceRange:cheap	name_1:The	name_2:Mill	area_1:city	area_2:centre	eatType:pub
+food_1:Fast	food_2:food	area:riverside	customer_rating:average	familyFriendly:no	eatType:pub	priceRange:cheap	name_1:The	name_2:Mill	near_1:Café	near_2:Sicilia
+priceRange:cheap	food_1:Fast	food_2:food	eatType:pub	near_1:Café	near_2:Sicilia	name_1:The	name_2:Mill	familyFriendly:yes	area:riverside	customer_rating:average
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:pub	priceRange:high	food_1:Fast	food_2:food	name_1:The	name_2:Mill	familyFriendly:no	near_1:Café	near_2:Sicilia	area_1:city	area_2:centre
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:high	food_1:Fast	food_2:food	eatType:pub	area_1:city	area_2:centre	near_1:Café	near_2:Sicilia	familyFriendly:yes	name_1:The	name_2:Mill
+familyFriendly:no	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Mill	food_1:Fast	food_2:food	near_1:Café	near_2:Sicilia	priceRange:high	eatType:pub	area:riverside
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Café	near_2:Sicilia	food_1:Fast	food_2:food	priceRange:high	familyFriendly:yes	name_1:The	name_2:Mill	area:riverside	eatType:pub
+food_1:Fast	food_2:food	priceRange:high	name_1:The	name_2:Mill	familyFriendly:no	area_1:city	area_2:centre	eatType:pub	customer_rating:average	near_1:Café	near_2:Sicilia
+area_1:city	area_2:centre	eatType:pub	near_1:Café	near_2:Sicilia	customer_rating:average	food_1:Fast	food_2:food	priceRange:high	familyFriendly:yes	name_1:The	name_2:Mill
+name_1:The	name_2:Mill	priceRange:high	food_1:Fast	food_2:food	familyFriendly:no	eatType:pub	near_1:Café	near_2:Sicilia	customer_rating:average	area:riverside
+customer_rating:average	priceRange:high	near_1:Café	near_2:Sicilia	area:riverside	eatType:pub	food_1:Fast	food_2:food	familyFriendly:yes	name_1:The	name_2:Mill
+area_1:city	area_2:centre	priceRange_1:less	priceRange_2:than	priceRange_3:£20	customer_rating:low	name_1:The	name_2:Mill	near_1:Café	near_2:Sicilia	food_1:Fast	food_2:food	familyFriendly:no	eatType:pub
+area_1:city	area_2:centre	eatType:pub	food_1:Fast	food_2:food	familyFriendly:yes	name_1:The	name_2:Mill	priceRange_1:less	priceRange_2:than	priceRange_3:£20	customer_rating:low	near_1:Café	near_2:Sicilia
+eatType:pub	name_1:The	name_2:Mill	near_1:Café	near_2:Sicilia	food_1:Fast	food_2:food	priceRange_1:less	priceRange_2:than	priceRange_3:£20	area:riverside	familyFriendly:no	customer_rating:low
+area:riverside	priceRange_1:less	priceRange_2:than	priceRange_3:£20	customer_rating:low	eatType:pub	near_1:Café	near_2:Sicilia	food_1:Fast	food_2:food	name_1:The	name_2:Mill	familyFriendly:yes
+familyFriendly:no	name_1:The	name_2:Mill	food_1:Fast	food_2:food	area_1:city	area_2:centre	eatType:pub	near_1:Café	near_2:Sicilia	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate
+area_1:city	area_2:centre	food_1:Fast	food_2:food	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Mill	priceRange:moderate	familyFriendly:yes	eatType:pub	near_1:Café	near_2:Sicilia
+eatType:pub	name_1:The	name_2:Mill	food_1:Fast	food_2:food	familyFriendly:no	near_1:Café	near_2:Sicilia	priceRange:moderate	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside
+eatType:pub	area:riverside	near_1:Café	near_2:Sicilia	food_1:Fast	food_2:food	familyFriendly:yes	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Mill	priceRange:moderate
+area_1:city	area_2:centre	food_1:Fast	food_2:food	near_1:Café	near_2:Sicilia	name_1:The	name_2:Mill	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:no	eatType:pub	priceRange:moderate
+area_1:city	area_2:centre	priceRange:moderate	food_1:Fast	food_2:food	familyFriendly:yes	name_1:The	name_2:Mill	eatType:pub	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Café	near_2:Sicilia
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	eatType:pub	food_1:Fast	food_2:food	near_1:Café	near_2:Sicilia	familyFriendly:no	name_1:The	name_2:Mill	priceRange:moderate
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Café	near_2:Sicilia	name_1:The	name_2:Mill	eatType:pub	priceRange:moderate	food_1:Fast	food_2:food	familyFriendly:yes	area:riverside
+priceRange:high	area:riverside	food:English	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	eatType:restaurant	name_1:The	name_2:Mill
+near_1:Café	near_2:Rouge	food:English	eatType:restaurant	area:riverside	name_1:The	name_2:Mill	customer_rating:average	priceRange:high	familyFriendly:yes
+name_1:The	name_2:Mill	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:restaurant	area_1:city	area_2:centre	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:English	familyFriendly:no
+name_1:The	name_2:Mill	priceRange_1:less	priceRange_2:than	priceRange_3:£20	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	area_1:city	area_2:centre	eatType:restaurant	food:English
+name_1:The	name_2:Mill	area:riverside	eatType:restaurant	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:no	near_1:Raja	near_2:Indian	near_3:Cuisine	food:English
+near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	eatType:restaurant	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Mill	area:riverside	food:English
+eatType:restaurant	name_1:The	name_2:Mill	food:English	customer_rating:low	near_1:Café	near_2:Rouge	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:no	area_1:city	area_2:centre
+name_1:The	name_2:Mill	near_1:Café	near_2:Rouge	area_1:city	area_2:centre	eatType:restaurant	food:English	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:yes	customer_rating:low
+near_1:Café	near_2:Rouge	familyFriendly:no	area:riverside	priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType:restaurant	food:English	customer_rating:low	name_1:The	name_2:Mill
+customer_rating:low	area:riverside	eatType:restaurant	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Mill	near_1:Café	near_2:Rouge	food:English	familyFriendly:yes
+familyFriendly:no	name_1:The	name_2:Mill	eatType:restaurant	area_1:city	area_2:centre	priceRange:moderate	food:English	near_1:Raja	near_2:Indian	near_3:Cuisine
+familyFriendly:yes	eatType:restaurant	name_1:The	name_2:Mill	food:English	area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:moderate
+eatType:restaurant	name_1:The	name_2:Mill	familyFriendly:no	priceRange:moderate	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	food:English
+near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Mill	eatType:restaurant	food:English	familyFriendly:yes	priceRange:moderate	area:riverside
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:no	near_1:Café	near_2:Rouge	food:English	eatType:restaurant	area_1:city	area_2:centre	name_1:The	name_2:Mill	priceRange:moderate
+food:English	near_1:Café	near_2:Rouge	priceRange:moderate	area_1:city	area_2:centre	name_1:The	name_2:Mill	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:restaurant	familyFriendly:yes
+area:riverside	name_1:The	name_2:Mill	priceRange:moderate	familyFriendly:no	eatType:restaurant	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Café	near_2:Rouge	food:English
+priceRange:moderate	food:English	name_1:The	name_2:Mill	familyFriendly:yes	eatType:restaurant	area:riverside	near_1:Café	near_2:Rouge	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+food:English	name_1:The	name_2:Mill	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:no	priceRange:moderate	near_1:Café	near_2:Rouge	area_1:city	area_2:centre	eatType:restaurant
+area_1:city	area_2:centre	name_1:The	name_2:Mill	familyFriendly:yes	near_1:Café	near_2:Rouge	food:English	priceRange:moderate	eatType:restaurant	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+name_1:The	name_2:Mill	eatType:restaurant	food:English	near_1:Café	near_2:Rouge	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:no	area:riverside	priceRange:moderate
+area:riverside	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes	priceRange:moderate	name_1:The	name_2:Mill	eatType:restaurant	near_1:Café	near_2:Rouge	food:English
+familyFriendly:yes	eatType:restaurant	food:English	priceRange_1:more	priceRange_2:than	priceRange_3:£30	name_1:The	name_2:Mill	area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine
+eatType:restaurant	name_1:The	name_2:Mill	area_1:city	area_2:centre	customer_rating:high	food:English	priceRange_1:more	priceRange_2:than	priceRange_3:£30	familyFriendly:no	near_1:Café	near_2:Rouge
+area_1:city	area_2:centre	name_1:The	name_2:Mill	priceRange_1:more	priceRange_2:than	priceRange_3:£30	familyFriendly:yes	near_1:Café	near_2:Rouge	customer_rating:high	food:English	eatType:restaurant
+food:English	customer_rating:high	name_1:The	name_2:Mill	eatType:restaurant	near_1:Café	near_2:Rouge	familyFriendly:no	priceRange_1:more	priceRange_2:than	priceRange_3:£30	area:riverside
+near_1:Café	near_2:Rouge	customer_rating:high	name_1:The	name_2:Mill	familyFriendly:yes	eatType:restaurant	food:English	priceRange_1:more	priceRange_2:than	priceRange_3:£30	area:riverside
+priceRange:£20-25	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	area:riverside	eatType:restaurant	food_1:Fast	food_2:food	name_1:The	name_2:Mill
+name_1:The	name_2:Mill	priceRange:cheap	eatType:restaurant	area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	food_1:Fast	food_2:food
+familyFriendly:yes	priceRange:cheap	area:riverside	name_1:The	name_2:Phoenix	eatType:pub	near_1:Raja	near_2:Indian	near_3:Cuisine	food_1:Fast	food_2:food
+familyFriendly:no	priceRange:high	area_1:city	area_2:centre	eatType:pub	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Phoenix	food_1:Fast	food_2:food
+eatType:pub	priceRange:high	food_1:Fast	food_2:food	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	name_1:The	name_2:Phoenix	area_1:city	area_2:centre
+priceRange:high	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:no	food_1:Fast	food_2:food	eatType:pub	area:riverside	name_1:The	name_2:Phoenix
+priceRange:high	eatType:pub	food_1:Fast	food_2:food	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Phoenix	area:riverside	familyFriendly:yes
+familyFriendly:no	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Phoenix	food_1:Fast	food_2:food	near_1:Raja	near_2:Indian	near_3:Cuisine	area_1:city	area_2:centre	eatType:pub
+near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	eatType:pub	name_1:The	name_2:Phoenix	area_1:city	area_2:centre	food_1:Fast	food_2:food	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+familyFriendly:no	area:riverside	eatType:pub	priceRange_1:less	priceRange_2:than	priceRange_3:£20	near_1:Raja	near_2:Indian	near_3:Cuisine	food_1:Fast	food_2:food	name_1:The	name_2:Phoenix
+food_1:Fast	food_2:food	eatType:pub	name_1:The	name_2:Phoenix	familyFriendly:yes	priceRange_1:less	priceRange_2:than	priceRange_3:£20	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside
+area_1:city	area_2:centre	priceRange:moderate	name_1:The	name_2:Phoenix	familyFriendly:no	near_1:Raja	near_2:Indian	near_3:Cuisine	food_1:Fast	food_2:food	eatType:pub
+name_1:The	name_2:Phoenix	area_1:city	area_2:centre	eatType:pub	priceRange:moderate	familyFriendly:yes	near_1:Raja	near_2:Indian	near_3:Cuisine	food_1:Fast	food_2:food
+near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:moderate	eatType:pub	familyFriendly:no	area:riverside	food_1:Fast	food_2:food	name_1:The	name_2:Phoenix
+area:riverside	familyFriendly:yes	eatType:pub	priceRange:moderate	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Phoenix	food_1:Fast	food_2:food
+familyFriendly:yes	near_1:Café	near_2:Sicilia	priceRange:moderate	name_1:The	name_2:Phoenix	area:riverside	eatType:pub	food_1:Fast	food_2:food	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+name_1:The	name_2:Phoenix	priceRange_1:more	priceRange_2:than	priceRange_3:£30	near_1:Raja	near_2:Indian	near_3:Cuisine	food_1:Fast	food_2:food	area:riverside	eatType:pub	familyFriendly:yes
+customer_rating:high	food_1:Fast	food_2:food	familyFriendly:no	name_1:The	name_2:Phoenix	priceRange_1:more	priceRange_2:than	priceRange_3:£30	area_1:city	area_2:centre	eatType:pub	near_1:Café	near_2:Sicilia
+eatType:pub	priceRange_1:more	priceRange_2:than	priceRange_3:£30	customer_rating:high	near_1:Café	near_2:Sicilia	food_1:Fast	food_2:food	name_1:The	name_2:Phoenix	familyFriendly:yes	area_1:city	area_2:centre
+name_1:The	name_2:Phoenix	food_1:Fast	food_2:food	eatType:pub	priceRange_1:more	priceRange_2:than	priceRange_3:£30	familyFriendly:no	near_1:Café	near_2:Sicilia	area:riverside	customer_rating:high
+priceRange_1:more	priceRange_2:than	priceRange_3:£30	name_1:The	name_2:Phoenix	food_1:Fast	food_2:food	familyFriendly:yes	eatType:pub	customer_rating:high	near_1:Café	near_2:Sicilia	area:riverside
+familyFriendly:yes	food:French	name_1:The	name_2:Phoenix	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	eatType:pub	priceRange:£20-25
+name_1:The	name_2:Phoenix	familyFriendly:no	area_1:city	area_2:centre	food:French	near_1:Café	near_2:Sicilia	eatType:pub	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:£20-25
+near_1:Café	near_2:Sicilia	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:pub	name_1:The	name_2:Phoenix	priceRange:£20-25	familyFriendly:yes	food:French	area_1:city	area_2:centre
+priceRange:£20-25	near_1:Café	near_2:Sicilia	area:riverside	food:French	familyFriendly:no	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:pub	name_1:The	name_2:Phoenix
+area:riverside	eatType:pub	near_1:Café	near_2:Sicilia	familyFriendly:yes	food:French	name_1:The	name_2:Phoenix	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:£20-25
+familyFriendly:yes	eatType:pub	food:French	name_1:The	name_2:Phoenix	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Crowne	near_2:Plaza	near_3:Hotel	area:riverside	priceRange:£20-25
+food:French	customer_rating:high	familyFriendly:no	priceRange:£20-25	area_1:city	area_2:centre	eatType:pub	near_1:Crowne	near_2:Plaza	near_3:Hotel	name_1:The	name_2:Phoenix
+name_1:The	name_2:Phoenix	familyFriendly:yes	near_1:Crowne	near_2:Plaza	near_3:Hotel	area_1:city	area_2:centre	customer_rating:high	food:French	eatType:pub	priceRange:£20-25
+customer_rating:high	familyFriendly:no	area:riverside	priceRange:£20-25	eatType:pub	name_1:The	name_2:Phoenix	food:French	near_1:Crowne	near_2:Plaza	near_3:Hotel
+food:French	name_1:The	name_2:Phoenix	area:riverside	customer_rating:high	familyFriendly:yes	eatType:pub	near_1:Crowne	near_2:Plaza	near_3:Hotel	priceRange:£20-25
+priceRange:cheap	area:riverside	familyFriendly:yes	near_1:Raja	near_2:Indian	near_3:Cuisine	food:French	name_1:The	name_2:Phoenix	eatType:pub
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Crowne	near_2:Plaza	near_3:Hotel	food:French	area_1:city	area_2:centre	priceRange:cheap	name_1:The	name_2:Phoenix	familyFriendly:no	eatType:pub
+familyFriendly:yes	near_1:Crowne	near_2:Plaza	near_3:Hotel	food:French	area_1:city	area_2:centre	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:cheap	name_1:The	name_2:Phoenix	eatType:pub
+priceRange:cheap	familyFriendly:no	eatType:pub	name_1:The	name_2:Phoenix	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	food:French	near_1:Crowne	near_2:Plaza	near_3:Hotel
+eatType:pub	near_1:Crowne	near_2:Plaza	near_3:Hotel	familyFriendly:yes	food:French	area:riverside	priceRange:cheap	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Phoenix
+name_1:The	name_2:Phoenix	eatType:pub	familyFriendly:yes	area:riverside	priceRange:high	near_1:Raja	near_2:Indian	near_3:Cuisine	food:French
+priceRange:high	area_1:city	area_2:centre	near_1:Crowne	near_2:Plaza	near_3:Hotel	food:French	name_1:The	name_2:Phoenix	familyFriendly:no	eatType:pub	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:pub	near_1:Crowne	near_2:Plaza	near_3:Hotel	area_1:city	area_2:centre	name_1:The	name_2:Phoenix	food:French	priceRange:high	familyFriendly:yes
+eatType:pub	food:French	name_1:The	name_2:Phoenix	area:riverside	near_1:Crowne	near_2:Plaza	near_3:Hotel	priceRange:high	familyFriendly:no	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+name_1:The	name_2:Phoenix	near_1:Crowne	near_2:Plaza	near_3:Hotel	area:riverside	eatType:pub	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:French	priceRange:high	familyFriendly:yes
+name_1:The	name_2:Phoenix	area_1:city	area_2:centre	priceRange_1:less	priceRange_2:than	priceRange_3:£20	near_1:Crowne	near_2:Plaza	near_3:Hotel	food:French	customer_rating:average	eatType:pub	familyFriendly:no
+food:French	familyFriendly:yes	near_1:Crowne	near_2:Plaza	near_3:Hotel	area_1:city	area_2:centre	name_1:The	name_2:Phoenix	eatType:pub	customer_rating:average	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Phoenix	eatType:pub	near_1:Crowne	near_2:Plaza	near_3:Hotel	familyFriendly:no	food:French	area:riverside	customer_rating:average
+customer_rating:average	eatType:pub	food:French	near_1:Crowne	near_2:Plaza	near_3:Hotel	area:riverside	name_1:The	name_2:Phoenix	familyFriendly:yes	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+near_1:Crowne	near_2:Plaza	near_3:Hotel	food:French	eatType:pub	customer_rating:low	name_1:The	name_2:Phoenix	priceRange_1:less	priceRange_2:than	priceRange_3:£20	area_1:city	area_2:centre	familyFriendly:no
+customer_rating:low	familyFriendly:yes	near_1:Crowne	near_2:Plaza	near_3:Hotel	food:French	area_1:city	area_2:centre	name_1:The	name_2:Phoenix	priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType:pub
+name_1:The	name_2:Phoenix	familyFriendly:no	customer_rating:low	area:riverside	eatType:pub	food:French	priceRange_1:less	priceRange_2:than	priceRange_3:£20	near_1:Crowne	near_2:Plaza	near_3:Hotel
+near_1:Crowne	near_2:Plaza	near_3:Hotel	familyFriendly:yes	food:French	priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType:pub	area:riverside	customer_rating:low	name_1:The	name_2:Phoenix
+eatType:pub	familyFriendly:no	priceRange:moderate	food:French	area_1:city	area_2:centre	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Phoenix	near_1:Crowne	near_2:Plaza	near_3:Hotel
+near_1:Crowne	near_2:Plaza	near_3:Hotel	food:French	area_1:city	area_2:centre	priceRange:moderate	familyFriendly:yes	eatType:pub	name_1:The	name_2:Phoenix	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+near_1:Crowne	near_2:Plaza	near_3:Hotel	area:riverside	name_1:The	name_2:Phoenix	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate	food:French	eatType:pub	familyFriendly:no
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Phoenix	priceRange:moderate	eatType:pub	near_1:Crowne	near_2:Plaza	near_3:Hotel	food:French	familyFriendly:yes	area:riverside
+familyFriendly:no	near_1:Crowne	near_2:Plaza	near_3:Hotel	priceRange_1:more	priceRange_2:than	priceRange_3:£30	eatType:pub	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:French	area_1:city	area_2:centre	name_1:The	name_2:Phoenix
+name_1:The	name_2:Phoenix	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:pub	food:French	priceRange_1:more	priceRange_2:than	priceRange_3:£30	familyFriendly:yes	area_1:city	area_2:centre	near_1:Crowne	near_2:Plaza	near_3:Hotel
+eatType:pub	priceRange_1:more	priceRange_2:than	priceRange_3:£30	name_1:The	name_2:Phoenix	familyFriendly:no	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	food:French	near_1:Crowne	near_2:Plaza	near_3:Hotel
+area:riverside	priceRange_1:more	priceRange_2:than	priceRange_3:£30	familyFriendly:yes	eatType:pub	food:French	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Crowne	near_2:Plaza	near_3:Hotel	name_1:The	name_2:Phoenix
+near_1:Crowne	near_2:Plaza	near_3:Hotel	familyFriendly:no	eatType:pub	food:French	priceRange_1:more	priceRange_2:than	priceRange_3:£30	customer_rating:low	name_1:The	name_2:Phoenix	area_1:city	area_2:centre
+name_1:The	name_2:Phoenix	near_1:Crowne	near_2:Plaza	near_3:Hotel	area_1:city	area_2:centre	eatType:pub	priceRange_1:more	priceRange_2:than	priceRange_3:£30	food:French	familyFriendly:yes	customer_rating:low
+name_1:The	name_2:Phoenix	familyFriendly:no	eatType:pub	customer_rating:low	near_1:Crowne	near_2:Plaza	near_3:Hotel	priceRange_1:more	priceRange_2:than	priceRange_3:£30	area:riverside	food:French
+near_1:Crowne	near_2:Plaza	near_3:Hotel	food:French	eatType:pub	name_1:The	name_2:Phoenix	priceRange_1:more	priceRange_2:than	priceRange_3:£30	customer_rating:low	familyFriendly:yes	area:riverside
+area:riverside	food_1:Fast	food_2:food	name_1:The	name_2:Phoenix	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:cheap	familyFriendly:yes	eatType:restaurant
+name_1:The	name_2:Phoenix	eatType:restaurant	area_1:city	area_2:centre	food_1:Fast	food_2:food	priceRange:high	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:no
+name_1:The	name_2:Phoenix	priceRange:high	near_1:Raja	near_2:Indian	near_3:Cuisine	food_1:Fast	food_2:food	familyFriendly:yes	area_1:city	area_2:centre	eatType:restaurant
+food_1:Fast	food_2:food	familyFriendly:no	name_1:The	name_2:Phoenix	eatType:restaurant	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	priceRange:high
+familyFriendly:yes	name_1:The	name_2:Phoenix	area:riverside	eatType:restaurant	priceRange:high	food_1:Fast	food_2:food	near_1:Raja	near_2:Indian	near_3:Cuisine
+name_1:The	name_2:Phoenix	familyFriendly:no	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food_1:Fast	food_2:food	eatType:restaurant	area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine
+area_1:city	area_2:centre	familyFriendly:yes	food_1:Fast	food_2:food	priceRange_1:less	priceRange_2:than	priceRange_3:£20	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:restaurant	name_1:The	name_2:Phoenix
+near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:no	eatType:restaurant	name_1:The	name_2:Phoenix	area:riverside	food_1:Fast	food_2:food
+familyFriendly:yes	food_1:Fast	food_2:food	name_1:The	name_2:Phoenix	priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType:restaurant	area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine
+familyFriendly:no	area_1:city	area_2:centre	food_1:Fast	food_2:food	name_1:The	name_2:Phoenix	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:moderate	eatType:restaurant
+name_1:The	name_2:Phoenix	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:moderate	familyFriendly:yes	eatType:restaurant	food_1:Fast	food_2:food	area_1:city	area_2:centre
+eatType:restaurant	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:moderate	familyFriendly:no	name_1:The	name_2:Phoenix	area:riverside	food_1:Fast	food_2:food
+near_1:Raja	near_2:Indian	near_3:Cuisine	food_1:Fast	food_2:food	priceRange:moderate	name_1:The	name_2:Phoenix	familyFriendly:yes	eatType:restaurant	area:riverside
+priceRange_1:more	priceRange_2:than	priceRange_3:£30	area:riverside	name_1:The	name_2:Phoenix	familyFriendly:yes	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:restaurant	food_1:Fast	food_2:food
+food:French	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:restaurant	priceRange:£20-25	name_1:The	name_2:Phoenix	familyFriendly:yes	area:riverside
+name_1:The	name_2:Phoenix	eatType:restaurant	area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	food:French	priceRange:cheap
+priceRange:high	eatType:restaurant	food:French	area:riverside	familyFriendly:yes	name_1:The	name_2:Phoenix	near_1:Raja	near_2:Indian	near_3:Cuisine
+area_1:city	area_2:centre	food:Indian	priceRange:£20-25	name_1:The	name_2:Phoenix	familyFriendly:no	customer_rating:high	eatType:restaurant	near_1:Crowne	near_2:Plaza	near_3:Hotel
+food:Indian	customer_rating:high	near_1:Crowne	near_2:Plaza	near_3:Hotel	area_1:city	area_2:centre	familyFriendly:yes	name_1:The	name_2:Phoenix	eatType:restaurant	priceRange:£20-25
+familyFriendly:no	eatType:restaurant	customer_rating:high	name_1:The	name_2:Phoenix	near_1:Crowne	near_2:Plaza	near_3:Hotel	area:riverside	priceRange:£20-25	food:Indian
+area:riverside	eatType:restaurant	near_1:Crowne	near_2:Plaza	near_3:Hotel	familyFriendly:yes	food:Indian	customer_rating:high	name_1:The	name_2:Phoenix	priceRange:£20-25
+familyFriendly:no	food:Indian	name_1:The	name_2:Phoenix	near_1:Crowne	near_2:Plaza	near_3:Hotel	area_1:city	area_2:centre	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:cheap	eatType:restaurant
+priceRange:cheap	name_1:The	name_2:Phoenix	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes	eatType:restaurant	near_1:Crowne	near_2:Plaza	near_3:Hotel	food:Indian	area_1:city	area_2:centre
+name_1:The	name_2:Phoenix	near_1:Crowne	near_2:Plaza	near_3:Hotel	area:riverside	priceRange:cheap	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:restaurant	familyFriendly:no	food:Indian
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:restaurant	familyFriendly:no	priceRange:cheap	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	area:riverside	food:Indian	name_1:The	name_2:Phoenix
+eatType:restaurant	food:Indian	familyFriendly:yes	priceRange:cheap	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Phoenix	area:riverside	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn
+name_1:The	name_2:Phoenix	familyFriendly:no	area_1:city	area_2:centre	priceRange:cheap	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	food:Indian	customer_rating:average	eatType:restaurant
+area:riverside	eatType:pub	food:Chinese	familyFriendly:yes	name_1:The	name_2:Plough	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:£20-25
+food:Chinese	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:cheap	name_1:The	name_2:Plough	familyFriendly:yes	area:riverside	eatType:pub
+name_1:The	name_2:Plough	familyFriendly:no	area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:high	eatType:pub	food:Chinese
+near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	priceRange:high	food:Chinese	name_1:The	name_2:Plough	eatType:pub	area_1:city	area_2:centre
+priceRange:high	eatType:pub	area:riverside	name_1:The	name_2:Plough	food:Chinese	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:no
+familyFriendly:yes	eatType:pub	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Plough	food:Chinese	area:riverside	priceRange:high
+food:Chinese	name_1:The	name_2:Plough	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:no	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:pub	area_1:city	area_2:centre
+name_1:The	name_2:Plough	priceRange:£20-25	eatType:restaurant	food:Chinese	familyFriendly:yes	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside
+near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	name_1:The	name_2:Plough	priceRange:cheap	area:riverside	food:Chinese	eatType:restaurant
+name_1:The	name_2:Plough	eatType:restaurant	familyFriendly:no	food:Chinese	near_1:Raja	near_2:Indian	near_3:Cuisine	area_1:city	area_2:centre	priceRange:high
+food:Chinese	name_1:The	name_2:Plough	area_1:city	area_2:centre	familyFriendly:yes	eatType:restaurant	priceRange:high	near_1:Raja	near_2:Indian	near_3:Cuisine
+near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:high	eatType:restaurant	name_1:The	name_2:Plough	familyFriendly:no	food:Chinese	area:riverside
+familyFriendly:yes	area:riverside	name_1:The	name_2:Plough	food:Chinese	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:high	eatType:restaurant
+near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Plough	familyFriendly:no	area_1:city	area_2:centre	eatType:restaurant	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:Chinese
+near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Punter	priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType:pub	area_1:city	area_2:centre	food:Chinese	familyFriendly:yes
+food:Chinese	priceRange_1:less	priceRange_2:than	priceRange_3:£20	area:riverside	eatType:pub	familyFriendly:no	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Punter
+familyFriendly:yes	eatType:pub	area:riverside	food:Chinese	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Punter	near_1:Raja	near_2:Indian	near_3:Cuisine
+eatType:pub	food:Chinese	priceRange:moderate	name_1:The	name_2:Punter	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:no	area_1:city	area_2:centre
+name_1:The	name_2:Punter	food:Chinese	area_1:city	area_2:centre	familyFriendly:yes	eatType:pub	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:moderate
+near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	food:Chinese	priceRange:moderate	eatType:pub	familyFriendly:no	name_1:The	name_2:Punter
+food:Chinese	familyFriendly:yes	priceRange:moderate	eatType:pub	area:riverside	name_1:The	name_2:Punter	near_1:Raja	near_2:Indian	near_3:Cuisine
+familyFriendly:yes	eatType:pub	area:riverside	name_1:The	name_2:Punter	near_1:Raja	near_2:Indian	near_3:Cuisine	food:Chinese	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:£20-25	eatType:pub	food:English	name_1:The	name_2:Punter	familyFriendly:yes	area:riverside
+near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Punter	familyFriendly:yes	eatType:pub	food:English	priceRange:cheap	area:riverside
+name_1:The	name_2:Punter	familyFriendly:no	area_1:city	area_2:centre	eatType:pub	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:high	food:English
+familyFriendly:yes	priceRange:high	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Punter	food:English	eatType:pub	area_1:city	area_2:centre
+eatType:pub	priceRange:high	familyFriendly:no	area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Punter	food:English
+near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Punter	eatType:pub	priceRange:high	food:English	familyFriendly:yes	area:riverside
+customer_rating:average	name_1:The	name_2:Punter	food:Italian	area_1:city	area_2:centre	near_1:Rainbow	near_2:Vegetarian	near_3:Café	priceRange:high	eatType:pub	familyFriendly:no
+eatType:restaurant	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	name_1:The	name_2:Punter	priceRange_1:less	priceRange_2:than	priceRange_3:£20	area_1:city	area_2:centre	food:Chinese
+food:Chinese	name_1:The	name_2:Punter	familyFriendly:no	priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType:restaurant	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside
+food:Chinese	eatType:restaurant	area:riverside	familyFriendly:yes	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Punter
+priceRange:moderate	familyFriendly:no	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:restaurant	name_1:The	name_2:Punter	food:Chinese	area_1:city	area_2:centre
+familyFriendly:yes	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:moderate	area_1:city	area_2:centre	eatType:restaurant	food:Chinese	name_1:The	name_2:Punter
+eatType:restaurant	area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Punter	priceRange:moderate	food:Chinese	familyFriendly:no
+near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	area:riverside	priceRange:moderate	name_1:The	name_2:Punter	eatType:restaurant	food:Chinese
+name_1:The	name_2:Punter	familyFriendly:yes	eatType:restaurant	food:Chinese	priceRange_1:more	priceRange_2:than	priceRange_3:£30	area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine
+food:English	name_1:The	name_2:Punter	area:riverside	familyFriendly:yes	priceRange:£20-25	eatType:restaurant	near_1:Raja	near_2:Indian	near_3:Cuisine
+eatType:restaurant	area:riverside	familyFriendly:yes	priceRange:cheap	name_1:The	name_2:Punter	food:English	near_1:Raja	near_2:Indian	near_3:Cuisine
+area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine	food:English	priceRange:high	name_1:The	name_2:Punter	familyFriendly:no	eatType:restaurant
+food:English	eatType:restaurant	area_1:city	area_2:centre	name_1:The	name_2:Punter	familyFriendly:yes	priceRange:high	near_1:Raja	near_2:Indian	near_3:Cuisine
+area:riverside	name_1:The	name_2:Punter	eatType:restaurant	food:English	priceRange:high	familyFriendly:no	near_1:Raja	near_2:Indian	near_3:Cuisine
+food:English	eatType:restaurant	familyFriendly:yes	area:riverside	name_1:The	name_2:Punter	priceRange:high	near_1:Raja	near_2:Indian	near_3:Cuisine
+area_1:city	area_2:centre	priceRange:cheap	customer_rating:average	familyFriendly:yes	food:Indian	name_1:The	name_2:Punter	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	eatType:restaurant
+food:Indian	eatType:restaurant	area:riverside	customer_rating:average	name_1:The	name_2:Punter	priceRange:cheap	familyFriendly:no	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn
+eatType:restaurant	area:riverside	food:Indian	customer_rating:average	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	name_1:The	name_2:Punter	priceRange:cheap	familyFriendly:yes
+area_1:city	area_2:centre	familyFriendly:no	name_1:The	name_2:Punter	food:Indian	priceRange:high	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:restaurant	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn
+priceRange:high	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes	area_1:city	area_2:centre	name_1:The	name_2:Punter	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	food:Indian	eatType:restaurant
+area:riverside	food:Indian	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:no	name_1:The	name_2:Punter	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	eatType:restaurant	priceRange:high
+eatType:restaurant	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	area:riverside	name_1:The	name_2:Punter	familyFriendly:yes	food:Indian	priceRange:high
+familyFriendly:no	food:Indian	name_1:The	name_2:Punter	priceRange:high	eatType:restaurant	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	area_1:city	area_2:centre	customer_rating:average
+priceRange:high	food:Indian	familyFriendly:yes	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	name_1:The	name_2:Punter	area_1:city	area_2:centre	customer_rating:average	eatType:restaurant
+priceRange:high	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	familyFriendly:no	eatType:restaurant	area:riverside	customer_rating:average	food:Indian	name_1:The	name_2:Punter
+near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	food:Indian	area:riverside	customer_rating:average	familyFriendly:yes	name_1:The	name_2:Punter	eatType:restaurant	priceRange:high
+near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	area_1:city	area_2:centre	customer_rating:low	familyFriendly:no	food:Indian	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Punter	eatType:restaurant
+familyFriendly:yes	eatType:restaurant	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Punter	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	food:Indian	area_1:city	area_2:centre	customer_rating:low
+customer_rating:low	food:Indian	area:riverside	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Punter	familyFriendly:no	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	eatType:restaurant
+area:riverside	eatType:restaurant	familyFriendly:yes	priceRange_1:less	priceRange_2:than	priceRange_3:£20	customer_rating:low	name_1:The	name_2:Punter	food:Indian	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn
+eatType:restaurant	food:Indian	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	priceRange:moderate	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area_1:city	area_2:centre	name_1:The	name_2:Punter	familyFriendly:no
+familyFriendly:yes	food:Indian	area_1:city	area_2:centre	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	name_1:The	name_2:Punter	eatType:restaurant
+name_1:The	name_2:Punter	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate	eatType:restaurant	area:riverside	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	familyFriendly:no	food:Indian
+near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	familyFriendly:yes	name_1:The	name_2:Punter	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate	eatType:restaurant	food:Indian	area:riverside
+area_1:city	area_2:centre	name_1:The	name_2:Punter	priceRange:moderate	eatType:restaurant	familyFriendly:no	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	food:Indian	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+familyFriendly:yes	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	priceRange:moderate	name_1:The	name_2:Punter	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:restaurant	area_1:city	area_2:centre	food:Indian
+familyFriendly:no	eatType:restaurant	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	name_1:The	name_2:Punter	food:Indian	priceRange:moderate	area:riverside	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+name_1:The	name_2:Punter	familyFriendly:yes	area:riverside	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Indian	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	eatType:restaurant	priceRange:moderate
+food:Indian	name_1:The	name_2:Punter	area_1:city	area_2:centre	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	eatType:restaurant	priceRange_1:more	priceRange_2:than	priceRange_3:£30	familyFriendly:no	customer_rating:high
+food:Indian	name_1:The	name_2:Punter	priceRange_1:more	priceRange_2:than	priceRange_3:£30	area_1:city	area_2:centre	customer_rating:high	eatType:restaurant	familyFriendly:yes	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn
+familyFriendly:no	customer_rating:high	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	eatType:restaurant	food:Indian	area:riverside	priceRange_1:more	priceRange_2:than	priceRange_3:£30	name_1:The	name_2:Punter
+name_1:The	name_2:Punter	familyFriendly:yes	area:riverside	food:Indian	priceRange_1:more	priceRange_2:than	priceRange_3:£30	eatType:restaurant	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	customer_rating:high
+food:Italian	area_1:city	area_2:centre	priceRange:£20-25	name_1:The	name_2:Punter	familyFriendly:no	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	customer_rating:high	eatType:restaurant
+near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	customer_rating:high	eatType:restaurant	familyFriendly:yes	area_1:city	area_2:centre	name_1:The	name_2:Punter	priceRange:£20-25	food:Italian
+area:riverside	food:Italian	priceRange:£20-25	eatType:restaurant	name_1:The	name_2:Punter	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	familyFriendly:no	customer_rating:high
+familyFriendly:yes	name_1:The	name_2:Punter	eatType:restaurant	area:riverside	food:Italian	customer_rating:high	priceRange:£20-25	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn
+priceRange:cheap	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area_1:city	area_2:centre	familyFriendly:no	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	eatType:restaurant	name_1:The	name_2:Punter	food:Italian
+food:Italian	eatType:restaurant	priceRange:cheap	near_1:Rainbow	near_2:Vegetarian	near_3:Café	familyFriendly:no	area_1:city	area_2:centre	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Punter
+familyFriendly:yes	near_1:Rainbow	near_2:Vegetarian	near_3:Café	food:Italian	area_1:city	area_2:centre	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:restaurant	priceRange:cheap	name_1:The	name_2:Punter
+area:riverside	food:Italian	familyFriendly:no	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Punter	eatType:restaurant	priceRange:cheap	near_1:Rainbow	near_2:Vegetarian	near_3:Café
+area:riverside	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Italian	near_1:Rainbow	near_2:Vegetarian	near_3:Café	familyFriendly:yes	eatType:restaurant	priceRange:cheap	name_1:The	name_2:Punter
+familyFriendly:no	area_1:city	area_2:centre	eatType:restaurant	near_1:Rainbow	near_2:Vegetarian	near_3:Café	food:Italian	name_1:The	name_2:Punter	customer_rating:average	priceRange:cheap
+near_1:Rainbow	near_2:Vegetarian	near_3:Café	customer_rating:average	familyFriendly:yes	eatType:restaurant	food:Italian	area_1:city	area_2:centre	name_1:The	name_2:Punter	priceRange:cheap
+near_1:Rainbow	near_2:Vegetarian	near_3:Café	area:riverside	customer_rating:average	eatType:restaurant	priceRange:cheap	familyFriendly:no	name_1:The	name_2:Punter	food:Italian
+customer_rating:average	priceRange:cheap	area:riverside	eatType:restaurant	familyFriendly:yes	food:Italian	name_1:The	name_2:Punter	near_1:Rainbow	near_2:Vegetarian	near_3:Café
+name_1:The	name_2:Punter	eatType:restaurant	familyFriendly:no	priceRange:high	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Rainbow	near_2:Vegetarian	near_3:Café	food:Italian	area_1:city	area_2:centre
+eatType:restaurant	familyFriendly:yes	name_1:The	name_2:Punter	area_1:city	area_2:centre	near_1:Rainbow	near_2:Vegetarian	near_3:Café	food:Italian	priceRange:high	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:restaurant	priceRange:high	food:Italian	area:riverside	near_1:Rainbow	near_2:Vegetarian	near_3:Café	familyFriendly:no	name_1:The	name_2:Punter
+name_1:The	name_2:Punter	eatType:restaurant	priceRange:high	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Italian	area:riverside	familyFriendly:yes	near_1:Rainbow	near_2:Vegetarian	near_3:Café
+food:French	area:riverside	familyFriendly:yes	priceRange:high	name_1:The	name_2:Vaults	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:pub
+priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Vaults	familyFriendly:no	eatType:pub	area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine	food:French
+area_1:city	area_2:centre	name_1:The	name_2:Vaults	food:French	priceRange_1:less	priceRange_2:than	priceRange_3:£20	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	eatType:pub
+area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:French	familyFriendly:no	name_1:The	name_2:Vaults	eatType:pub
+name_1:The	name_2:Vaults	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType:pub	familyFriendly:yes	food:French
+priceRange:moderate	food:French	eatType:pub	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Vaults	area_1:city	area_2:centre	familyFriendly:no
+priceRange:moderate	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	name_1:The	name_2:Vaults	food:French	area_1:city	area_2:centre	eatType:pub
+familyFriendly:no	priceRange:moderate	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	food:French	eatType:pub	name_1:The	name_2:Vaults
+name_1:The	name_2:Vaults	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	familyFriendly:yes	eatType:pub	priceRange:moderate	food:French
+near_1:Raja	near_2:Indian	near_3:Cuisine	area_1:city	area_2:centre	eatType:pub	familyFriendly:no	name_1:The	name_2:Vaults	priceRange_1:more	priceRange_2:than	priceRange_3:£30	food:French
+familyFriendly:yes	name_1:The	name_2:Vaults	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:pub	area_1:city	area_2:centre	food:French	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+familyFriendly:no	priceRange_1:more	priceRange_2:than	priceRange_3:£30	near_1:Raja	near_2:Indian	near_3:Cuisine	food:French	area:riverside	name_1:The	name_2:Vaults	eatType:pub
+eatType:pub	familyFriendly:yes	area:riverside	priceRange_1:more	priceRange_2:than	priceRange_3:£30	name_1:The	name_2:Vaults	food:French	near_1:Raja	near_2:Indian	near_3:Cuisine
+eatType:pub	area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine	food:Indian	priceRange:£20-25	name_1:The	name_2:Vaults	familyFriendly:yes
+priceRange:cheap	near_1:Raja	near_2:Indian	near_3:Cuisine	food:Indian	area:riverside	familyFriendly:yes	eatType:pub	name_1:The	name_2:Vaults
+name_1:The	name_2:Vaults	near_1:Raja	near_2:Indian	near_3:Cuisine	food:Indian	priceRange:high	area_1:city	area_2:centre	eatType:pub	familyFriendly:no
+priceRange:high	familyFriendly:yes	near_1:Raja	near_2:Indian	near_3:Cuisine	area_1:city	area_2:centre	eatType:pub	name_1:The	name_2:Vaults	food:Indian
+familyFriendly:no	area_1:city	area_2:centre	eatType:pub	name_1:The	name_2:Vaults	customer_rating:average	priceRange:high	food:Italian	near_1:Rainbow	near_2:Vegetarian	near_3:Café
+customer_rating:average	area_1:city	area_2:centre	food:Italian	eatType:pub	near_1:Rainbow	near_2:Vegetarian	near_3:Café	priceRange:high	familyFriendly:yes	name_1:The	name_2:Vaults
+eatType:pub	customer_rating:average	familyFriendly:no	name_1:The	name_2:Vaults	food:Italian	area:riverside	near_1:Rainbow	near_2:Vegetarian	near_3:Café	priceRange:high
+food:Italian	area:riverside	customer_rating:average	name_1:The	name_2:Vaults	familyFriendly:yes	near_1:Rainbow	near_2:Vegetarian	near_3:Café	eatType:pub	priceRange:high
+customer_rating:low	eatType:pub	area_1:city	area_2:centre	name_1:The	name_2:Vaults	near_1:Rainbow	near_2:Vegetarian	near_3:Café	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:no	food:Italian
+customer_rating:low	name_1:The	name_2:Vaults	eatType:pub	near_1:Rainbow	near_2:Vegetarian	near_3:Café	area_1:city	area_2:centre	food:Italian	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:yes
+customer_rating:low	food:Italian	near_1:Rainbow	near_2:Vegetarian	near_3:Café	familyFriendly:no	area:riverside	name_1:The	name_2:Vaults	priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType:pub
+name_1:The	name_2:Vaults	area:riverside	food:Italian	customer_rating:low	eatType:pub	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:yes	near_1:Rainbow	near_2:Vegetarian	near_3:Café
+area_1:city	area_2:centre	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Rainbow	near_2:Vegetarian	near_3:Café	name_1:The	name_2:Vaults	familyFriendly:no	priceRange:moderate	food:Italian	eatType:pub
+name_1:The	name_2:Vaults	priceRange:moderate	near_1:Rainbow	near_2:Vegetarian	near_3:Café	food:Italian	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes	eatType:pub	area_1:city	area_2:centre
+food:Italian	area:riverside	priceRange:moderate	name_1:The	name_2:Vaults	near_1:Rainbow	near_2:Vegetarian	near_3:Café	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:pub	familyFriendly:no
+near_1:Rainbow	near_2:Vegetarian	near_3:Café	familyFriendly:yes	name_1:The	name_2:Vaults	priceRange:moderate	area:riverside	food:Italian	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:pub
+area_1:city	area_2:centre	name_1:The	name_2:Vaults	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Italian	priceRange:moderate	familyFriendly:no	eatType:pub	near_1:Rainbow	near_2:Vegetarian	near_3:Café
+priceRange:moderate	near_1:Rainbow	near_2:Vegetarian	near_3:Café	food:Italian	familyFriendly:yes	name_1:The	name_2:Vaults	area_1:city	area_2:centre	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:pub
+near_1:Rainbow	near_2:Vegetarian	near_3:Café	eatType:pub	name_1:The	name_2:Vaults	area:riverside	familyFriendly:no	food:Italian	priceRange:moderate	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+near_1:Rainbow	near_2:Vegetarian	near_3:Café	priceRange:moderate	food:Italian	eatType:pub	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes	area:riverside	name_1:The	name_2:Vaults
+familyFriendly:no	customer_rating:high	area_1:city	area_2:centre	near_1:Rainbow	near_2:Vegetarian	near_3:Café	eatType:pub	food:Italian	priceRange_1:more	priceRange_2:than	priceRange_3:£30	name_1:The	name_2:Vaults
+near_1:Rainbow	near_2:Vegetarian	near_3:Café	eatType:pub	area_1:city	area_2:centre	familyFriendly:yes	name_1:The	name_2:Vaults	food:Italian	customer_rating:high	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+eatType:pub	near_1:Rainbow	near_2:Vegetarian	near_3:Café	area:riverside	customer_rating:high	familyFriendly:no	food:Italian	name_1:The	name_2:Vaults	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+eatType:pub	food:Italian	customer_rating:high	familyFriendly:yes	near_1:Rainbow	near_2:Vegetarian	near_3:Café	name_1:The	name_2:Vaults	priceRange_1:more	priceRange_2:than	priceRange_3:£30	area:riverside
+food:Japanese	near_1:Rainbow	near_2:Vegetarian	near_3:Café	priceRange:£20-25	name_1:The	name_2:Vaults	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:no	area_1:city	area_2:centre	eatType:pub
+familyFriendly:yes	name_1:The	name_2:Vaults	near_1:Rainbow	near_2:Vegetarian	near_3:Café	eatType:pub	priceRange:£20-25	area_1:city	area_2:centre	food:Japanese	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Vaults	area:riverside	familyFriendly:no	food:Japanese	near_1:Rainbow	near_2:Vegetarian	near_3:Café	eatType:pub	priceRange:£20-25
+eatType:pub	near_1:Rainbow	near_2:Vegetarian	near_3:Café	area:riverside	food:Japanese	priceRange:£20-25	name_1:The	name_2:Vaults	familyFriendly:yes	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+name_1:The	name_2:Vaults	food:Japanese	eatType:pub	familyFriendly:no	near_1:Rainbow	near_2:Vegetarian	near_3:Café	area_1:city	area_2:centre	priceRange:£20-25	customer_rating:high
+eatType:pub	priceRange:£20-25	near_1:Rainbow	near_2:Vegetarian	near_3:Café	customer_rating:high	area_1:city	area_2:centre	familyFriendly:yes	food:Japanese	name_1:The	name_2:Vaults
+priceRange:£20-25	area:riverside	food:Japanese	name_1:The	name_2:Vaults	near_1:Rainbow	near_2:Vegetarian	near_3:Café	familyFriendly:no	customer_rating:high	eatType:pub
+area:riverside	customer_rating:high	priceRange:£20-25	food:Japanese	familyFriendly:no	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Vaults	eatType:pub
+name_1:The	name_2:Vaults	area:riverside	food:Japanese	eatType:pub	familyFriendly:yes	customer_rating:high	priceRange:£20-25	near_1:Raja	near_2:Indian	near_3:Cuisine
+familyFriendly:no	near_1:Raja	near_2:Indian	near_3:Cuisine	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Vaults	area_1:city	area_2:centre	food:Japanese	eatType:pub	priceRange:cheap
+familyFriendly:yes	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:cheap	eatType:pub	near_1:Raja	near_2:Indian	near_3:Cuisine	area_1:city	area_2:centre	name_1:The	name_2:Vaults	food:Japanese
+name_1:The	name_2:Vaults	familyFriendly:no	food:Japanese	priceRange:cheap	area:riverside	eatType:pub	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Raja	near_2:Indian	near_3:Cuisine
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:pub	priceRange:cheap	name_1:The	name_2:Vaults	food:Japanese	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	familyFriendly:yes
+familyFriendly:no	eatType:pub	food:Japanese	name_1:The	name_2:Vaults	area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:high	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+name_1:The	name_2:Vaults	priceRange:high	near_1:Raja	near_2:Indian	near_3:Cuisine	food:Japanese	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:pub	area_1:city	area_2:centre	familyFriendly:yes
+familyFriendly:no	name_1:The	name_2:Vaults	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:high	food:Japanese	area:riverside	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:pub
+priceRange:high	food:Japanese	name_1:The	name_2:Vaults	eatType:pub	area:riverside	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes
+near_1:Raja	near_2:Indian	near_3:Cuisine	food:Japanese	area_1:city	area_2:centre	name_1:The	name_2:Vaults	customer_rating:average	priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType:pub	familyFriendly:no
+familyFriendly:yes	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:Japanese	name_1:The	name_2:Vaults	customer_rating:average	eatType:pub	near_1:Raja	near_2:Indian	near_3:Cuisine	area_1:city	area_2:centre
+near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	eatType:pub	familyFriendly:no	priceRange_1:less	priceRange_2:than	priceRange_3:£20	customer_rating:average	name_1:The	name_2:Vaults	food:Japanese
+eatType:pub	food:Japanese	area:riverside	name_1:The	name_2:Vaults	customer_rating:average	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+food:Japanese	customer_rating:low	name_1:The	name_2:Vaults	eatType:pub	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange_1:less	priceRange_2:than	priceRange_3:£20	area_1:city	area_2:centre	familyFriendly:no
+food:Japanese	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Vaults	familyFriendly:yes	customer_rating:low	priceRange_1:less	priceRange_2:than	priceRange_3:£20	area_1:city	area_2:centre	eatType:pub
+near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:pub	food:Japanese	area:riverside	name_1:The	name_2:Vaults	customer_rating:low	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:no
+area:riverside	name_1:The	name_2:Vaults	food:Japanese	familyFriendly:yes	priceRange_1:less	priceRange_2:than	priceRange_3:£20	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:pub	customer_rating:low
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Japanese	familyFriendly:no	name_1:The	name_2:Vaults	eatType:pub	near_1:Raja	near_2:Indian	near_3:Cuisine	area_1:city	area_2:centre	priceRange:moderate
+area_1:city	area_2:centre	name_1:The	name_2:Vaults	near_1:Raja	near_2:Indian	near_3:Cuisine	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:pub	priceRange:moderate	familyFriendly:yes	food:Japanese
+food:French	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:restaurant	name_1:The	name_2:Vaults	priceRange:high	area:riverside	familyFriendly:yes
+near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:French	eatType:restaurant	familyFriendly:no	area_1:city	area_2:centre	name_1:The	name_2:Vaults
+area_1:city	area_2:centre	eatType:restaurant	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Vaults	familyFriendly:yes	near_1:Raja	near_2:Indian	near_3:Cuisine	food:French
+near_1:Raja	near_2:Indian	near_3:Cuisine	food:French	eatType:restaurant	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:no	name_1:The	name_2:Vaults	area:riverside
+eatType:restaurant	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:French	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	familyFriendly:yes	name_1:The	name_2:Vaults
+familyFriendly:no	priceRange:moderate	name_1:The	name_2:Vaults	area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine	food:French	eatType:restaurant
+near_1:Raja	near_2:Indian	near_3:Cuisine	area_1:city	area_2:centre	food:French	name_1:The	name_2:Vaults	eatType:restaurant	priceRange:moderate	familyFriendly:yes
+food:French	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Vaults	priceRange:moderate	eatType:restaurant	familyFriendly:no	area:riverside
+priceRange:moderate	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	food:French	eatType:restaurant	name_1:The	name_2:Vaults	area:riverside
+familyFriendly:no	eatType:restaurant	name_1:The	name_2:Vaults	priceRange_1:more	priceRange_2:than	priceRange_3:£30	food:French	near_1:Raja	near_2:Indian	near_3:Cuisine	area_1:city	area_2:centre
+familyFriendly:yes	name_1:The	name_2:Vaults	food:French	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange_1:more	priceRange_2:than	priceRange_3:£30	area_1:city	area_2:centre	eatType:restaurant
+familyFriendly:no	name_1:The	name_2:Vaults	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:restaurant	food:French	area:riverside	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+familyFriendly:yes	priceRange_1:more	priceRange_2:than	priceRange_3:£30	area:riverside	name_1:The	name_2:Vaults	eatType:restaurant	near_1:Raja	near_2:Indian	near_3:Cuisine	food:French
+eatType:restaurant	familyFriendly:yes	name_1:The	name_2:Vaults	priceRange:£20-25	food:Indian	area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine
+food:Indian	priceRange:cheap	name_1:The	name_2:Vaults	eatType:restaurant	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	area:riverside
+near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Vaults	eatType:restaurant	familyFriendly:no	food:Indian	priceRange:high	area_1:city	area_2:centre
+eatType:restaurant	area_1:city	area_2:centre	priceRange:high	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	name_1:The	name_2:Vaults	food:Indian
+area_1:city	area_2:centre	eatType:pub	name_1:The	name_2:Waterman	near_1:Raja	near_2:Indian	near_3:Cuisine	food:Indian	familyFriendly:yes	priceRange:high
+near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Waterman	food:Indian	priceRange:high	area:riverside	familyFriendly:no	eatType:pub
+area:riverside	food:Indian	familyFriendly:yes	name_1:The	name_2:Waterman	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:pub	priceRange:high
+food:Indian	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Waterman	area_1:city	area_2:centre	eatType:pub	familyFriendly:no	near_1:Raja	near_2:Indian	near_3:Cuisine
+name_1:The	name_2:Waterman	familyFriendly:yes	area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:pub	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:Indian
+familyFriendly:no	area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Waterman	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:Indian	eatType:pub
+near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	area:riverside	eatType:pub	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Waterman	food:Indian
+eatType:pub	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:moderate	area_1:city	area_2:centre	name_1:The	name_2:Waterman	food:Indian	familyFriendly:no
+name_1:The	name_2:Waterman	area_1:city	area_2:centre	eatType:pub	priceRange:moderate	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	food:Indian
+near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Waterman	area:riverside	eatType:pub	familyFriendly:no	priceRange:moderate	food:Indian
+near_1:Raja	near_2:Indian	near_3:Cuisine	food:Indian	familyFriendly:yes	area:riverside	eatType:pub	name_1:The	name_2:Waterman	priceRange:moderate
+eatType:pub	priceRange_1:more	priceRange_2:than	priceRange_3:£30	food:Indian	name_1:The	name_2:Waterman	familyFriendly:yes	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside
+near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:pub	familyFriendly:yes	food:Italian	name_1:The	name_2:Waterman	priceRange:£20-25	area:riverside
+food:Italian	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	priceRange:cheap	eatType:pub	name_1:The	name_2:Waterman	familyFriendly:yes
+eatType:pub	area_1:city	area_2:centre	priceRange:high	familyFriendly:no	food:Italian	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Waterman
+area_1:city	area_2:centre	priceRange:high	eatType:pub	familyFriendly:yes	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Waterman	food:Italian
+eatType:pub	name_1:The	name_2:Waterman	food:Italian	familyFriendly:no	priceRange:high	area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine
+name_1:The	name_2:Waterman	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	food:Italian	area:riverside	priceRange:high	eatType:pub
+eatType:pub	name_1:The	name_2:Waterman	near_1:Raja	near_2:Indian	near_3:Cuisine	area_1:city	area_2:centre	familyFriendly:no	food:Italian	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+name_1:The	name_2:Waterman	eatType:pub	familyFriendly:yes	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:Italian	near_1:Raja	near_2:Indian	near_3:Cuisine	area_1:city	area_2:centre
+familyFriendly:no	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:pub	area:riverside	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:Italian	name_1:The	name_2:Waterman
+familyFriendly:yes	priceRange:high	eatType:restaurant	food:Indian	name_1:The	name_2:Waterman	area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine
+priceRange:high	food:Indian	eatType:restaurant	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:no	name_1:The	name_2:Waterman	area:riverside
+food:Indian	name_1:The	name_2:Waterman	eatType:restaurant	familyFriendly:yes	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	priceRange:high
+priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Waterman	familyFriendly:no	eatType:restaurant	near_1:Raja	near_2:Indian	near_3:Cuisine	area_1:city	area_2:centre	food:Indian
+familyFriendly:yes	name_1:The	name_2:Waterman	near_1:Raja	near_2:Indian	near_3:Cuisine	food:Indian	area_1:city	area_2:centre	eatType:restaurant	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+priceRange_1:less	priceRange_2:than	priceRange_3:£20	near_1:Raja	near_2:Indian	near_3:Cuisine	food:Indian	name_1:The	name_2:Waterman	familyFriendly:no	area:riverside	eatType:restaurant
+familyFriendly:yes	name_1:The	name_2:Waterman	food:Indian	area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType:restaurant
+familyFriendly:no	area_1:city	area_2:centre	priceRange:moderate	food:Indian	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Waterman	eatType:restaurant
+near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Waterman	eatType:restaurant	familyFriendly:yes	food:Indian	area_1:city	area_2:centre	priceRange:moderate
+area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine	food:Indian	eatType:restaurant	familyFriendly:no	name_1:The	name_2:Waterman	priceRange:moderate
+name_1:The	name_2:Waterman	food:Indian	area:riverside	eatType:restaurant	priceRange:moderate	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes
+familyFriendly:yes	priceRange_1:more	priceRange_2:than	priceRange_3:£30	name_1:The	name_2:Waterman	area:riverside	food:Indian	eatType:restaurant	near_1:Raja	near_2:Indian	near_3:Cuisine
+priceRange:£20-25	name_1:The	name_2:Waterman	eatType:restaurant	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	food:Italian	area:riverside
+familyFriendly:yes	name_1:The	name_2:Waterman	area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:restaurant	priceRange:cheap	food:Italian
+near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:no	eatType:restaurant	priceRange:high	food:Italian	name_1:The	name_2:Waterman	area_1:city	area_2:centre
+familyFriendly:yes	food:Italian	eatType:restaurant	priceRange:high	name_1:The	name_2:Waterman	area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine
+area:riverside	name_1:The	name_2:Waterman	eatType:restaurant	familyFriendly:no	food:Italian	priceRange:high	near_1:Raja	near_2:Indian	near_3:Cuisine
+near_1:Raja	near_2:Indian	near_3:Cuisine	food:Italian	familyFriendly:yes	area:riverside	priceRange:high	name_1:The	name_2:Waterman	eatType:restaurant
+name_1:The	name_2:Waterman	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:no	food:Italian	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:restaurant	area_1:city	area_2:centre
+area_1:city	area_2:centre	name_1:The	name_2:Waterman	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:yes	eatType:restaurant	food:Italian	near_1:Raja	near_2:Indian	near_3:Cuisine
+food:Italian	name_1:The	name_2:Waterman	priceRange_1:less	priceRange_2:than	priceRange_3:£20	area:riverside	eatType:restaurant	familyFriendly:no	near_1:Raja	near_2:Indian	near_3:Cuisine
+area:riverside	food:Italian	name_1:The	name_2:Wrestlers	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType:pub	familyFriendly:no
+area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:yes	eatType:pub	food:Italian	name_1:The	name_2:Wrestlers
+priceRange:moderate	area_1:city	area_2:centre	name_1:The	name_2:Wrestlers	eatType:pub	food:Italian	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:no
+near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	name_1:The	name_2:Wrestlers	eatType:pub	area_1:city	area_2:centre	food:Italian	priceRange:moderate
+food:Italian	area:riverside	priceRange:moderate	familyFriendly:no	name_1:The	name_2:Wrestlers	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:pub
+food:Italian	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:moderate	area:riverside	familyFriendly:yes	eatType:pub	name_1:The	name_2:Wrestlers
+name_1:The	name_2:Wrestlers	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	eatType:pub	area:riverside	food:Italian	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:pub	name_1:The	name_2:Wrestlers	food:Japanese	familyFriendly:yes	area:riverside	priceRange:£20-25
+priceRange:cheap	area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine	food:Japanese	eatType:pub	name_1:The	name_2:Wrestlers	familyFriendly:yes
+area:riverside	name_1:The	name_2:Wrestlers	food:Japanese	eatType:pub	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:high	familyFriendly:yes
+familyFriendly:no	name_1:The	name_2:Wrestlers	eatType:pub	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:Japanese	area_1:city	area_2:centre
+food:Japanese	eatType:pub	familyFriendly:yes	name_1:The	name_2:Wrestlers	priceRange_1:less	priceRange_2:than	priceRange_3:£20	area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine
+area:riverside	eatType:pub	familyFriendly:no	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:Japanese	name_1:The	name_2:Wrestlers
+food:Japanese	area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Wrestlers	familyFriendly:yes	eatType:pub
+near_1:Raja	near_2:Indian	near_3:Cuisine	food:Japanese	eatType:pub	familyFriendly:no	name_1:The	name_2:Wrestlers	priceRange:moderate	area_1:city	area_2:centre
+familyFriendly:yes	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Wrestlers	food:Japanese	priceRange:moderate	area_1:city	area_2:centre	eatType:pub
+priceRange:moderate	familyFriendly:no	name_1:The	name_2:Wrestlers	eatType:pub	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	food:Japanese
+familyFriendly:yes	eatType:pub	name_1:The	name_2:Wrestlers	priceRange:moderate	food:Japanese	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside
+food:Japanese	area_1:city	area_2:centre	familyFriendly:yes	eatType:pub	name_1:The	name_2:Wrestlers	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate	near_1:Raja	near_2:Indian	near_3:Cuisine
+familyFriendly:no	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	name_1:The	name_2:Wrestlers	eatType:pub	food:Japanese	priceRange:moderate	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+priceRange:moderate	name_1:The	name_2:Wrestlers	familyFriendly:yes	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:pub	area:riverside	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Japanese
+food:Japanese	priceRange_1:more	priceRange_2:than	priceRange_3:£30	area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:pub	familyFriendly:no	name_1:The	name_2:Wrestlers
+eatType:pub	food:Japanese	priceRange_1:more	priceRange_2:than	priceRange_3:£30	familyFriendly:yes	area_1:city	area_2:centre	name_1:The	name_2:Wrestlers	near_1:Raja	near_2:Indian	near_3:Cuisine
+familyFriendly:no	name_1:The	name_2:Wrestlers	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange_1:more	priceRange_2:than	priceRange_3:£30	eatType:pub	area:riverside	food:Japanese
+food:Japanese	familyFriendly:yes	eatType:pub	area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Wrestlers	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Wrestlers	food:Japanese	familyFriendly:no	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area_1:city	area_2:centre	eatType:pub	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+name_1:The	name_2:Wrestlers	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:pub	familyFriendly:yes	priceRange_1:more	priceRange_2:than	priceRange_3:£30	food:Japanese	area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine
+eatType:pub	familyFriendly:no	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	name_1:The	name_2:Wrestlers	priceRange_1:more	priceRange_2:than	priceRange_3:£30	food:Japanese	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+name_1:The	name_2:Wrestlers	familyFriendly:yes	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Japanese	priceRange_1:more	priceRange_2:than	priceRange_3:£30	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	eatType:pub
+eatType:pub	priceRange_1:more	priceRange_2:than	priceRange_3:£30	name_1:The	name_2:Wrestlers	area_1:city	area_2:centre	food:Japanese	near_1:Raja	near_2:Indian	near_3:Cuisine	customer_rating:low	familyFriendly:no
+near_1:Raja	near_2:Indian	near_3:Cuisine	customer_rating:low	eatType:pub	priceRange_1:more	priceRange_2:than	priceRange_3:£30	familyFriendly:yes	area_1:city	area_2:centre	food:Japanese	name_1:The	name_2:Wrestlers
+familyFriendly:no	food:Japanese	eatType:pub	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Wrestlers	priceRange_1:more	priceRange_2:than	priceRange_3:£30	customer_rating:low	area:riverside
+area:riverside	familyFriendly:yes	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:pub	food:Japanese	name_1:The	name_2:Wrestlers	customer_rating:low	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:no	name_1:The	name_2:Wrestlers	eatType:restaurant	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:Italian	area:riverside
+area:riverside	name_1:The	name_2:Wrestlers	food:Italian	familyFriendly:yes	priceRange_1:less	priceRange_2:than	priceRange_3:£20	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:restaurant
+food:Italian	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:no	priceRange:moderate	name_1:The	name_2:Wrestlers	area_1:city	area_2:centre	eatType:restaurant
+eatType:restaurant	priceRange:moderate	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	area_1:city	area_2:centre	name_1:The	name_2:Wrestlers	food:Italian
+familyFriendly:no	eatType:restaurant	food:Italian	name_1:The	name_2:Wrestlers	priceRange:moderate	area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine
+familyFriendly:yes	name_1:The	name_2:Wrestlers	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	priceRange:moderate	eatType:restaurant	food:Italian
+food:Italian	priceRange_1:more	priceRange_2:than	priceRange_3:£30	eatType:restaurant	area:riverside	familyFriendly:yes	name_1:The	name_2:Wrestlers	near_1:Raja	near_2:Indian	near_3:Cuisine
+familyFriendly:yes	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:restaurant	priceRange:£20-25	area:riverside	food:Japanese	name_1:The	name_2:Wrestlers
+priceRange:cheap	name_1:The	name_2:Wrestlers	food:Japanese	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	area:riverside	eatType:restaurant
+priceRange:high	area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:restaurant	food:Japanese	name_1:The	name_2:Wrestlers	familyFriendly:yes
+familyFriendly:no	name_1:The	name_2:Wrestlers	priceRange_1:less	priceRange_2:than	priceRange_3:£20	area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:restaurant	food:Japanese
+eatType:restaurant	familyFriendly:yes	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Wrestlers	food:Japanese	priceRange_1:less	priceRange_2:than	priceRange_3:£20	area_1:city	area_2:centre
+name_1:The	name_2:Wrestlers	priceRange_1:less	priceRange_2:than	priceRange_3:£20	area:riverside	food:Japanese	familyFriendly:no	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:restaurant
+near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Wrestlers	familyFriendly:yes	food:Japanese	priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType:restaurant	area:riverside
+food:Japanese	familyFriendly:no	area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:moderate	name_1:The	name_2:Wrestlers	eatType:restaurant
+familyFriendly:yes	name_1:The	name_2:Wrestlers	food:Japanese	area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:moderate	eatType:restaurant
+familyFriendly:no	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:restaurant	area:riverside	priceRange:moderate	food:Japanese	name_1:The	name_2:Wrestlers
+name_1:The	name_2:Wrestlers	familyFriendly:yes	eatType:restaurant	priceRange:moderate	area:riverside	food:Japanese	near_1:Raja	near_2:Indian	near_3:Cuisine
+near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:restaurant	food:Japanese	priceRange_1:more	priceRange_2:than	priceRange_3:£30	familyFriendly:no	area_1:city	area_2:centre	name_1:The	name_2:Wrestlers
+food:Japanese	area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	eatType:restaurant	name_1:The	name_2:Wrestlers	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+food:Japanese	area:riverside	familyFriendly:no	near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Wrestlers	priceRange_1:more	priceRange_2:than	priceRange_3:£30	eatType:restaurant
+area:riverside	priceRange_1:more	priceRange_2:than	priceRange_3:£30	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	food:Japanese	name_1:The	name_2:Wrestlers	eatType:restaurant
+name:Wildwood	eatType_1:coffee	eatType_2:shop	area:riverside
+name:Wildwood	eatType:pub	area:riverside
+name:Wildwood	food:French	familyFriendly:yes	area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:pub
+area_1:city	area_2:centre	familyFriendly:no	food:Indian	name:Wildwood	near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:pub
+eatType:pub	near_1:Raja	near_2:Indian	near_3:Cuisine	food:Indian	area_1:city	area_2:centre	familyFriendly:yes	name:Wildwood
+food:Indian	area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine	name:Wildwood	eatType:pub	familyFriendly:no
+near_1:Raja	near_2:Indian	near_3:Cuisine	eatType:pub	name:Wildwood	food:Indian	area:riverside	familyFriendly:yes
+familyFriendly:no	name:Wildwood	near_1:Raja	near_2:Indian	near_3:Cuisine	food:Italian	area_1:city	area_2:centre	eatType:pub
+food:Italian	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	eatType:pub	area_1:city	area_2:centre	name:Wildwood
+familyFriendly:no	eatType:pub	name:Wildwood	near_1:Raja	near_2:Indian	near_3:Cuisine	food:Italian	area:riverside
+food:Italian	name:Wildwood	eatType:pub	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	familyFriendly:yes
+near_1:Raja	near_2:Indian	near_3:Cuisine	food:French	eatType:restaurant	name:Wildwood	area:riverside	familyFriendly:yes
+area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:no	eatType:restaurant	name:Wildwood	food:Indian
+name:Wildwood	area_1:city	area_2:centre	eatType:restaurant	food:Indian	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes
+food:Indian	eatType:restaurant	area:riverside	name:Wildwood	familyFriendly:no	near_1:Raja	near_2:Indian	near_3:Cuisine
+food:Indian	familyFriendly:yes	name:Wildwood	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	eatType:restaurant
+name:Wildwood	familyFriendly:no	near_1:Raja	near_2:Indian	near_3:Cuisine	area_1:city	area_2:centre	food:Italian	eatType:restaurant
+name:Wildwood	food:Italian	area_1:city	area_2:centre	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	eatType:restaurant
+near_1:Raja	near_2:Indian	near_3:Cuisine	food:Italian	familyFriendly:no	name:Wildwood	area:riverside	eatType:restaurant
+food:Italian	near_1:Raja	near_2:Indian	near_3:Cuisine	area:riverside	name:Wildwood	familyFriendly:yes	eatType:restaurant
+name:Zizzi	eatType_1:coffee	eatType_2:shop	area:riverside
+customer_rating:average	near_1:Burger	near_2:King	name:Zizzi	eatType_1:coffee	eatType_2:shop
+name:Zizzi	near_1:Burger	near_2:King	eatType_1:coffee	eatType_2:shop	customer_rating:high
+near_1:The	near_2:Sorrento	name:Zizzi	eatType_1:coffee	eatType_2:shop
+eatType:pub	name:Zizzi	area:riverside
+eatType:pub	name:Zizzi	near_1:Burger	near_2:King	customer_rating:average
+customer_rating:high	name:Zizzi	eatType:pub	near_1:Burger	near_2:King
+eatType:pub	near_1:The	near_2:Sorrento	name:Zizzi

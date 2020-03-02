@@ -1,0 +1,500 @@
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Café	near_2:Adriatic	priceRange_1:more	priceRange_2:than	priceRange_3:£30	eatType:pub	name_1:The	name_2:Vaults
+name_1:The	name_2:Cambridge	name_3:Blue	near_1:Café	near_2:Brazil	priceRange:cheap	food:English	eatType:pub
+familyFriendly:yes	name_1:The	name_2:Eagle	priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType_1:coffee	eatType_2:shop	customer_rating:low	food:Japanese	area:riverside	near_1:Burger	near_2:King
+food:French	area:riverside	near_1:The	near_2:Sorrento	eatType_1:coffee	eatType_2:shop	priceRange:£20-25	name_1:The	name_2:Mill
+customer_rating:high	name_1:Loch	name_2:Fyne	food:French	near_1:The	near_2:Rice	near_3:Boat	area:riverside
+name_1:Bibimbap	name_2:House	area:riverside	priceRange:moderate	food:English	near_1:Clare	near_2:Hall
+area:riverside	familyFriendly:no	name_1:The	name_2:Rice	name_3:Boat	food:French	customer_rating:average
+food:Japanese	name_1:The	name_2:Wrestlers	familyFriendly:no	area:riverside	priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType_1:coffee	eatType_2:shop	near_1:Raja	near_2:Indian	near_3:Cuisine
+name:Aromi	familyFriendly:no	eatType_1:coffee	eatType_2:shop	customer_rating:low	food:French	area_1:city	area_2:centre
+priceRange:moderate	area:riverside	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Phoenix	food_1:Fast	food_2:food
+near_1:The	near_2:Sorrento	familyFriendly:no	name_1:Browns	name_2:Cambridge	food_1:Fast	food_2:food	area:riverside
+food:English	name_1:Loch	name_2:Fyne	eatType:restaurant	familyFriendly:yes
+priceRange:£20-25	name_1:Taste	name_2:of	name_3:Cambridge	eatType:restaurant	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+familyFriendly:yes	eatType_1:coffee	eatType_2:shop	name:Cocum	customer_rating:average	food:Italian	priceRange:cheap
+eatType:restaurant	food:Italian	name_1:The	name_2:Dumpling	name_3:Tree	priceRange:high
+food:Indian	name_1:The	name_2:Punter	priceRange:cheap
+near_1:Café	near_2:Rouge	name_1:The	name_2:Golden	name_3:Curry	familyFriendly:yes	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English	area:riverside
+area_1:city	area_2:centre	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Phoenix	priceRange:high	food:English
+priceRange:£20-25	area_1:city	area_2:centre	near_1:Yippee	near_2:Noodle	near_3:Bar	name:Alimentum	food_1:Fast	food_2:food	customer_rating:high
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Eagle	food:Chinese
+near_1:The	near_2:Portland	near_3:Arms	area_1:city	area_2:centre	name_1:The	name_2:Punter	familyFriendly:yes	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+near_1:The	near_2:Sorrento	eatType_1:coffee	eatType_2:shop	priceRange_1:more	priceRange_2:than	priceRange_3:£30	area:riverside	name_1:The	name_2:Mill	food:Italian
+priceRange:moderate	near_1:All	near_2:Bar	near_3:One	name_1:Midsummer	name_2:House	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Italian
+area:riverside	familyFriendly:yes	priceRange:£20-25	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	customer_rating:high	name_1:The	name_2:Rice	name_3:Boat	food:English
+name_1:Blue	name_2:Spice	priceRange_1:more	priceRange_2:than	priceRange_3:£30	area:riverside	food:French
+near_1:Yippee	near_2:Noodle	near_3:Bar	name:Strada	food:Italian	eatType:pub	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+priceRange:high	food:Chinese	near_1:Yippee	near_2:Noodle	near_3:Bar	customer_rating:average	name:Alimentum	area:riverside
+name_1:The	name_2:Cambridge	name_3:Blue	food:Chinese	eatType:pub	priceRange:£20-25	near_1:Café	near_2:Brazil
+eatType:pub	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food_1:Fast	food_2:food	area:riverside	name_1:The	name_2:Waterman
+priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:Bibimbap	name_2:House	food:English	near_1:Clare	near_2:Hall	area:riverside
+food:French	familyFriendly:yes	name:Zizzi	eatType:pub	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+area:riverside	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name:Alimentum	food:Italian	familyFriendly:no
+near_1:Raja	near_2:Indian	near_3:Cuisine	name_1:The	name_2:Wrestlers	familyFriendly:yes	area:riverside	eatType_1:coffee	eatType_2:shop	food:Italian	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+priceRange:high	familyFriendly:no	name_1:The	name_2:Golden	name_3:Curry	food:English	near_1:The	near_2:Bakers
+priceRange_1:more	priceRange_2:than	priceRange_3:£30	name_1:Green	name_2:Man	near_1:All	near_2:Bar	near_3:One	area_1:city	area_2:centre	familyFriendly:no	food:French
+familyFriendly:no	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Waterman
+area:riverside	priceRange_1:more	priceRange_2:than	priceRange_3:£30	eatType:restaurant	name:Zizzi
+familyFriendly:no	food:Indian	near_1:Café	near_2:Rouge	area:riverside	customer_rating:average	name_1:The	name_2:Golden	name_3:Curry
+priceRange_1:more	priceRange_2:than	priceRange_3:£30	food:Japanese	eatType:restaurant	name_1:The	name_2:Dumpling	name_3:Tree
+priceRange_1:less	priceRange_2:than	priceRange_3:£20	customer_rating:low	name_1:The	name_2:Punter	eatType_1:coffee	eatType_2:shop	near_1:Café	near_2:Sicilia	familyFriendly:yes	food:Japanese
+customer_rating:average	near_1:Clare	near_2:Hall	area:riverside	eatType_1:coffee	eatType_2:shop	name:Clowns	food:Italian
+familyFriendly:no	name_1:The	name_2:Dumpling	name_3:Tree	near_1:The	near_2:Portland	near_3:Arms	food:Japanese	eatType:pub
+eatType_1:coffee	eatType_2:shop	familyFriendly:no	name_1:Blue	name_2:Spice	priceRange_1:more	priceRange_2:than	priceRange_3:£30	near:Avalon	customer_rating:low	area:riverside
+familyFriendly:yes	area:riverside	name:Giraffe	eatType:pub	food_1:Fast	food_2:food
+near_1:The	near_2:Sorrento	area:riverside	familyFriendly:yes	name_1:Browns	name_2:Cambridge	food:English
+customer_rating:high	name:Cocum	food:Italian	priceRange:£20-25	eatType_1:coffee	eatType_2:shop	familyFriendly:yes
+near_1:Café	near_2:Sicilia	food:Italian	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Punter	familyFriendly:yes	customer_rating:average	priceRange:cheap
+area:riverside	priceRange:moderate	familyFriendly:no	eatType:pub	name_1:The	name_2:Olive	name_3:Grove	food:Indian
+priceRange_1:more	priceRange_2:than	priceRange_3:£30	near_1:The	near_2:Six	near_3:Bells	name:Giraffe	eatType:restaurant
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Cocum	familyFriendly:yes	eatType:restaurant
+name_1:The	name_2:Twenty	name_3:Two	food:Italian	familyFriendly:yes
+near:Ranch	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes	eatType:pub	name_1:The	name_2:Cricketers
+name_1:The	name_2:Eagle	area:riverside	priceRange_1:more	priceRange_2:than	priceRange_3:£30	familyFriendly:yes	near_1:Burger	near_2:King	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	food:French
+near:Avalon	eatType_1:coffee	eatType_2:shop	priceRange:cheap	familyFriendly:yes	name_1:Blue	name_2:Spice	customer_rating:average	area:riverside
+eatType_1:coffee	eatType_2:shop	food:French	near_1:Crowne	near_2:Plaza	near_3:Hotel	customer_rating:average	familyFriendly:no	area_1:city	area_2:centre	name_1:Browns	name_2:Cambridge
+area:riverside	familyFriendly:yes	name_1:The	name_2:Golden	name_3:Curry	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Indian	near_1:Café	near_2:Rouge
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:pub	food:Italian	priceRange:high	name:Wildwood
+name_1:The	name_2:Golden	name_3:Curry	near_1:The	near_2:Bakers	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:yes	food:Italian
+food:Italian	area:riverside	customer_rating:low	familyFriendly:yes	name_1:The	name_2:Rice	name_3:Boat
+food:Chinese	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name:Strada	near_1:Rainbow	near_2:Vegetarian	near_3:Café	customer_rating:low	familyFriendly:yes
+area_1:city	area_2:centre	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:no	food_1:Fast	food_2:food	name:Alimentum
+familyFriendly:yes	priceRange:cheap	customer_rating:average	area:riverside	name_1:Blue	name_2:Spice
+area:riverside	food_1:Fast	food_2:food	name:Alimentum	familyFriendly:yes	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+priceRange:cheap	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Golden	name_3:Palace	area_1:city	area_2:centre	food:Italian	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+food:Chinese	familyFriendly:yes	name_1:Loch	name_2:Fyne	eatType:restaurant
+familyFriendly:yes	name_1:The	name_2:Cricketers	near_1:The	near_2:Portland	near_3:Arms	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food_1:Fast	food_2:food	eatType_1:coffee	eatType_2:shop
+familyFriendly:no	priceRange_1:more	priceRange_2:than	priceRange_3:£30	name:Cocum	customer_rating:low	food:Japanese	eatType_1:coffee	eatType_2:shop
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food_1:Fast	food_2:food	priceRange:moderate	name_1:Browns	name_2:Cambridge
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	name_1:The	name_2:Golden	name_3:Palace	eatType_1:coffee	eatType_2:shop	food_1:Fast	food_2:food	priceRange:cheap
+name_1:The	name_2:Waterman	priceRange_1:more	priceRange_2:than	priceRange_3:£30	area_1:city	area_2:centre	food:English	familyFriendly:yes	customer_rating:high
+area_1:city	area_2:centre	customer_rating:average	near_1:The	near_2:Rice	near_3:Boat	name_1:Loch	name_2:Fyne	food:Indian
+food:Italian	familyFriendly:no	area_1:city	area_2:centre	near_1:Café	near_2:Rouge	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Golden	name_3:Curry
+familyFriendly:no	area:riverside	name_1:Blue	name_2:Spice	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:£20-25
+food:French	eatType:pub	area:riverside	name_1:The	name_2:Olive	name_3:Grove	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:yes
+name:Giraffe	near_1:The	near_2:Bakers	eatType_1:coffee	eatType_2:shop	priceRange:moderate	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes
+priceRange:moderate	food:Japanese	area:riverside	name_1:Blue	name_2:Spice
+name_1:The	name_2:Cambridge	name_3:Blue	eatType:restaurant	food:Chinese	customer_rating:high
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	food:French	name_1:The	name_2:Waterman	priceRange:cheap	familyFriendly:yes
+name_1:The	name_2:Golden	name_3:Palace	area:riverside	eatType_1:coffee	eatType_2:shop	customer_rating:average	food:Italian	priceRange:high
+name_1:The	name_2:Waterman	food:Italian	familyFriendly:yes	near_1:Crowne	near_2:Plaza	near_3:Hotel
+customer_rating:average	near_1:All	near_2:Bar	near_3:One	food:Italian	name_1:Midsummer	name_2:House	priceRange:high
+name_1:The	name_2:Rice	name_3:Boat	area_1:city	area_2:centre	priceRange:moderate	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	familyFriendly:yes	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Italian
+priceRange_1:more	priceRange_2:than	priceRange_3:£30	name:Strada	near_1:Rainbow	near_2:Vegetarian	near_3:Café	familyFriendly:yes	food:Japanese	customer_rating:low
+name_1:The	name_2:Olive	name_3:Grove	familyFriendly:yes	food:English	priceRange:moderate	eatType:pub	area:riverside
+area_1:city	area_2:centre	name_1:The	name_2:Phoenix	customer_rating:low	food_1:Fast	food_2:food
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:high	eatType:pub	area:riverside	name:Clowns
+familyFriendly:yes	area:riverside	food:Japanese	near_1:All	near_2:Bar	near_3:One	name_1:Green	name_2:Man	priceRange:£20-25
+name_1:The	name_2:Wrestlers	near_1:Raja	near_2:Indian	near_3:Cuisine	familyFriendly:yes	food:Italian	area:riverside	eatType_1:coffee	eatType_2:shop	priceRange:moderate
+name_1:The	name_2:Golden	name_3:Curry	familyFriendly:yes	customer_rating:low	food:English
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English	area:riverside	name_1:The	name_2:Rice	name_3:Boat	familyFriendly:no
+food:English	name_1:The	name_2:Cambridge	name_3:Blue	eatType:restaurant	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+priceRange:cheap	eatType:restaurant	name_1:The	name_2:Golden	name_3:Palace
+food:Indian	near_1:Café	near_2:Rouge	name_1:Midsummer	name_2:House	customer_rating:low
+area:riverside	name:Alimentum	familyFriendly:no	priceRange:high	food:English
+food:Japanese	eatType_1:coffee	eatType_2:shop	near_1:Clare	near_2:Hall	area:riverside	name:Clowns	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+familyFriendly:no	food:Italian	area_1:city	area_2:centre	customer_rating:low	name_1:The	name_2:Waterman	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+familyFriendly:no	food:Italian	near_1:Café	near_2:Rouge	name_1:The	name_2:Plough	priceRange:high	eatType:pub
+food:Chinese	customer_rating:average	priceRange:cheap	name_1:The	name_2:Phoenix	area:riverside
+name_1:Bibimbap	name_2:House	area:riverside	priceRange_1:more	priceRange_2:than	priceRange_3:£30	food:Italian	near_1:Clare	near_2:Hall
+food_1:Fast	food_2:food	name_1:Loch	name_2:Fyne	eatType:restaurant	familyFriendly:no
+food:French	name_1:The	name_2:Phoenix	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	priceRange:high
+familyFriendly:yes	area_1:city	area_2:centre	food:Japanese	customer_rating:low	name_1:The	name_2:Rice	name_3:Boat
+food:Italian	eatType:pub	name_1:The	name_2:Dumpling	name_3:Tree	near_1:The	near_2:Portland	near_3:Arms	familyFriendly:yes
+eatType_1:coffee	eatType_2:shop	area:riverside	priceRange_1:more	priceRange_2:than	priceRange_3:£30	near_1:Burger	near_2:King	customer_rating:low	food:French	familyFriendly:yes	name_1:The	name_2:Eagle
+food:French	familyFriendly:no	customer_rating:low	name_1:The	name_2:Waterman	priceRange_1:more	priceRange_2:than	priceRange_3:£30	area_1:city	area_2:centre
+food:French	name:Clowns	near_1:Clare	near_2:Hall	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	eatType_1:coffee	eatType_2:shop
+eatType_1:coffee	eatType_2:shop	near:Avalon	name_1:Blue	name_2:Spice	familyFriendly:no	priceRange:£20-25	customer_rating:high	area_1:city	area_2:centre
+name_1:The	name_2:Golden	name_3:Palace	area:riverside	priceRange_1:more	priceRange_2:than	priceRange_3:£30	eatType_1:coffee	eatType_2:shop	food:Japanese	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+priceRange:cheap	near_1:Rainbow	near_2:Vegetarian	near_3:Café	familyFriendly:yes	food:English	customer_rating:average	name:Strada
+near_1:Crowne	near_2:Plaza	near_3:Hotel	familyFriendly:no	name_1:The	name_2:Waterman	food:English
+food:English	name_1:The	name_2:Punter	priceRange:high
+customer_rating:high	near:Ranch	food:Indian	name:Cotto	familyFriendly:yes
+food_1:Fast	food_2:food	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:high	name_1:Browns	name_2:Cambridge
+customer_rating:high	near_1:Yippee	near_2:Noodle	near_3:Bar	name:Strada	food:Italian	eatType:pub
+name_1:Blue	name_2:Spice	area:riverside	food:Italian	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+customer_rating:average	familyFriendly:no	food:French	name_1:The	name_2:Rice	name_3:Boat	area_1:city	area_2:centre
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:Browns	name_2:Cambridge	priceRange:moderate	food:English
+eatType_1:coffee	eatType_2:shop	familyFriendly:yes	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Crowne	near_2:Plaza	near_3:Hotel	area_1:city	area_2:centre	food:Indian	name_1:Browns	name_2:Cambridge
+area:riverside	familyFriendly:yes	priceRange:moderate	eatType_1:coffee	eatType_2:shop	near_1:Raja	near_2:Indian	near_3:Cuisine	food_1:Fast	food_2:food	name_1:The	name_2:Wrestlers
+priceRange:moderate	familyFriendly:yes	name:Cocum	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:pub
+eatType:pub	area:riverside	food:Indian	name_1:The	name_2:Olive	name_3:Grove	familyFriendly:yes	priceRange:£20-25
+name_1:The	name_2:Golden	name_3:Palace	near_1:Rainbow	near_2:Vegetarian	near_3:Café	eatType:pub	area:riverside	priceRange:high
+customer_rating:average	eatType_1:coffee	eatType_2:shop	near_1:Burger	near_2:King	familyFriendly:yes	area:riverside	priceRange:high	food:Italian	name_1:The	name_2:Eagle
+food:French	area:riverside	priceRange:£20-25	name:Alimentum	near_1:Yippee	near_2:Noodle	near_3:Bar	customer_rating:high
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:high	name:Cotto	food_1:Fast	food_2:food	eatType_1:coffee	eatType_2:shop	area:riverside	near_1:The	near_2:Portland	near_3:Arms
+area:riverside	familyFriendly:yes	food:Chinese	name:Alimentum	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	familyFriendly:yes	food:English	name_1:The	name_2:Rice	name_3:Boat
+food:English	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Eagle
+customer_rating:low	familyFriendly:yes	priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType_1:coffee	eatType_2:shop	name:Cocum	food_1:Fast	food_2:food
+name_1:The	name_2:Rice	name_3:Boat	customer_rating:high	priceRange_1:more	priceRange_2:than	priceRange_3:£30	familyFriendly:yes	area_1:city	area_2:centre	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	food:Chinese
+area:riverside	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:French	name_1:The	name_2:Golden	name_3:Palace	eatType_1:coffee	eatType_2:shop	customer_rating:low
+food:Italian	priceRange:moderate	name_1:The	name_2:Olive	name_3:Grove	eatType:pub	familyFriendly:yes	area:riverside
+near_1:Café	near_2:Rouge	name_1:Midsummer	name_2:House	food:French	customer_rating:low
+food:English	familyFriendly:yes	near_1:Café	near_2:Rouge	area_1:city	area_2:centre	customer_rating:low	name_1:The	name_2:Golden	name_3:Curry
+eatType:pub	food:Italian	name:Zizzi	customer_rating:average	familyFriendly:no
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	food:Chinese	near_1:The	near_2:Rice	near_3:Boat	name_1:Loch	name_2:Fyne
+area:riverside	priceRange:high	near_1:Café	near_2:Sicilia	familyFriendly:yes	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Dumpling	name_3:Tree
+food:Indian	customer_rating:low	name_1:Browns	name_2:Cambridge	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+near_1:Burger	near_2:King	priceRange:cheap	name_1:The	name_2:Eagle	eatType_1:coffee	eatType_2:shop	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:French	familyFriendly:no	area_1:city	area_2:centre
+food:French	customer_rating:high	area:riverside	name_1:The	name_2:Waterman	eatType:pub
+area_1:city	area_2:centre	food_1:Fast	food_2:food	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Alimentum	near_1:Yippee	near_2:Noodle	near_3:Bar	priceRange:moderate
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Eagle	area:riverside	priceRange:cheap
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate	name_1:Browns	name_2:Cambridge
+name_1:The	name_2:Golden	name_3:Palace	priceRange:moderate	eatType_1:coffee	eatType_2:shop	area:riverside	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Japanese
+priceRange:high	near_1:Yippee	near_2:Noodle	near_3:Bar	food_1:Fast	food_2:food	name:Alimentum	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside
+priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:Chinese	name_1:The	name_2:Golden	name_3:Curry	near_1:The	near_2:Bakers	familyFriendly:yes
+area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	near_1:Burger	near_2:King	name_1:The	name_2:Eagle	priceRange:cheap	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:French
+name_1:Blue	name_2:Spice	area:riverside	priceRange:£20-25
+name_1:The	name_2:Mill	priceRange_1:more	priceRange_2:than	priceRange_3:£30	food:Japanese	area:riverside	near_1:The	near_2:Sorrento	eatType_1:coffee	eatType_2:shop
+name:Zizzi	eatType:pub	food:Japanese	familyFriendly:no	customer_rating:low
+familyFriendly:no	food:Indian	name_1:The	name_2:Wrestlers	customer_rating:average	priceRange:cheap
+priceRange:moderate	food_1:Fast	food_2:food	area_1:city	area_2:centre	near_1:Clare	near_2:Hall	name_1:Bibimbap	name_2:House
+customer_rating:low	eatType:pub	food:Italian	name_1:The	name_2:Waterman	area_1:city	area_2:centre
+food:Indian	eatType:restaurant	name_1:The	name_2:Dumpling	name_3:Tree	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+near_1:The	near_2:Six	near_3:Bells	food:Italian	priceRange:cheap	name:Fitzbillies
+area:riverside	customer_rating:high	familyFriendly:yes	eatType_1:coffee	eatType_2:shop	priceRange:£20-25	name:Zizzi
+near_1:Rainbow	near_2:Vegetarian	near_3:Café	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Rice	name_3:Boat	customer_rating:low
+name_1:The	name_2:Dumpling	name_3:Tree	priceRange:moderate	food:English	eatType:restaurant
+food:French	familyFriendly:no	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Strada	priceRange:moderate	near_1:Rainbow	near_2:Vegetarian	near_3:Café
+area_1:city	area_2:centre	name_1:The	name_2:Eagle	food:Indian	priceRange:moderate	eatType_1:coffee	eatType_2:shop	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:no	near_1:Burger	near_2:King
+familyFriendly:no	area:riverside	priceRange:moderate	name_1:The	name_2:Olive	name_3:Grove	eatType:pub
+priceRange:cheap	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	name:Fitzbillies
+name:Cotto	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near:Ranch	food:French	familyFriendly:yes
+food:Italian	name_1:Loch	name_2:Fyne	near_1:The	near_2:Rice	near_3:Boat	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	name_1:The	name_2:Rice	name_3:Boat	area_1:city	area_2:centre	priceRange:moderate	familyFriendly:no	food:Indian
+name:Zizzi	familyFriendly:no	eatType_1:coffee	eatType_2:shop	area:riverside	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+eatType:pub	near_1:Yippee	near_2:Noodle	near_3:Bar	customer_rating:low	food:French	name:Strada
+priceRange:moderate	name:Alimentum	food:Italian	familyFriendly:no	area:riverside
+area_1:city	area_2:centre	familyFriendly:yes	food:Indian	near_1:Crowne	near_2:Plaza	near_3:Hotel	customer_rating:average	name_1:Browns	name_2:Cambridge	eatType_1:coffee	eatType_2:shop
+name_1:The	name_2:Phoenix	food:French	customer_rating:low	area:riverside
+priceRange:£20-25	food_1:Fast	food_2:food	name:Wildwood	customer_rating:high	eatType:pub
+name:Clowns	near_1:Café	near_2:Sicilia	priceRange_1:more	priceRange_2:than	priceRange_3:£30	familyFriendly:yes
+name_1:Travellers	name_2:Rest	name_3:Beefeater	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange_1:more	priceRange_2:than	priceRange_3:£30	near_1:Café	near_2:Adriatic	area:riverside
+eatType:pub	name_1:The	name_2:Mill	area:riverside	food:Chinese	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+near_1:Café	near_2:Rouge	food:French	name:Cotto
+familyFriendly:no	name_1:The	name_2:Golden	name_3:Curry	customer_rating:average	food:Chinese
+food:French	familyFriendly:yes	name_1:The	name_2:Twenty	name_3:Two
+food:English	name_1:The	name_2:Phoenix	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside
+customer_rating:high	priceRange_1:more	priceRange_2:than	priceRange_3:£30	name:Cotto	near_1:The	near_2:Portland	near_3:Arms	food_1:Fast	food_2:food	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop
+familyFriendly:yes	priceRange_1:less	priceRange_2:than	priceRange_3:£20	area:riverside	customer_rating:low	name:Fitzbillies	food_1:Fast	food_2:food	eatType_1:coffee	eatType_2:shop
+customer_rating:low	eatType_1:coffee	eatType_2:shop	area:riverside	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food_1:Fast	food_2:food	name_1:The	name_2:Golden	name_3:Palace
+name_1:The	name_2:Waterman	familyFriendly:yes	priceRange:£20-25
+food:Italian	near_1:Burger	near_2:King	priceRange:moderate	familyFriendly:no	name_1:The	name_2:Eagle	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+customer_rating:average	area:riverside	food:Chinese	name_1:The	name_2:Phoenix
+priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType:restaurant	food:Japanese	name_1:Loch	name_2:Fyne	familyFriendly:yes
+name_1:The	name_2:Waterman	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	priceRange:moderate	food_1:Fast	food_2:food	familyFriendly:no
+area_1:city	area_2:centre	food:French	familyFriendly:yes	name_1:The	name_2:Olive	name_3:Grove	priceRange_1:more	priceRange_2:than	priceRange_3:£30	eatType:pub
+eatType_1:coffee	eatType_2:shop	priceRange:£20-25	name:Fitzbillies	familyFriendly:no	area_1:city	area_2:centre	food:Indian	customer_rating:high
+food:Italian	name:Wildwood	priceRange:£20-25	eatType:pub	customer_rating:high
+food:Japanese	name:Fitzbillies	eatType_1:coffee	eatType_2:shop	area:riverside	familyFriendly:yes	priceRange_1:more	priceRange_2:than	priceRange_3:£30	customer_rating:low
+name_1:Bibimbap	name_2:House	area:riverside	priceRange:moderate	food:Italian	near_1:Clare	near_2:Hall
+food:Japanese	area:riverside	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Waterman	eatType:pub
+priceRange:high	name_1:The	name_2:Dumpling	name_3:Tree	food_1:Fast	food_2:food	eatType:restaurant
+familyFriendly:yes	near_1:Crowne	near_2:Plaza	near_3:Hotel	eatType_1:coffee	eatType_2:shop	name_1:Taste	name_2:of	name_3:Cambridge	area:riverside	food:Japanese
+priceRange_1:more	priceRange_2:than	priceRange_3:£30	familyFriendly:yes	name_1:The	name_2:Wrestlers	food:French	customer_rating:low
+priceRange:moderate	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Fitzbillies	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	familyFriendly:yes
+near_1:The	near_2:Rice	near_3:Boat	name_1:Loch	name_2:Fyne	customer_rating:low	area:riverside	food:Italian
+near_1:Café	near_2:Rouge	eatType:pub	area_1:city	area_2:centre	food:Indian	name_1:Green	name_2:Man
+name_1:The	name_2:Olive	name_3:Grove	eatType:pub	priceRange:high	familyFriendly:no	food:English	area:riverside
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	name_1:The	name_2:Waterman	food:Japanese	eatType:pub
+name_1:Midsummer	name_2:House	near_1:All	near_2:Bar	near_3:One	priceRange:cheap	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Japanese
+name:Clowns	eatType:pub	area:riverside	customer_rating:high	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+near_1:Café	near_2:Adriatic	name_1:Travellers	name_2:Rest	name_3:Beefeater	priceRange:£20-25	area_1:city	area_2:centre	customer_rating:high
+priceRange:cheap	area:riverside	food:French	name_1:The	name_2:Golden	name_3:Palace	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop
+name_1:The	name_2:Golden	name_3:Curry	food_1:Fast	food_2:food	familyFriendly:yes	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+priceRange:£20-25	customer_rating:high	near_1:All	near_2:Bar	near_3:One	name_1:Midsummer	name_2:House	food:Japanese
+name_1:Blue	name_2:Spice	priceRange_1:less	priceRange_2:than	priceRange_3:£20	customer_rating:average	familyFriendly:yes	area:riverside
+priceRange:moderate	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Golden	name_3:Palace	food:Indian
+name:Strada	food:Chinese	priceRange:cheap	familyFriendly:yes	customer_rating:average	near_1:Rainbow	near_2:Vegetarian	near_3:Café
+area:riverside	eatType:restaurant	food_1:Fast	food_2:food	name:Aromi
+food:Italian	name_1:The	name_2:Phoenix	customer_rating:average	area:riverside	priceRange:high
+food:Italian	area:riverside	near_1:Clare	near_2:Hall	priceRange:£20-25	name_1:Bibimbap	name_2:House
+food:Indian	name_1:The	name_2:Olive	name_3:Grove	eatType:pub	area:riverside	familyFriendly:yes	priceRange:high
+food_1:Fast	food_2:food	priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType_1:coffee	eatType_2:shop	name:Cocum	customer_rating:low	familyFriendly:no
+food:Japanese	name_1:The	name_2:Golden	name_3:Curry	area:riverside	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Café	near_2:Rouge	familyFriendly:yes
+priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Golden	name_3:Curry	near_1:The	near_2:Bakers	familyFriendly:yes	food:Japanese
+priceRange:£20-25	name:Wildwood	food:Japanese	near:Ranch	customer_rating:high	eatType_1:coffee	eatType_2:shop
+priceRange:high	eatType:pub	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Cocum	familyFriendly:no
+familyFriendly:yes	name:Fitzbillies	food:French	eatType_1:coffee	eatType_2:shop	area:riverside	customer_rating:high	priceRange:£20-25
+priceRange:moderate	near_1:Rainbow	near_2:Vegetarian	near_3:Café	name:Strada	familyFriendly:yes	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English
+name:Zizzi	familyFriendly:no	customer_rating:average	eatType:pub	food:Chinese
+near_1:Yippee	near_2:Noodle	near_3:Bar	food:Italian	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	name:Alimentum	priceRange:moderate
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate	name:Alimentum	near_1:Yippee	near_2:Noodle	near_3:Bar	area_1:city	area_2:centre	food:English
+near_1:The	near_2:Bakers	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Golden	name_3:Curry	food_1:Fast	food_2:food	familyFriendly:yes
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food_1:Fast	food_2:food	name_1:The	name_2:Phoenix	priceRange:moderate	area:riverside
+name:Strada	customer_rating:average	familyFriendly:yes	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+name:Fitzbillies	food:Italian	near_1:The	near_2:Six	near_3:Bells	priceRange:high
+food:English	area:riverside	name_1:The	name_2:Phoenix	customer_rating:high	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+near_1:Rainbow	near_2:Vegetarian	near_3:Café	name:Fitzbillies	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Japanese	familyFriendly:yes	area:riverside	name_1:The	name_2:Rice	name_3:Boat
+customer_rating:low	name_1:Browns	name_2:Cambridge	priceRange_1:more	priceRange_2:than	priceRange_3:£30	food_1:Fast	food_2:food
+near_1:Café	near_2:Adriatic	area:riverside	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:Travellers	name_2:Rest	name_3:Beefeater	customer_rating:average
+name_1:The	name_2:Vaults	near_1:Café	near_2:Brazil	area:riverside	priceRange_1:more	priceRange_2:than	priceRange_3:£30	customer_rating:high	eatType_1:coffee	eatType_2:shop
+food:French	familyFriendly:yes	name:Cotto	customer_rating:average	near:Ranch
+area:riverside	name_1:The	name_2:Punter	priceRange_1:less	priceRange_2:than	priceRange_3:£20	near_1:The	near_2:Portland	near_3:Arms	familyFriendly:no
+area_1:city	area_2:centre	food:Italian	name_1:The	name_2:Golden	name_3:Curry	familyFriendly:yes	near_1:Café	near_2:Rouge	customer_rating:low
+food:Japanese	customer_rating:average	priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType_1:coffee	eatType_2:shop	near:Ranch	name:Wildwood
+priceRange:high	near_1:Yippee	near_2:Noodle	near_3:Bar	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Chinese	area_1:city	area_2:centre	name:Alimentum
+near_1:The	near_2:Six	near_3:Bells	familyFriendly:no	name_1:The	name_2:Golden	name_3:Curry
+name:Alimentum	priceRange:£20-25	familyFriendly:yes	area:riverside	food:Japanese
+name_1:The	name_2:Rice	name_3:Boat	near_1:Rainbow	near_2:Vegetarian	near_3:Café	customer_rating:average	priceRange:high
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Aromi	area:riverside	food:Indian	familyFriendly:no	eatType_1:coffee	eatType_2:shop
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	food:Italian	name_1:The	name_2:Phoenix
+name_1:The	name_2:Phoenix	priceRange:£20-25	area_1:city	area_2:centre	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:French
+customer_rating:low	priceRange_1:less	priceRange_2:than	priceRange_3:£20	area:riverside	familyFriendly:yes	food:French	name_1:The	name_2:Rice	name_3:Boat	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn
+customer_rating:average	food_1:Fast	food_2:food	near_1:All	near_2:Bar	near_3:One	priceRange:cheap	name_1:Midsummer	name_2:House
+name_1:Loch	name_2:Fyne	familyFriendly:no	eatType:restaurant	food:English
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	priceRange:high	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Golden	name_3:Palace	food:French
+area_1:city	area_2:centre	food:English	familyFriendly:no	name_1:The	name_2:Twenty	name_3:Two
+customer_rating:low	name_1:The	name_2:Eagle	food_1:Fast	food_2:food
+familyFriendly:no	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	area_1:city	area_2:centre	customer_rating:high	food:English	priceRange:£20-25	name_1:The	name_2:Rice	name_3:Boat
+priceRange:£20-25	name_1:Blue	name_2:Spice	food:English	area:riverside
+area:riverside	customer_rating:average	name:Alimentum	food:Indian	near_1:Yippee	near_2:Noodle	near_3:Bar	priceRange:cheap
+priceRange_1:more	priceRange_2:than	priceRange_3:£30	food:Japanese	name_1:The	name_2:Golden	name_3:Curry	familyFriendly:yes	near_1:The	near_2:Bakers
+area:riverside	food_1:Fast	food_2:food	priceRange:moderate	familyFriendly:yes	name:Alimentum
+area:riverside	name_1:The	name_2:Phoenix	food:Chinese	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+food:Chinese	priceRange_1:more	priceRange_2:than	priceRange_3:£30	customer_rating:high	name_1:The	name_2:Phoenix	area_1:city	area_2:centre
+food:Italian	eatType:pub	name:Giraffe	familyFriendly:yes	area:riverside
+area_1:city	area_2:centre	priceRange:high	eatType:pub	food_1:Fast	food_2:food	name_1:The	name_2:Mill
+customer_rating:high	name_1:Browns	name_2:Cambridge	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+familyFriendly:yes	food:Indian	eatType:restaurant	name_1:Loch	name_2:Fyne
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Cocum	food_1:Fast	food_2:food	eatType_1:coffee	eatType_2:shop	familyFriendly:no	priceRange:cheap
+customer_rating:average	food:French	near_1:Café	near_2:Rouge	name_1:Midsummer	name_2:House
+priceRange:£20-25	area_1:city	area_2:centre	customer_rating:high	food:Italian	name_1:The	name_2:Phoenix
+food:Italian	priceRange_1:more	priceRange_2:than	priceRange_3:£30	eatType:pub	near_1:Café	near_2:Brazil	name_1:The	name_2:Cambridge	name_3:Blue
+priceRange:moderate	familyFriendly:no	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Japanese	name_1:The	name_2:Wrestlers
+food:English	name_1:The	name_2:Golden	name_3:Curry	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:yes	near_1:The	near_2:Bakers
+priceRange:high	food:Chinese	area:riverside	name_1:Green	name_2:Man	familyFriendly:yes	near_1:All	near_2:Bar	near_3:One
+area_1:city	area_2:centre	familyFriendly:yes	name_1:The	name_2:Waterman	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food_1:Fast	food_2:food	priceRange:moderate
+food:Japanese	name_1:The	name_2:Olive	name_3:Grove	familyFriendly:yes	area:riverside	eatType:pub	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+name_1:The	name_2:Twenty	name_3:Two	familyFriendly:yes	food:Japanese	area:riverside
+name_1:The	name_2:Waterman	area:riverside	food:Chinese	familyFriendly:no	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:cheap
+food:French	name:Giraffe	area_1:city	area_2:centre	familyFriendly:no	eatType:pub
+area:riverside	name_1:Travellers	name_2:Rest	name_3:Beefeater	near_1:Café	near_2:Adriatic	priceRange:moderate	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+eatType_1:coffee	eatType_2:shop	familyFriendly:yes	name_1:The	name_2:Eagle	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Italian	priceRange:moderate	near_1:Burger	near_2:King	area:riverside
+priceRange:moderate	name_1:Browns	name_2:Cambridge	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+near_1:Café	near_2:Sicilia	familyFriendly:yes	name:Clowns	priceRange:cheap
+familyFriendly:yes	eatType:pub	name_1:The	name_2:Cricketers	customer_rating:average	near:Ranch
+eatType:restaurant	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:Taste	name_2:of	name_3:Cambridge	customer_rating:low
+near_1:All	near_2:Bar	near_3:One	priceRange:high	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Italian	name_1:Midsummer	name_2:House
+name:Alimentum	food_1:Fast	food_2:food	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate	area:riverside	near_1:Yippee	near_2:Noodle	near_3:Bar
+near:Ranch	familyFriendly:yes	customer_rating:high	food:Japanese	name:Cotto
+eatType:pub	priceRange:high	food_1:Fast	food_2:food	name_1:The	name_2:Cambridge	name_3:Blue	near_1:Café	near_2:Brazil
+area_1:city	area_2:centre	food:Chinese	name_1:The	name_2:Golden	name_3:Curry	familyFriendly:yes	customer_rating:low	near_1:Café	near_2:Rouge
+priceRange:high	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:Browns	name_2:Cambridge	food:Japanese
+eatType:pub	name_1:The	name_2:Mill	area_1:city	area_2:centre	food:Chinese	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:Travellers	name_2:Rest	name_3:Beefeater	near_1:Café	near_2:Adriatic	area_1:city	area_2:centre	priceRange:£20-25
+familyFriendly:no	name_1:The	name_2:Wrestlers	priceRange_1:more	priceRange_2:than	priceRange_3:£30	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:French
+area_1:city	area_2:centre	near_1:Café	near_2:Rouge	eatType:pub	food:English	name_1:Green	name_2:Man
+eatType:pub	near_1:Café	near_2:Adriatic	name_1:The	name_2:Vaults	customer_rating:low	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+food:French	customer_rating:low	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Wrestlers	familyFriendly:no
+priceRange:moderate	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Wildwood	food:English	eatType:pub
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:no	food:English	name_1:The	name_2:Golden	name_3:Curry
+area_1:city	area_2:centre	name_1:Bibimbap	name_2:House	food:Italian	near_1:The	near_2:Rice	near_3:Boat
+name_1:Travellers	name_2:Rest	name_3:Beefeater	near_1:Café	near_2:Adriatic	priceRange_1:less	priceRange_2:than	priceRange_3:£20	area_1:city	area_2:centre	customer_rating:average
+area:riverside	eatType:pub	food:Italian	name_1:The	name_2:Mill	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+area_1:city	area_2:centre	priceRange:£20-25	name:Zizzi	familyFriendly:no	eatType_1:coffee	eatType_2:shop	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+area:riverside	name:Zizzi	eatType_1:coffee	eatType_2:shop	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:no	priceRange:high
+area:riverside	familyFriendly:yes	priceRange:cheap	customer_rating:average	name:Fitzbillies	eatType_1:coffee	eatType_2:shop	food_1:Fast	food_2:food
+food:French	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Golden	name_3:Curry	familyFriendly:yes
+customer_rating:high	food:English	area_1:city	area_2:centre	name:Alimentum	near_1:Yippee	near_2:Noodle	near_3:Bar	priceRange:£20-25
+familyFriendly:yes	area:riverside	name_1:Browns	name_2:Cambridge	near_1:The	near_2:Sorrento	food:Japanese
+name_1:The	name_2:Plough	near_1:Café	near_2:Rouge	eatType:pub	familyFriendly:no	food:Italian	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+food:English	customer_rating:high	eatType_1:coffee	eatType_2:shop	priceRange_1:more	priceRange_2:than	priceRange_3:£30	familyFriendly:yes	name:Cocum
+near:Ranch	eatType_1:coffee	eatType_2:shop	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate	food:Indian	name:Wildwood
+name_1:Browns	name_2:Cambridge	priceRange_1:more	priceRange_2:than	priceRange_3:£30	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+area:riverside	near_1:All	near_2:Bar	near_3:One	food:French	priceRange_1:more	priceRange_2:than	priceRange_3:£30	familyFriendly:no	name_1:Green	name_2:Man
+familyFriendly:yes	name_1:The	name_2:Twenty	name_3:Two	area:riverside	food:Italian
+name:Alimentum	near_1:Yippee	near_2:Noodle	near_3:Bar	food:Italian	area:riverside	priceRange:cheap	customer_rating:average
+familyFriendly:no	priceRange_1:more	priceRange_2:than	priceRange_3:£30	customer_rating:low	eatType_1:coffee	eatType_2:shop	name:Zizzi	area:riverside
+area_1:city	area_2:centre	name_1:The	name_2:Rice	name_3:Boat	familyFriendly:no	food:Italian	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	priceRange:cheap	customer_rating:average
+name:Wildwood	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:cheap	food:English	eatType:pub
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food_1:Fast	food_2:food	name_1:The	name_2:Cricketers	eatType_1:coffee	eatType_2:shop	near_1:The	near_2:Portland	near_3:Arms	familyFriendly:yes
+familyFriendly:no	customer_rating:average	name_1:The	name_2:Golden	name_3:Curry	food:English
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Phoenix	food:French	area:riverside
+priceRange:high	area:riverside	eatType_1:coffee	eatType_2:shop	customer_rating:average	name_1:Blue	name_2:Spice	familyFriendly:yes	near:Avalon
+familyFriendly:yes	name_1:The	name_2:Wrestlers	customer_rating:high	priceRange:£20-25	food:Chinese
+food:Chinese	name_1:Blue	name_2:Spice	area:riverside	priceRange:high
+priceRange:high	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes	name:Strada
+familyFriendly:yes	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	name:Aromi	eatType_1:coffee	eatType_2:shop	food:French
+area:riverside	customer_rating:low	food:French	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	name_1:The	name_2:Rice	name_3:Boat	familyFriendly:no	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+food:French	name_1:The	name_2:Eagle	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+eatType:pub	name_1:The	name_2:Olive	name_3:Grove	priceRange:high	area:riverside	familyFriendly:yes
+familyFriendly:yes	name:Giraffe	eatType_1:coffee	eatType_2:shop	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:The	near_2:Bakers	priceRange:high
+priceRange_1:more	priceRange_2:than	priceRange_3:£30	area:riverside	food:Indian	name_1:The	name_2:Mill	eatType:pub
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Strada	food:English	near_1:Yippee	near_2:Noodle	near_3:Bar	eatType:pub
+area:riverside	food_1:Fast	food_2:food	name_1:The	name_2:Phoenix	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:high
+food:English	name_1:The	name_2:Rice	name_3:Boat	priceRange:£20-25	customer_rating:high	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	area:riverside	familyFriendly:no
+area:riverside	familyFriendly:yes	customer_rating:low	name_1:The	name_2:Rice	name_3:Boat	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food_1:Fast	food_2:food	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn
+eatType:pub	food:Indian	name_1:The	name_2:Olive	name_3:Grove	priceRange:high	area_1:city	area_2:centre	familyFriendly:yes
+name_1:The	name_2:Eagle	customer_rating:high	priceRange_1:more	priceRange_2:than	priceRange_3:£30	area:riverside
+area:riverside	food:French	name_1:The	name_2:Rice	name_3:Boat	familyFriendly:yes	customer_rating:average
+familyFriendly:yes	name_1:The	name_2:Golden	name_3:Curry	customer_rating:average	food:Chinese	near_1:Café	near_2:Rouge	area:riverside
+name:Cocum	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:French	familyFriendly:yes	customer_rating:low	eatType_1:coffee	eatType_2:shop
+name:Strada	near_1:Rainbow	near_2:Vegetarian	near_3:Café	customer_rating:low	food_1:Fast	food_2:food	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:yes
+area:riverside	name_1:The	name_2:Olive	name_3:Grove	priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType:pub	food:Japanese	familyFriendly:no
+name:Wildwood	food:French	priceRange:£20-25	customer_rating:high	eatType:pub
+area:riverside	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Vaults	near_1:Café	near_2:Brazil	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:high
+food:English	name_1:The	name_2:Rice	name_3:Boat	area_1:city	area_2:centre
+customer_rating:low	eatType:pub	familyFriendly:no	food_1:Fast	food_2:food	name:Zizzi
+food:Italian	customer_rating:low	near_1:Rainbow	near_2:Vegetarian	near_3:Café	name:Strada	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:no
+priceRange:cheap	name_1:The	name_2:Waterman	area:riverside	customer_rating:average	familyFriendly:no	food:English
+food:Italian	customer_rating:average	name_1:The	name_2:Rice	name_3:Boat	familyFriendly:yes	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	area_1:city	area_2:centre	priceRange:high
+food:Italian	near_1:Rainbow	near_2:Vegetarian	near_3:Café	name:Strada	familyFriendly:yes	customer_rating:high	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	food:Italian	name_1:The	name_2:Phoenix
+name:Aromi	familyFriendly:yes	area:riverside	customer_rating:high	food:Italian	eatType_1:coffee	eatType_2:shop
+name_1:The	name_2:Phoenix	food:English	area:riverside	customer_rating:high
+priceRange_1:more	priceRange_2:than	priceRange_3:£30	name_1:The	name_2:Vaults	food_1:Fast	food_2:food	familyFriendly:yes
+eatType:restaurant	familyFriendly:yes	name_1:Travellers	name_2:Rest	name_3:Beefeater	priceRange:cheap
+familyFriendly:yes	area:riverside	eatType:restaurant	name_1:The	name_2:Olive	name_3:Grove
+eatType:pub	familyFriendly:yes	area:riverside	food:Chinese	name:Giraffe
+customer_rating:average	area_1:city	area_2:centre	food:Japanese	near_1:The	near_2:Rice	near_3:Boat	name_1:Loch	name_2:Fyne
+priceRange:£20-25	near_1:All	near_2:Bar	near_3:One	name_1:Midsummer	name_2:House	food:Italian	customer_rating:high
+priceRange:high	name:Strada	near_1:Rainbow	near_2:Vegetarian	near_3:Café	food:Chinese	familyFriendly:no	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+eatType:restaurant	food:Italian	name_1:The	name_2:Dumpling	name_3:Tree	priceRange:moderate
+name_1:The	name_2:Rice	name_3:Boat	area_1:city	area_2:centre	food_1:Fast	food_2:food	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:The	near_2:Rice	near_3:Boat	food:Indian	area:riverside	name_1:Loch	name_2:Fyne
+priceRange:£20-25	area_1:city	area_2:centre	food_1:Fast	food_2:food	name_1:The	name_2:Phoenix	customer_rating:high
+area:riverside	name_1:Blue	name_2:Spice	priceRange:cheap	food:English
+area:riverside	name_1:The	name_2:Punter	near_1:The	near_2:Portland	near_3:Arms	priceRange:cheap	familyFriendly:yes
+food:French	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:pub	name:Wildwood	priceRange:£20-25
+name_1:The	name_2:Wrestlers	familyFriendly:no	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:French	customer_rating:average
+name:Giraffe	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes	near_1:The	near_2:Bakers	priceRange:moderate	eatType_1:coffee	eatType_2:shop
+customer_rating:high	name_1:The	name_2:Waterman	food:Italian	familyFriendly:no	priceRange:£20-25	area_1:city	area_2:centre
+name_1:Bibimbap	name_2:House	food:Italian	priceRange:high	near_1:Clare	near_2:Hall	area:riverside
+food_1:Fast	food_2:food	customer_rating:low	name_1:The	name_2:Phoenix	area:riverside	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:no	area_1:city	area_2:centre	name_1:Green	name_2:Man
+food:French	eatType:pub	priceRange:moderate	near_1:Café	near_2:Brazil	name_1:The	name_2:Cambridge	name_3:Blue
+food:Italian	name_1:The	name_2:Rice	name_3:Boat	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area_1:city	area_2:centre	familyFriendly:no
+eatType_1:coffee	eatType_2:shop	customer_rating:low	name_1:The	name_2:Punter	near_1:Café	near_2:Sicilia	food:French	familyFriendly:no	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+eatType:restaurant	priceRange:moderate	food:Indian	familyFriendly:yes	name_1:Loch	name_2:Fyne
+eatType_1:coffee	eatType_2:shop	near_1:The	near_2:Sorrento	priceRange:moderate	name_1:The	name_2:Mill	food:Italian	area_1:city	area_2:centre
+food:Italian	area_1:city	area_2:centre	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Phoenix	priceRange:cheap
+familyFriendly:yes	priceRange:£20-25	area:riverside	customer_rating:high	name_1:The	name_2:Waterman	food_1:Fast	food_2:food
+food:Chinese	name_1:The	name_2:Golden	name_3:Curry	priceRange:moderate	near_1:The	near_2:Bakers	familyFriendly:yes
+name_1:The	name_2:Phoenix	area_1:city	area_2:centre	food:English	customer_rating:average
+eatType_1:coffee	eatType_2:shop	area:riverside	near_1:Burger	near_2:King	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:high	food_1:Fast	food_2:food	name_1:The	name_2:Eagle	familyFriendly:yes
+priceRange:high	area:riverside	name_1:The	name_2:Rice	name_3:Boat	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English	familyFriendly:yes	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn
+area:riverside	near_1:Yippee	near_2:Noodle	near_3:Bar	food_1:Fast	food_2:food	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Alimentum	priceRange:moderate
+near_1:The	near_2:Portland	near_3:Arms	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	customer_rating:high	food:Japanese	name_1:The	name_2:Cricketers
+area:riverside	name_1:The	name_2:Olive	name_3:Grove	food:Italian	eatType:pub	familyFriendly:yes	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+name_1:The	name_2:Cambridge	name_3:Blue	food_1:Fast	food_2:food	customer_rating:low	eatType:restaurant
+familyFriendly:no	area:riverside	food_1:Fast	food_2:food	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:The	name_2:Olive	name_3:Grove	eatType:pub
+familyFriendly:yes	name:Cocum	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate	eatType:pub
+familyFriendly:yes	customer_rating:high	name:Strada	priceRange:£20-25
+eatType:pub	priceRange_1:more	priceRange_2:than	priceRange_3:£30	name_1:The	name_2:Plough	near_1:Café	near_2:Rouge	familyFriendly:yes	food:Indian
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Alimentum	area:riverside	food:Indian	near_1:Yippee	near_2:Noodle	near_3:Bar	priceRange:high
+familyFriendly:no	name_1:The	name_2:Wrestlers	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English	priceRange:cheap
+food:Italian	name_1:The	name_2:Golden	name_3:Curry	familyFriendly:yes	customer_rating:average
+name:Zizzi	eatType:pub	familyFriendly:yes	food:Italian	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+area:riverside	name_1:Green	name_2:Man	eatType:restaurant
+eatType_1:coffee	eatType_2:shop	familyFriendly:yes	area:riverside	near_1:Burger	near_2:King	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Eagle	food_1:Fast	food_2:food	priceRange:moderate
+food:French	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Eagle	familyFriendly:no	customer_rating:low	priceRange_1:less	priceRange_2:than	priceRange_3:£20	near_1:Burger	near_2:King	area_1:city	area_2:centre
+food:French	eatType_1:coffee	eatType_2:shop	familyFriendly:yes	name_1:The	name_2:Wrestlers	area:riverside	near_1:Raja	near_2:Indian	near_3:Cuisine	priceRange:cheap
+name_1:The	name_2:Twenty	name_3:Two	food:French	area:riverside	familyFriendly:yes
+food:English	name_1:Green	name_2:Man	near_1:Café	near_2:Rouge	eatType:pub	area:riverside
+eatType:pub	food_1:Fast	food_2:food	familyFriendly:yes	name:Giraffe	area_1:city	area_2:centre
+food:French	near_1:Crowne	near_2:Plaza	near_3:Hotel	name_1:Browns	name_2:Cambridge	familyFriendly:no	eatType_1:coffee	eatType_2:shop	customer_rating:low	area_1:city	area_2:centre
+food_1:Fast	food_2:food	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType:restaurant	name_1:The	name_2:Cambridge	name_3:Blue
+priceRange:moderate	food_1:Fast	food_2:food	area:riverside	name_1:Blue	name_2:Spice
+name_1:The	name_2:Rice	name_3:Boat	food:Indian	customer_rating:average	area:riverside	priceRange:high	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	familyFriendly:no
+eatType:pub	familyFriendly:yes	food:Japanese	name_1:The	name_2:Plough	near_1:Café	near_2:Rouge	priceRange:moderate
+food:Japanese	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Café	near_2:Sicilia	familyFriendly:yes	eatType_1:coffee	eatType_2:shop	priceRange:high	name_1:The	name_2:Punter
+customer_rating:average	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:yes	name:Fitzbillies	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn
+name_1:The	name_2:Twenty	name_3:Two	area:riverside	food:English	familyFriendly:yes
+priceRange:moderate	name_1:The	name_2:Plough	eatType:pub	food:French	familyFriendly:no	near_1:Café	near_2:Rouge
+area_1:city	area_2:centre	priceRange:moderate	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	familyFriendly:no	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English	name_1:The	name_2:Rice	name_3:Boat
+eatType_1:coffee	eatType_2:shop	near_1:Crowne	near_2:Plaza	near_3:Hotel	food_1:Fast	food_2:food	customer_rating:low	familyFriendly:yes	name_1:Browns	name_2:Cambridge	area_1:city	area_2:centre
+name_1:The	name_2:Golden	name_3:Palace	area:riverside	priceRange:moderate	near_1:Rainbow	near_2:Vegetarian	near_3:Café	eatType:pub
+familyFriendly:yes	food:Italian	area:riverside	name_1:The	name_2:Rice	name_3:Boat	customer_rating:average
+near_1:The	near_2:Rice	near_3:Boat	area:riverside	name_1:Loch	name_2:Fyne	food:Japanese	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:yes	name_1:The	name_2:Waterman	priceRange_1:more	priceRange_2:than	priceRange_3:£30	area:riverside	food:Japanese
+area:riverside	familyFriendly:no	food:Chinese	name_1:The	name_2:Twenty	name_3:Two
+food:French	near_1:Café	near_2:Rouge	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:Midsummer	name_2:House
+area:riverside	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	familyFriendly:no	food:Japanese	near_1:Burger	near_2:King	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Eagle	priceRange:high
+familyFriendly:yes	near_1:Crowne	near_2:Plaza	near_3:Hotel	food:Japanese	name_1:The	name_2:Waterman
+near_1:The	near_2:Bakers	food:Chinese	name_1:The	name_2:Golden	name_3:Curry	priceRange:high	familyFriendly:yes
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	name_1:Blue	name_2:Spice	familyFriendly:no	priceRange:cheap
+eatType:pub	food:Indian	area_1:city	area_2:centre	name_1:The	name_2:Olive	name_3:Grove	familyFriendly:yes	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+priceRange_1:more	priceRange_2:than	priceRange_3:£30	area:riverside	food_1:Fast	food_2:food	customer_rating:high	name_1:The	name_2:Phoenix
+priceRange:cheap	name_1:The	name_2:Dumpling	name_3:Tree	eatType:restaurant	food:Chinese
+familyFriendly:yes	food:French	customer_rating:low	eatType:pub	name:Zizzi
+familyFriendly:yes	name_1:The	name_2:Twenty	name_3:Two	area_1:city	area_2:centre	food_1:Fast	food_2:food
+food:English	customer_rating:low	name_1:Loch	name_2:Fyne	near_1:The	near_2:Rice	near_3:Boat	area:riverside
+name_1:The	name_2:Rice	name_3:Boat	food:French	familyFriendly:no	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside
+eatType_1:coffee	eatType_2:shop	food_1:Fast	food_2:food	priceRange:moderate	name_1:The	name_2:Golden	name_3:Palace	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside
+area:riverside	name_1:The	name_2:Twenty	name_3:Two	familyFriendly:no	food:Japanese
+food:Indian	customer_rating:high	area:riverside	eatType_1:coffee	eatType_2:shop	near_1:The	near_2:Portland	near_3:Arms	priceRange_1:more	priceRange_2:than	priceRange_3:£30	name:Cotto
+eatType:pub	familyFriendly:yes	food:Indian	name_1:The	name_2:Olive	name_3:Grove	area:riverside	priceRange_1:more	priceRange_2:than	priceRange_3:£30
+priceRange:high	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	name_1:The	name_2:Rice	name_3:Boat	area_1:city	area_2:centre	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Indian	familyFriendly:no
+food:Japanese	name_1:The	name_2:Golden	name_3:Curry	customer_rating:low	familyFriendly:no
+eatType:restaurant	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:Taste	name_2:of	name_3:Cambridge	priceRange:moderate
+area_1:city	area_2:centre	food:Indian	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Yippee	near_2:Noodle	near_3:Bar	priceRange:moderate	name:Alimentum
+area:riverside	eatType_1:coffee	eatType_2:shop	food:Japanese	priceRange_1:more	priceRange_2:than	priceRange_3:£30	name_1:The	name_2:Golden	name_3:Palace	customer_rating:low
+food:French	customer_rating:low	area_1:city	area_2:centre	familyFriendly:yes	priceRange_1:more	priceRange_2:than	priceRange_3:£30	name_1:The	name_2:Waterman
+food:English	priceRange:high	area_1:city	area_2:centre	name:Alimentum	familyFriendly:yes
+familyFriendly:yes	priceRange:high	name_1:The	name_2:Golden	name_3:Curry	food:Italian	near_1:The	near_2:Bakers
+near_1:Café	near_2:Adriatic	eatType:pub	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:cheap	name_1:The	name_2:Vaults
+priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:Italian	name_1:The	name_2:Dumpling	name_3:Tree	eatType:restaurant
+near_1:Yippee	near_2:Noodle	near_3:Bar	priceRange_1:less	priceRange_2:than	priceRange_3:£20	customer_rating:low	name:Alimentum	area:riverside	food_1:Fast	food_2:food
+name_1:Loch	name_2:Fyne	food:French	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:The	near_2:Rice	near_3:Boat	area:riverside
+food:Japanese	near_1:The	near_2:Portland	near_3:Arms	eatType:pub	name_1:The	name_2:Dumpling	name_3:Tree	familyFriendly:yes
+familyFriendly:yes	customer_rating:low	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name:Strada	near_1:Rainbow	near_2:Vegetarian	near_3:Café	food:Japanese
+customer_rating:average	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	familyFriendly:no	name_1:The	name_2:Rice	name_3:Boat	food:Italian	area:riverside	priceRange:cheap
+priceRange:moderate	familyFriendly:yes	area_1:city	area_2:centre	name:Alimentum	food:Indian
+near_1:Café	near_2:Brazil	name_1:The	name_2:Cambridge	name_3:Blue	priceRange:cheap	eatType:pub	food:Italian
+name_1:Browns	name_2:Cambridge	eatType_1:coffee	eatType_2:shop	area:riverside	familyFriendly:yes	customer_rating:average	near_1:Crowne	near_2:Plaza	near_3:Hotel	food:Japanese
+familyFriendly:yes	area:riverside	near_1:Crowne	near_2:Plaza	near_3:Hotel	name_1:Taste	name_2:of	name_3:Cambridge	food:French	eatType_1:coffee	eatType_2:shop
+name_1:The	name_2:Golden	name_3:Curry	food:Indian	customer_rating:low	familyFriendly:yes
+priceRange:cheap	name_1:The	name_2:Golden	name_3:Palace	food_1:Fast	food_2:food	eatType_1:coffee	eatType_2:shop	area_1:city	area_2:centre	customer_rating:average
+area:riverside	name_1:Blue	name_2:Spice	familyFriendly:yes	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate
+name_1:The	name_2:Vaults	priceRange_1:less	priceRange_2:than	priceRange_3:£20	familyFriendly:yes	food:English
+customer_rating:low	food:Indian	eatType:restaurant	name_1:The	name_2:Cambridge	name_3:Blue
+priceRange:cheap	familyFriendly:yes	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area_1:city	area_2:centre	food:Japanese	name_1:The	name_2:Rice	name_3:Boat	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn
+name_1:The	name_2:Phoenix	area:riverside	customer_rating:high	priceRange:£20-25	food:Japanese
+name_1:The	name_2:Golden	name_3:Palace	area_1:city	area_2:centre	eatType:pub	priceRange_1:more	priceRange_2:than	priceRange_3:£30	near_1:Rainbow	near_2:Vegetarian	near_3:Café
+name_1:Blue	name_2:Spice	food:English	area_1:city	area_2:centre	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+food:French	familyFriendly:yes	eatType:restaurant	priceRange_1:less	priceRange_2:than	priceRange_3:£20	name_1:Loch	name_2:Fyne
+area:riverside	food_1:Fast	food_2:food	name_1:The	name_2:Olive	name_3:Grove	familyFriendly:yes	eatType:pub	priceRange:moderate
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name_1:The	name_2:Golden	name_3:Curry	food:Indian	familyFriendly:no
+area:riverside	name_1:The	name_2:Eagle	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:£20-25
+area:riverside	name_1:Blue	name_2:Spice	food:Indian	priceRange_1:less	priceRange_2:than	priceRange_3:£20
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	name:Cocum	food:French	priceRange:cheap	familyFriendly:yes	eatType_1:coffee	eatType_2:shop
+customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:cheap	name_1:Browns	name_2:Cambridge	food:English
+area:riverside	near_1:All	near_2:Bar	near_3:One	food:English	priceRange:high	name_1:Green	name_2:Man	familyFriendly:yes
+customer_rating:high	food:Chinese	name_1:Browns	name_2:Cambridge	priceRange:£20-25
+customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:Japanese	name_1:The	name_2:Golden	name_3:Curry	familyFriendly:yes
+eatType:pub	food:Indian	priceRange:moderate	near_1:Café	near_2:Rouge	name_1:The	name_2:Plough	familyFriendly:no
+name_1:Browns	name_2:Cambridge	priceRange_1:less	priceRange_2:than	priceRange_3:£20	customer_rating:low	food:French
+name_1:The	name_2:Golden	name_3:Curry	customer_rating:average	familyFriendly:yes	food:Indian
+name_1:The	name_2:Rice	name_3:Boat	priceRange:moderate	familyFriendly:yes	food:Chinese	area:riverside	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn
+familyFriendly:yes	eatType_1:coffee	eatType_2:shop	priceRange_1:less	priceRange_2:than	priceRange_3:£20	area:riverside	name_1:The	name_2:Wrestlers	food_1:Fast	food_2:food	near_1:Raja	near_2:Indian	near_3:Cuisine
+food:Indian	area:riverside	name_1:The	name_2:Waterman	eatType:pub	customer_rating:low
+familyFriendly:yes	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	customer_rating_1:3	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area:riverside	name_1:The	name_2:Rice	name_3:Boat	priceRange:£20-25	food:French
+eatType:pub	near_1:Café	near_2:Brazil	name_1:The	name_2:Cambridge	name_3:Blue	food:English	priceRange:£20-25
+food:Japanese	priceRange_1:more	priceRange_2:than	priceRange_3:£30	area:riverside	name_1:Blue	name_2:Spice
+familyFriendly:yes	name_1:The	name_2:Golden	name_3:Curry	food_1:Fast	food_2:food	area_1:city	area_2:centre	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	near_1:Café	near_2:Rouge
+priceRange_1:more	priceRange_2:than	priceRange_3:£30	eatType:pub	name_1:The	name_2:Cambridge	name_3:Blue	near_1:Café	near_2:Brazil	food:French
+eatType:restaurant	customer_rating:average	name_1:The	name_2:Cambridge	name_3:Blue	food:English
+near_1:Crowne	near_2:Plaza	near_3:Hotel	familyFriendly:no	food:French	name_1:Taste	name_2:of	name_3:Cambridge	area_1:city	area_2:centre	eatType_1:coffee	eatType_2:shop
+name_1:The	name_2:Golden	name_3:Curry	familyFriendly:no	food:Indian	near_1:Café	near_2:Rouge	area_1:city	area_2:centre	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5
+familyFriendly:yes	food:Italian	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	area_1:city	area_2:centre	priceRange:cheap	name_1:The	name_2:Eagle	eatType_1:coffee	eatType_2:shop	near_1:Burger	near_2:King
+food:Chinese	priceRange:cheap	area:riverside	familyFriendly:yes	name_1:The	name_2:Olive	name_3:Grove	eatType:pub
+customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	priceRange:moderate	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	food:French	name_1:The	name_2:Rice	name_3:Boat	familyFriendly:yes	area:riverside
+area:riverside	name_1:The	name_2:Rice	name_3:Boat	customer_rating:high	food:Italian	familyFriendly:yes
+priceRange:moderate	eatType:pub	name_1:The	name_2:Olive	name_3:Grove	familyFriendly:yes	food:English	area_1:city	area_2:centre
+name_1:The	name_2:Twenty	name_3:Two	food:English	familyFriendly:yes
+name:Clowns	priceRange_1:less	priceRange_2:than	priceRange_3:£20	customer_rating:average	eatType:pub	area:riverside
+eatType_1:coffee	eatType_2:shop	customer_rating:high	area_1:city	area_2:centre	priceRange:£20-25	familyFriendly:no	name:Zizzi
+priceRange_1:less	priceRange_2:than	priceRange_3:£20	eatType:restaurant	food:Indian	name_1:The	name_2:Dumpling	name_3:Tree
+area_1:city	area_2:centre	priceRange:cheap	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn	customer_rating:average	food:Chinese	familyFriendly:yes	name_1:The	name_2:Rice	name_3:Boat
+food:French	familyFriendly:yes	name_1:The	name_2:Waterman	customer_rating:low	priceRange_1:more	priceRange_2:than	priceRange_3:£30	area:riverside
+name_1:The	name_2:Cambridge	name_3:Blue	eatType:restaurant	customer_rating_1:1	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	food:English
+food_1:Fast	food_2:food	near_1:The	near_2:Sorrento	area:riverside	eatType_1:coffee	eatType_2:shop	name_1:The	name_2:Mill	priceRange:moderate
+near_1:Café	near_2:Rouge	area_1:city	area_2:centre	food:English	name_1:The	name_2:Golden	name_3:Curry	customer_rating:low	familyFriendly:no
+familyFriendly:no	priceRange_1:less	priceRange_2:than	priceRange_3:£20	food:French	name_1:The	name_2:Waterman	customer_rating:average	area:riverside
+area:riverside	food:Japanese	near_1:The	near_2:Portland	near_3:Arms	name:Cotto	customer_rating_1:5	customer_rating_2:out	customer_rating_3:of	customer_rating_4:5	eatType_1:coffee	eatType_2:shop	priceRange:cheap
+familyFriendly:no	priceRange_1:less	priceRange_2:than	priceRange_3:£20	near_1:Burger	near_2:King	area_1:city	area_2:centre	food:Indian	customer_rating:low	name_1:The	name_2:Eagle	eatType_1:coffee	eatType_2:shop
+food:Japanese	customer_rating:average	name_1:The	name_2:Waterman	eatType:pub	area:riverside
+food:English	name_1:The	name_2:Rice	name_3:Boat	area_1:city	area_2:centre	customer_rating:high	priceRange_1:more	priceRange_2:than	priceRange_3:£30	familyFriendly:no	near_1:Express	near_2:by	near_3:Holiday	near_4:Inn
