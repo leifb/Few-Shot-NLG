@@ -14,6 +14,7 @@ Has to be called separately for train dev and test files, the vocab will be augm
 
 vocab = set()
 cnt = 0
+mr_set = set()
 
 def run(src_path, box_path, sum_path, shuf, dup):
     # uncomment if vocab file does not exists yet
@@ -39,27 +40,28 @@ def run(src_path, box_path, sum_path, shuf, dup):
                         print("WARNING: input column without summary, ignoring line")
                         continue
                     # TODO keep track of MRs to remove duplicates if dup (ideally before shuf)
-                    data_box, data_sum = parse_row(row, shuf)
-                    box.write(data_box)
-                    box.write('\n')
-                    sum.write(data_sum)
-                    sum.write('\n')
+                    data_box, data_sum = parse_row(row, shuf, dup)
+                    if data_box != "":
+                        box.write(data_box)
+                        box.write('\n')
+                        sum.write(data_sum)
+                        sum.write('\n')
 
 
-def parse_row(row, shuf):
+def parse_row(row, shuf, dup):
     """
     Parses a row of the e2e dataset csv and returns a  data for
     both the box file and the sumary file.
     """
     # convert meaning representation format
-    mr_string = parse_mr(row[0], shuf)
+    mr_string = parse_mr(row[0], shuf, dup)
     # tokenize summary string
     tok_sum = " ".join(nltk.word_tokenize(row[1]))
 
     return mr_string, tok_sum
 
 
-def parse_mr(data, shuf):
+def parse_mr(data, shuf, dup):
     """
     Parses the meaning represenation of the e2e challange dataset (mr column in csv)
     returns a list of tupels, with the name of the property as the first value and
@@ -79,8 +81,15 @@ def parse_mr(data, shuf):
     """
     # uncomment if vocab file does not exists yet
     #global vocab, cnt
+    global mr_set
     mr = []
     old_mr = data.split(",")
+
+    if dup:
+        if " ".join(sorted(old_mr)) in mr_set:
+            return ""
+        else:
+            mr_set.add(" ".join(sorted(old_mr)))
 
     # shuffle MRs if required
     if shuf:
@@ -113,7 +122,7 @@ if __name__ == '__main__':
     parser.add_argument('box', type=str, help='the .box output file')
     parser.add_argument('summary', type=str, help='the .summary output file')
     parser.add_argument('-s', '--shuffle', dest='shuf', default=False, action='store_true', help='shuffle order within MRs')
-    parser.add_argument('-d', '--duplicates', dest='dup', default=True, action='store_false', help='allow duplicate MRs, if false, select one sentence randomly')
+    parser.add_argument('-d', '--duplicates', dest='dup', default=False, action='store_true', help='remove duplicate MRs, if true, select one sentence randomly')
     args = parser.parse_args()
 
     run(args.csv, args.box, args.summary, args.shuf, args.dup)
