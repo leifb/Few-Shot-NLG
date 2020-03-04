@@ -1,630 +1,630 @@
 name name area area eatType eatType 
 area area eatType eatType name name 
 name name near near near near eatType eatType customer_rating customer_rating customer_rating customer_rating 
-customer_rating name name eatType eatType near near 
-near near near near name name customer_rating eatType eatType 
-eatType area area name name 
+name name customer_rating eatType eatType near near 
+near near near near name name eatType eatType customer_rating 
 area area eatType name name 
+name name area area eatType 
 eatType near near near near customer_rating customer_rating customer_rating customer_rating name name 
-eatType customer_rating near near name name 
-eatType near near near near customer_rating name name 
-food eatType familyFriendly near near near near area area name name 
-food familyFriendly near near near near eatType name name area area 
-area area eatType food familyFriendly name name near near near near 
-name name food area area eatType familyFriendly near near near near 
-eatType near near near near area area familyFriendly food name name 
-familyFriendly area area food name name eatType near near near near 
-eatType food area area familyFriendly name name near near near near 
-name name familyFriendly area area food eatType near near near near 
-food familyFriendly area area name name eatType near near near near 
-area area name name food eatType familyFriendly near near near near 
-eatType area area near near near near familyFriendly food name name 
-familyFriendly eatType area area food near near near near name name 
-eatType food familyFriendly name name near near near near area area 
-near near near near food eatType name name familyFriendly area area 
-familyFriendly area area near near near near eatType food name name 
-familyFriendly eatType area area food near near near near name name 
-eatType eatType near near near name name name customer_rating customer_rating customer_rating customer_rating 
-customer_rating customer_rating customer_rating customer_rating name name name near near near near eatType eatType 
+eatType near near customer_rating name name 
+near near near near eatType name name customer_rating 
+food near near near near eatType familyFriendly area area name name 
+near near near near food familyFriendly name name eatType area area 
+area area name name eatType food familyFriendly near near near near 
+name name near near near near food area area eatType familyFriendly 
+eatType near near near near area area name name familyFriendly food 
+familyFriendly area area name name food near near near near eatType 
+eatType food area area name name familyFriendly near near near near 
+name name near near near near familyFriendly area area food eatType 
+food familyFriendly area area name name near near near near eatType 
+area area name name near near near near food eatType familyFriendly 
+eatType area area near near near near name name familyFriendly food 
+near near near near familyFriendly eatType area area food name name 
+eatType name name food familyFriendly near near near near area area 
+near near near near name name food eatType area area familyFriendly 
+familyFriendly area area near near near near name name eatType food 
+familyFriendly near near near near eatType area area food name name 
+eatType eatType near near near customer_rating customer_rating customer_rating customer_rating name name name 
+customer_rating customer_rating customer_rating customer_rating near near near near name name name eatType eatType 
 name name name eatType eatType near near near near 
-eatType name name name near near near customer_rating customer_rating customer_rating customer_rating 
-name name name eatType near near near near customer_rating customer_rating customer_rating customer_rating 
-eatType name name name near near near near 
-customer_rating name name name eatType eatType near near 
-name name name customer_rating eatType eatType near near near 
-customer_rating name name name near near near eatType eatType 
+near near near eatType name name name customer_rating customer_rating customer_rating customer_rating 
+near near near near name name name eatType customer_rating customer_rating customer_rating customer_rating 
+eatType near near near near name name name 
+customer_rating eatType eatType name name name near near 
+name name name eatType eatType customer_rating near near near 
+customer_rating near near near name name name eatType eatType 
 name name name customer_rating eatType eatType near near near near 
-name name name near near near eatType eatType 
+near near near name name name eatType eatType 
 name name name eatType eatType near near near near 
-customer_rating eatType name name name near near 
-eatType name name name customer_rating near near near 
-customer_rating eatType name name name near near near 
+near near customer_rating eatType name name name 
+eatType name name name near near near customer_rating 
+customer_rating eatType near near near name name name 
 name name name customer_rating eatType near near near near 
 name name name eatType near near near 
 name name name eatType near near near near 
 name name near near near eatType eatType 
 name name eatType near near near 
-name name name near near near eatType eatType 
+near near near name name name eatType eatType 
 name name name eatType eatType near near near 
 area area food name name name familyFriendly eatType near near near near 
-eatType name name name near near near near familyFriendly area area food food 
-eatType familyFriendly name name name food food near near near near area area 
-area area familyFriendly name name name food food eatType near near near near 
-familyFriendly food food area area name name name eatType near near near near 
-familyFriendly near near near near near area area name name name eatType food food 
-near near near near near name name name eatType food familyFriendly area area 
-area area eatType food familyFriendly name name name near near near near near 
+eatType name name name near near near near area area familyFriendly food food 
+eatType food food familyFriendly name name name near near near near area area 
+area area familyFriendly food food name name name near near near near eatType 
+familyFriendly food food near near near near area area name name name eatType 
+familyFriendly near near near near near food food area area name name name eatType 
+near near near near near area area name name name eatType food familyFriendly 
+area area near near near near near eatType food familyFriendly name name name 
 food area area name name name familyFriendly eatType near near near near near 
-eatType familyFriendly name name name food area area near near near near near 
-eatType name name name near near near 
-eatType name name name near near near 
-food eatType familyFriendly area area name name name near near near near 
-eatType food food near near near near familyFriendly name name name area area 
-area area near near near near familyFriendly name name name eatType food food 
-area area name name name eatType familyFriendly near near near near food food 
-familyFriendly near near near near eatType area area name name name food food 
+eatType familyFriendly near near near near near name name name food area area 
+eatType near near near name name name 
+near near near eatType name name name 
+food eatType familyFriendly near near near near area area name name name 
+food food eatType near near near near area area familyFriendly name name name 
+area area near near near near food food familyFriendly name name name eatType 
+area area name name name eatType near near near near familyFriendly food food 
+familyFriendly near near near near food food eatType area area name name name 
 eatType familyFriendly area area name name name near near near near near food food 
-familyFriendly name name name food eatType area area near near near near near 
-eatType food familyFriendly name name name area area near near near near near 
-familyFriendly name name name food area area eatType near near near near near 
-name name name familyFriendly food eatType area area near near near near near 
+familyFriendly area area name name name food eatType near near near near near 
+eatType food familyFriendly area area name name name near near near near near 
+near near near near near familyFriendly name name name food area area eatType 
+name name name familyFriendly near near near near near food eatType area area 
 name name near near near customer_rating customer_rating customer_rating customer_rating eatType eatType 
 near near near name name customer_rating customer_rating customer_rating customer_rating eatType eatType 
-customer_rating customer_rating customer_rating customer_rating eatType name name near near near 
+customer_rating customer_rating customer_rating customer_rating name name eatType near near near 
 eatType name name customer_rating customer_rating customer_rating customer_rating near near near 
-area area eatType food familyFriendly name name near near near near 
-area area familyFriendly near near near near near food eatType name name 
-near near near near familyFriendly eatType name name food area area 
-food area area familyFriendly eatType near near near near name name 
-familyFriendly eatType area area food name name near near near near 
-near near near near area area eatType food familyFriendly name name 
-food area area name name familyFriendly eatType near near near near 
-food near near near near near eatType area area familyFriendly name name 
-familyFriendly eatType area area food near near near near name name 
-eatType area area familyFriendly food near near near near name name 
-area area food eatType near near near near familyFriendly name name 
-familyFriendly eatType food name name area area near near near near 
-name name name name area area eatType eatType 
-eatType area area name name name name 
-name name area area eatType eatType 
-eatType eatType near near near name name customer_rating customer_rating customer_rating customer_rating 
+area area name name eatType food familyFriendly near near near near 
+area area familyFriendly near near near near near name name food eatType 
+near near near near name name familyFriendly eatType area area food 
+area area food near near near near familyFriendly eatType name name 
+name name familyFriendly eatType area area food near near near near 
+near near near near name name area area eatType food familyFriendly 
+food area area name name near near near near familyFriendly eatType 
+near near near near near food name name eatType area area familyFriendly 
+familyFriendly eatType area area near near near near food name name 
+eatType area area near near near near familyFriendly food name name 
+area area food near near near near eatType name name familyFriendly 
+name name familyFriendly eatType food near near near near area area 
+name name name name eatType eatType area area 
+eatType name name name name area area 
+area area name name eatType eatType 
+eatType eatType near near near customer_rating customer_rating customer_rating customer_rating name name 
 name name customer_rating customer_rating customer_rating customer_rating eatType eatType near near near near 
 customer_rating name name near near near near eatType eatType 
-eatType name name area area 
-eatType customer_rating customer_rating customer_rating customer_rating name name near near near 
-name name customer_rating customer_rating customer_rating customer_rating eatType near near near near 
-customer_rating eatType name name near near near near 
-familyFriendly near eatType eatType name name name name customer_rating customer_rating customer_rating customer_rating 
-near familyFriendly eatType eatType name name name name customer_rating customer_rating customer_rating customer_rating 
-customer_rating customer_rating customer_rating customer_rating name name name name familyFriendly eatType eatType near near near near 
-near near near near name name name name customer_rating customer_rating customer_rating customer_rating familyFriendly eatType eatType 
+eatType area area name name 
+eatType customer_rating customer_rating customer_rating customer_rating near near near name name 
+customer_rating customer_rating customer_rating customer_rating name name near near near near eatType 
+customer_rating eatType near near near near name name 
+eatType eatType familyFriendly near name name name name customer_rating customer_rating customer_rating customer_rating 
+eatType eatType near familyFriendly name name name name customer_rating customer_rating customer_rating customer_rating 
+customer_rating customer_rating customer_rating customer_rating name name name name eatType eatType familyFriendly near near near near 
+near near near near name name name name customer_rating customer_rating customer_rating customer_rating eatType eatType familyFriendly 
 familyFriendly near near near near eatType eatType customer_rating customer_rating customer_rating customer_rating name name name name 
 customer_rating familyFriendly name name name name eatType eatType near near near 
-near near near near eatType eatType customer_rating familyFriendly name name name name 
-customer_rating name name name name eatType eatType familyFriendly near near near 
-customer_rating familyFriendly eatType eatType name name name name near near near 
-familyFriendly customer_rating near near near near name name name name eatType eatType 
-eatType eatType near near near near customer_rating familyFriendly name name name name 
-familyFriendly near eatType eatType customer_rating name name name name 
-near customer_rating eatType eatType familyFriendly name name name name 
-eatType customer_rating customer_rating customer_rating customer_rating near familyFriendly name name name name 
-familyFriendly name name name name near eatType customer_rating customer_rating customer_rating customer_rating 
-familyFriendly eatType near near near near customer_rating customer_rating customer_rating customer_rating name name name name 
-customer_rating customer_rating customer_rating customer_rating name name name name familyFriendly eatType near near near near 
-familyFriendly name name name name eatType customer_rating customer_rating customer_rating customer_rating near near near near 
-customer_rating eatType familyFriendly name name name name near near near 
-eatType customer_rating near near near near familyFriendly name name name name 
-customer_rating name name name name familyFriendly eatType near near near 
-eatType near near near customer_rating familyFriendly name name name name 
-eatType familyFriendly customer_rating near near near near name name name name 
-familyFriendly customer_rating name name name name eatType near near near near 
+near near near near eatType eatType name name name name customer_rating familyFriendly 
+name name name name customer_rating eatType eatType near near near familyFriendly 
+eatType eatType customer_rating familyFriendly name name name name near near near 
+familyFriendly near near near near customer_rating name name name name eatType eatType 
+eatType eatType near near near near name name name name customer_rating familyFriendly 
+familyFriendly eatType eatType near name name name name customer_rating 
+near eatType eatType customer_rating name name name name familyFriendly 
+customer_rating customer_rating customer_rating customer_rating eatType name name name name near familyFriendly 
+familyFriendly name name name name customer_rating customer_rating customer_rating customer_rating near eatType 
+familyFriendly near near near near eatType customer_rating customer_rating customer_rating customer_rating name name name name 
+customer_rating customer_rating customer_rating customer_rating name name name name near near near near familyFriendly eatType 
+name name name name familyFriendly customer_rating customer_rating customer_rating customer_rating eatType near near near near 
+customer_rating name name name name eatType familyFriendly near near near 
+eatType customer_rating near near near near name name name name familyFriendly 
+name name name name customer_rating near near near familyFriendly eatType 
+eatType near near near name name name name customer_rating familyFriendly 
+near near near near eatType familyFriendly customer_rating name name name name 
+familyFriendly name name name name customer_rating near near near near eatType 
 customer_rating familyFriendly eatType near name name name name 
-customer_rating familyFriendly near eatType name name name name 
-food customer_rating priceRange priceRange priceRange priceRange familyFriendly name name name name eatType area area near near near 
-customer_rating familyFriendly eatType near near near food area area priceRange priceRange priceRange priceRange name name name name 
-customer_rating food priceRange priceRange priceRange priceRange familyFriendly eatType name name name name area area near near near 
-priceRange priceRange priceRange priceRange area area customer_rating name name name name food eatType familyFriendly near near near 
-priceRange eatType familyFriendly food near near near name name name name customer_rating customer_rating customer_rating customer_rating area area 
-food eatType customer_rating customer_rating customer_rating customer_rating familyFriendly near near near priceRange name name name name area area 
-customer_rating customer_rating customer_rating customer_rating area area familyFriendly food priceRange near near near eatType name name name name 
-area area eatType food priceRange name name name name near near near familyFriendly customer_rating customer_rating customer_rating customer_rating 
-customer_rating familyFriendly eatType priceRange area area name name name name food near near near 
-priceRange food area area customer_rating eatType near near near familyFriendly name name name name 
-priceRange eatType area area food customer_rating name name name name familyFriendly near near near 
-area area eatType customer_rating food familyFriendly priceRange near near near name name name name 
-priceRange food customer_rating customer_rating customer_rating customer_rating familyFriendly near near near area area eatType name name name name 
-familyFriendly near near near customer_rating customer_rating customer_rating customer_rating food eatType area area priceRange name name name name 
-name name name name familyFriendly priceRange area area customer_rating customer_rating customer_rating customer_rating eatType food near near near 
-name name name name food familyFriendly priceRange eatType near near near area area customer_rating customer_rating customer_rating customer_rating 
-eatType food priceRange familyFriendly customer_rating near near near name name name name area area 
-eatType food priceRange familyFriendly name name name name customer_rating area area near near near 
-priceRange customer_rating area area familyFriendly name name name name food eatType near near near 
-food eatType customer_rating familyFriendly priceRange area area near near near name name name name 
-name name name name food area area priceRange priceRange priceRange priceRange familyFriendly customer_rating eatType near near near 
-familyFriendly area area customer_rating food eatType priceRange priceRange priceRange priceRange near near near name name name name 
-eatType customer_rating name name name name near near near familyFriendly area area food priceRange priceRange priceRange priceRange 
-familyFriendly food area area name name name name priceRange priceRange priceRange priceRange customer_rating eatType near near near 
-eatType near near near familyFriendly food priceRange customer_rating customer_rating customer_rating customer_rating area area name name name name 
-eatType area area priceRange customer_rating customer_rating customer_rating customer_rating food name name name name familyFriendly near near near 
-priceRange area area near near near eatType food familyFriendly name name name name customer_rating customer_rating customer_rating customer_rating 
-familyFriendly area area priceRange eatType food customer_rating customer_rating customer_rating customer_rating name name name name near near near 
-food familyFriendly name name name name area area customer_rating customer_rating customer_rating customer_rating eatType priceRange near near near 
-priceRange familyFriendly area area eatType food customer_rating customer_rating customer_rating customer_rating near near near name name name name 
-eatType near near near food area area familyFriendly priceRange customer_rating customer_rating customer_rating customer_rating name name name name 
-priceRange familyFriendly customer_rating customer_rating customer_rating customer_rating eatType area area food name name name name near near near 
-priceRange priceRange priceRange priceRange eatType customer_rating food near near near name name name name familyFriendly area area 
-near near near food customer_rating area area priceRange priceRange priceRange priceRange eatType familyFriendly name name name name 
-customer_rating familyFriendly food name name name name area area priceRange priceRange priceRange priceRange eatType near near near 
-familyFriendly area area food name name name name eatType near near near customer_rating priceRange priceRange priceRange priceRange 
-familyFriendly eatType food customer_rating area area priceRange priceRange priceRange priceRange near near near name name name name 
-familyFriendly near near near food name name name name eatType priceRange priceRange priceRange priceRange customer_rating area area 
-customer_rating familyFriendly priceRange priceRange priceRange priceRange food name name name name area area eatType near near near 
-eatType priceRange priceRange priceRange priceRange food area area near near near familyFriendly customer_rating name name name name 
-food familyFriendly customer_rating customer_rating customer_rating customer_rating area area eatType priceRange near near name name name name 
-near near priceRange name name name name area area food eatType familyFriendly customer_rating customer_rating customer_rating customer_rating 
-customer_rating customer_rating customer_rating customer_rating area area priceRange food eatType familyFriendly near near name name name name 
-eatType food customer_rating customer_rating customer_rating customer_rating area area priceRange name name name name familyFriendly near near 
-food customer_rating eatType priceRange familyFriendly near near name name name name area area 
-customer_rating food priceRange familyFriendly eatType area area near near name name name name 
-familyFriendly priceRange eatType area area name name name name customer_rating food near near 
-familyFriendly priceRange eatType food name name name name area area customer_rating near near 
-familyFriendly name name name name area area priceRange food near near eatType customer_rating customer_rating customer_rating customer_rating 
-food area area near near priceRange eatType familyFriendly customer_rating customer_rating customer_rating customer_rating name name name name 
-familyFriendly area area priceRange eatType food near near customer_rating customer_rating customer_rating customer_rating name name name name 
-priceRange familyFriendly name name name name area area eatType food customer_rating customer_rating customer_rating customer_rating near near 
-customer_rating food near near name name name name eatType familyFriendly priceRange area area 
-customer_rating food eatType priceRange near near area area familyFriendly name name name name 
+customer_rating name name name name familyFriendly near eatType 
+food name name name name customer_rating priceRange priceRange priceRange priceRange familyFriendly area area eatType near near near 
+near near near customer_rating familyFriendly eatType area area food name name name name priceRange priceRange priceRange priceRange 
+customer_rating food name name name name priceRange priceRange priceRange priceRange familyFriendly eatType near near near area area 
+priceRange priceRange priceRange priceRange area area customer_rating name name name name near near near food eatType familyFriendly 
+priceRange eatType familyFriendly near near near food name name name name customer_rating customer_rating customer_rating customer_rating area area 
+food eatType customer_rating customer_rating customer_rating customer_rating near near near familyFriendly name name name name priceRange area area 
+customer_rating customer_rating customer_rating customer_rating near near near area area familyFriendly food priceRange name name name name eatType 
+area area eatType name name name name food priceRange near near near customer_rating customer_rating customer_rating customer_rating familyFriendly 
+customer_rating area area familyFriendly eatType priceRange name name name name near near near food 
+area area priceRange food near near near customer_rating eatType name name name name familyFriendly 
+priceRange eatType area area food customer_rating name name name name near near near familyFriendly 
+area area near near near eatType customer_rating food familyFriendly priceRange name name name name 
+priceRange customer_rating customer_rating customer_rating customer_rating food near near near familyFriendly area area name name name name eatType 
+near near near familyFriendly customer_rating customer_rating customer_rating customer_rating area area food eatType name name name name priceRange 
+name name name name customer_rating customer_rating customer_rating customer_rating familyFriendly priceRange area area near near near eatType food 
+name name name name near near near food familyFriendly priceRange eatType customer_rating customer_rating customer_rating customer_rating area area 
+near near near eatType food priceRange familyFriendly customer_rating name name name name area area 
+name name name name eatType food priceRange familyFriendly area area customer_rating near near near 
+priceRange customer_rating area area familyFriendly name name name name near near near food eatType 
+food eatType near near near customer_rating familyFriendly priceRange area area name name name name 
+name name name name area area food priceRange priceRange priceRange priceRange near near near familyFriendly customer_rating eatType 
+area area familyFriendly priceRange priceRange priceRange priceRange customer_rating food eatType near near near name name name name 
+eatType name name name name customer_rating near near near priceRange priceRange priceRange priceRange familyFriendly area area food 
+familyFriendly food name name name name area area priceRange priceRange priceRange priceRange near near near customer_rating eatType 
+eatType near near near customer_rating customer_rating customer_rating customer_rating familyFriendly food priceRange area area name name name name 
+area area eatType customer_rating customer_rating customer_rating customer_rating priceRange name name name name food near near near familyFriendly 
+priceRange near near near area area name name name name eatType food familyFriendly customer_rating customer_rating customer_rating customer_rating 
+familyFriendly customer_rating customer_rating customer_rating customer_rating area area priceRange eatType food name name name name near near near 
+name name name name food familyFriendly area area customer_rating customer_rating customer_rating customer_rating near near near eatType priceRange 
+area area priceRange familyFriendly customer_rating customer_rating customer_rating customer_rating eatType food near near near name name name name 
+eatType near near near customer_rating customer_rating customer_rating customer_rating food area area familyFriendly priceRange name name name name 
+customer_rating customer_rating customer_rating customer_rating priceRange familyFriendly name name name name eatType area area food near near near 
+priceRange priceRange priceRange priceRange near near near eatType customer_rating food name name name name area area familyFriendly 
+near near near area area food customer_rating priceRange priceRange priceRange priceRange name name name name eatType familyFriendly 
+name name name name customer_rating familyFriendly food priceRange priceRange priceRange priceRange area area near near near eatType 
+familyFriendly area area food name name name name near near near eatType priceRange priceRange priceRange priceRange customer_rating 
+familyFriendly eatType area area food customer_rating near near near priceRange priceRange priceRange priceRange name name name name 
+near near near familyFriendly name name name name food area area eatType priceRange priceRange priceRange priceRange customer_rating 
+customer_rating familyFriendly name name name name priceRange priceRange priceRange priceRange food near near near area area eatType 
+eatType near near near priceRange priceRange priceRange priceRange food area area name name name name familyFriendly customer_rating 
+food customer_rating customer_rating customer_rating customer_rating familyFriendly area area near near eatType priceRange name name name name 
+near near name name name name priceRange area area customer_rating customer_rating customer_rating customer_rating food eatType familyFriendly 
+customer_rating customer_rating customer_rating customer_rating near near area area priceRange food eatType familyFriendly name name name name 
+customer_rating customer_rating customer_rating customer_rating eatType food name name name name area area priceRange near near familyFriendly 
+near near food customer_rating eatType priceRange familyFriendly name name name name area area 
+customer_rating food priceRange area area familyFriendly eatType near near name name name name 
+name name name name familyFriendly priceRange eatType area area near near customer_rating food 
+familyFriendly priceRange eatType name name name name food near near area area customer_rating 
+familyFriendly name name name name area area near near priceRange food customer_rating customer_rating customer_rating customer_rating eatType 
+area area food near near customer_rating customer_rating customer_rating customer_rating priceRange eatType familyFriendly name name name name 
+familyFriendly area area near near priceRange eatType food customer_rating customer_rating customer_rating customer_rating name name name name 
+priceRange name name name name familyFriendly customer_rating customer_rating customer_rating customer_rating area area eatType food near near 
+near near customer_rating food name name name name area area eatType familyFriendly priceRange 
+customer_rating food near near eatType priceRange area area name name name name familyFriendly 
 food priceRange familyFriendly eatType customer_rating area area near near name name name name 
-food priceRange familyFriendly area area name name eatType near near near near near 
-familyFriendly priceRange priceRange priceRange priceRange name name food eatType area area near near near near near 
-near near near near near priceRange priceRange priceRange priceRange familyFriendly area area food eatType name name 
-food near near near near near familyFriendly eatType name name area area priceRange priceRange priceRange priceRange 
-area area food familyFriendly eatType name name priceRange priceRange priceRange priceRange near near near near near 
-food area area near near near near near familyFriendly eatType priceRange name name 
-priceRange eatType familyFriendly food near near near near near name name area area 
-eatType near near near near near area area familyFriendly food priceRange name name 
+name name food priceRange familyFriendly area area near near near near near eatType 
+familyFriendly priceRange priceRange priceRange priceRange name name area area food eatType near near near near near 
+near near near near near priceRange priceRange priceRange priceRange area area familyFriendly name name food eatType 
+food near near near near near name name familyFriendly eatType priceRange priceRange priceRange priceRange area area 
+area area food familyFriendly name name eatType priceRange priceRange priceRange priceRange near near near near near 
+food area area near near near near near name name familyFriendly eatType priceRange 
+near near near near near priceRange eatType familyFriendly food name name area area 
+eatType near near near near near name name area area familyFriendly food priceRange 
 food familyFriendly area area eatType priceRange near near near near near name name 
-familyFriendly near near near near near food area area name name eatType priceRange priceRange priceRange priceRange 
-area area priceRange priceRange priceRange priceRange eatType familyFriendly name name near near near near near food food 
-priceRange priceRange priceRange priceRange name name familyFriendly area area customer_rating food food eatType near near 
-area area near near food food familyFriendly priceRange priceRange priceRange priceRange eatType customer_rating name name 
-eatType food food near near area area priceRange priceRange priceRange priceRange familyFriendly customer_rating name name 
-familyFriendly customer_rating area area name name food food priceRange priceRange priceRange priceRange eatType near near 
-customer_rating area area familyFriendly eatType near near near priceRange priceRange priceRange priceRange name name food food 
-familyFriendly area area eatType priceRange name name food food near near near near near 
-near near near food food priceRange familyFriendly area area customer_rating customer_rating customer_rating customer_rating eatType name name 
-food food customer_rating customer_rating customer_rating customer_rating eatType near near near area area familyFriendly priceRange name name 
-familyFriendly eatType priceRange customer_rating customer_rating customer_rating customer_rating near near near area area food food name name 
-food food customer_rating customer_rating customer_rating customer_rating eatType familyFriendly priceRange name name area area near near near 
-eatType area area name name familyFriendly customer_rating near near near priceRange food food 
-customer_rating near near near familyFriendly priceRange food food name name eatType area area 
-area area customer_rating familyFriendly eatType priceRange food food name name near near near 
-priceRange eatType food food near near near familyFriendly area area customer_rating name name 
-eatType priceRange customer_rating customer_rating customer_rating customer_rating food food familyFriendly name name near near near area area 
-priceRange customer_rating customer_rating customer_rating customer_rating eatType food food area area familyFriendly near near near name name 
-familyFriendly customer_rating customer_rating customer_rating customer_rating name name food food priceRange eatType area area near near near 
-customer_rating customer_rating customer_rating customer_rating near near near priceRange familyFriendly food food area area eatType name name 
-priceRange food food familyFriendly name name eatType customer_rating area area near near near 
-eatType area area customer_rating near near near priceRange familyFriendly food food name name 
-priceRange name name familyFriendly eatType food food customer_rating area area near near near 
-customer_rating priceRange area area eatType near near near familyFriendly food food name name 
-area area customer_rating priceRange priceRange priceRange priceRange name name near near near familyFriendly eatType food food 
-eatType area area familyFriendly food food name name customer_rating priceRange priceRange priceRange priceRange near near near 
-eatType name name near near near food food area area familyFriendly customer_rating priceRange priceRange priceRange priceRange 
-area area customer_rating eatType priceRange priceRange priceRange priceRange near near near food food familyFriendly name name 
-familyFriendly name name food food eatType area area near near near priceRange customer_rating customer_rating customer_rating customer_rating 
-area area food food customer_rating customer_rating customer_rating customer_rating priceRange familyFriendly eatType name name near near near 
-eatType name name familyFriendly food food priceRange near near near area area customer_rating customer_rating customer_rating customer_rating 
-eatType area area near near near familyFriendly food food customer_rating customer_rating customer_rating customer_rating priceRange name name 
-area area food food near near near name name familyFriendly eatType priceRange customer_rating customer_rating customer_rating customer_rating 
-priceRange area area familyFriendly food food eatType name name customer_rating customer_rating customer_rating customer_rating near near near 
-area area eatType customer_rating customer_rating customer_rating customer_rating food food familyFriendly near near near priceRange name name 
-customer_rating customer_rating customer_rating customer_rating near near near eatType priceRange name name familyFriendly area area food food 
-priceRange area area food familyFriendly eatType near near near near near name name 
-food eatType area area near near customer_rating priceRange familyFriendly name name 
-name name eatType near near near near near area area food familyFriendly priceRange priceRange priceRange priceRange 
-name name priceRange priceRange priceRange priceRange familyFriendly near near near near near eatType food area area 
-area area eatType name name familyFriendly priceRange priceRange priceRange priceRange food near near near near near 
-familyFriendly eatType near near near near near priceRange priceRange priceRange priceRange area area food name name 
-eatType food customer_rating name name near near familyFriendly priceRange priceRange priceRange priceRange area area 
-name name near near eatType food area area familyFriendly customer_rating priceRange priceRange priceRange priceRange 
-familyFriendly area area near near eatType food customer_rating priceRange priceRange priceRange priceRange name name 
-customer_rating area area eatType priceRange priceRange priceRange priceRange name name food familyFriendly near near 
-familyFriendly eatType name name priceRange food area area near near near near near 
-familyFriendly eatType food name name area area priceRange near near near near near 
-eatType familyFriendly priceRange name name area area food near near near near near 
-near near near near near eatType food familyFriendly priceRange area area name name 
-familyFriendly customer_rating customer_rating customer_rating customer_rating food eatType near near area area priceRange name name 
-food priceRange near near area area name name eatType familyFriendly customer_rating customer_rating customer_rating customer_rating 
-area area priceRange familyFriendly eatType name name customer_rating customer_rating customer_rating customer_rating food near near 
-priceRange food familyFriendly eatType area area name name near near customer_rating customer_rating customer_rating customer_rating 
-food name name familyFriendly priceRange customer_rating customer_rating customer_rating customer_rating near near eatType area area 
-area area familyFriendly name name food priceRange eatType near near customer_rating customer_rating customer_rating customer_rating 
-eatType food name name near near familyFriendly area area priceRange customer_rating customer_rating customer_rating customer_rating 
-area area familyFriendly priceRange customer_rating customer_rating customer_rating customer_rating eatType name name food near near 
-familyFriendly eatType food priceRange priceRange priceRange priceRange area area name name near near near near near 
-eatType name name customer_rating food area area familyFriendly priceRange priceRange priceRange priceRange near near 
-area area name name familyFriendly priceRange priceRange priceRange priceRange customer_rating food eatType near near 
-food customer_rating eatType name name familyFriendly near near area area priceRange priceRange priceRange priceRange 
-customer_rating near near familyFriendly eatType food name name area area priceRange priceRange priceRange priceRange 
-priceRange priceRange priceRange priceRange familyFriendly area area eatType near near near near near food food name name 
-priceRange eatType area area name name familyFriendly near near near near near food food 
-familyFriendly priceRange area area eatType name name near near near near near food food 
-familyFriendly priceRange eatType area area near near near near near name name food food 
-eatType priceRange food food familyFriendly near near near near near name name area area 
-priceRange familyFriendly near near near near near eatType area area food food name name 
-priceRange eatType food food near near near near near area area familyFriendly name name 
-familyFriendly priceRange priceRange priceRange priceRange name name food food near near near near near eatType area area 
-familyFriendly eatType near near near near near name name area area food food priceRange priceRange priceRange priceRange 
+familyFriendly near near near near near name name food area area priceRange priceRange priceRange priceRange eatType 
+name name area area priceRange priceRange priceRange priceRange eatType familyFriendly near near near near near food food 
+priceRange priceRange priceRange priceRange name name area area familyFriendly food food customer_rating near near eatType 
+area area near near food food name name familyFriendly priceRange priceRange priceRange priceRange eatType customer_rating 
+food food eatType near near name name area area priceRange priceRange priceRange priceRange familyFriendly customer_rating 
+familyFriendly name name customer_rating area area food food near near priceRange priceRange priceRange priceRange eatType 
+customer_rating area area near near near familyFriendly eatType name name priceRange priceRange priceRange priceRange food food 
+familyFriendly name name area area eatType priceRange food food near near near near near 
+near near near food food area area priceRange familyFriendly customer_rating customer_rating customer_rating customer_rating name name eatType 
+food food customer_rating customer_rating customer_rating customer_rating near near near eatType area area name name familyFriendly priceRange 
+familyFriendly eatType priceRange customer_rating customer_rating customer_rating customer_rating near near near food food area area name name 
+food food customer_rating customer_rating customer_rating customer_rating name name eatType familyFriendly priceRange near near near area area 
+eatType area area name name near near near familyFriendly customer_rating food food priceRange 
+near near near customer_rating food food familyFriendly priceRange name name area area eatType 
+food food area area customer_rating familyFriendly eatType priceRange name name near near near 
+priceRange food food eatType near near near name name familyFriendly area area customer_rating 
+customer_rating customer_rating customer_rating customer_rating eatType priceRange food food name name familyFriendly near near near area area 
+customer_rating customer_rating customer_rating customer_rating priceRange food food eatType area area near near near familyFriendly name name 
+familyFriendly customer_rating customer_rating customer_rating customer_rating name name food food near near near priceRange eatType area area 
+customer_rating customer_rating customer_rating customer_rating near near near food food priceRange familyFriendly name name area area eatType 
+food food priceRange name name familyFriendly area area eatType customer_rating near near near 
+area area eatType near near near customer_rating food food priceRange familyFriendly name name 
+name name priceRange food food familyFriendly eatType near near near customer_rating area area 
+customer_rating priceRange near near near area area eatType food food familyFriendly name name 
+area area priceRange priceRange priceRange priceRange customer_rating name name near near near food food familyFriendly eatType 
+area area eatType food food familyFriendly name name priceRange priceRange priceRange priceRange customer_rating near near near 
+eatType name name near near near food food priceRange priceRange priceRange priceRange area area familyFriendly customer_rating 
+area area priceRange priceRange priceRange priceRange customer_rating eatType near near near food food name name familyFriendly 
+familyFriendly name name food food area area eatType near near near customer_rating customer_rating customer_rating customer_rating priceRange 
+area area food food customer_rating customer_rating customer_rating customer_rating name name priceRange familyFriendly eatType near near near 
+eatType name name food food familyFriendly near near near priceRange customer_rating customer_rating customer_rating customer_rating area area 
+eatType area area near near near food food familyFriendly customer_rating customer_rating customer_rating customer_rating name name priceRange 
+area area food food near near near name name customer_rating customer_rating customer_rating customer_rating familyFriendly eatType priceRange 
+area area priceRange food food familyFriendly name name eatType customer_rating customer_rating customer_rating customer_rating near near near 
+customer_rating customer_rating customer_rating customer_rating area area eatType food food near near near familyFriendly name name priceRange 
+customer_rating customer_rating customer_rating customer_rating near near near name name eatType priceRange food food familyFriendly area area 
+priceRange area area food near near near near near familyFriendly eatType name name 
+near near food eatType area area name name customer_rating priceRange familyFriendly 
+name name near near near near near eatType area area priceRange priceRange priceRange priceRange food familyFriendly 
+name name priceRange priceRange priceRange priceRange near near near near near familyFriendly area area eatType food 
+name name area area eatType priceRange priceRange priceRange priceRange familyFriendly near near near near near food 
+near near near near near familyFriendly eatType priceRange priceRange priceRange priceRange name name area area food 
+eatType name name food customer_rating near near priceRange priceRange priceRange priceRange familyFriendly area area 
+name name near near area area eatType food priceRange priceRange priceRange priceRange familyFriendly customer_rating 
+near near familyFriendly area area priceRange priceRange priceRange priceRange eatType food customer_rating name name 
+customer_rating area area eatType priceRange priceRange priceRange priceRange name name near near food familyFriendly 
+familyFriendly name name eatType area area priceRange food near near near near near 
+familyFriendly eatType name name food area area near near near near near priceRange 
+eatType name name familyFriendly priceRange near near near near near area area food 
+near near near near near name name eatType food familyFriendly priceRange area area 
+customer_rating customer_rating customer_rating customer_rating familyFriendly near near food eatType area area name name priceRange 
+food near near priceRange area area name name customer_rating customer_rating customer_rating customer_rating eatType familyFriendly 
+area area name name priceRange familyFriendly eatType customer_rating customer_rating customer_rating customer_rating near near food 
+priceRange food name name familyFriendly eatType area area near near customer_rating customer_rating customer_rating customer_rating 
+food name name customer_rating customer_rating customer_rating customer_rating familyFriendly priceRange near near area area eatType 
+area area name name familyFriendly near near food priceRange eatType customer_rating customer_rating customer_rating customer_rating 
+name name eatType food near near customer_rating customer_rating customer_rating customer_rating familyFriendly area area priceRange 
+area area customer_rating customer_rating customer_rating customer_rating familyFriendly priceRange name name eatType near near food 
+familyFriendly eatType food priceRange priceRange priceRange priceRange name name area area near near near near near 
+eatType name name area area customer_rating food priceRange priceRange priceRange priceRange familyFriendly near near 
+area area name name priceRange priceRange priceRange priceRange familyFriendly near near customer_rating food eatType 
+food customer_rating name name eatType near near familyFriendly priceRange priceRange priceRange priceRange area area 
+near near customer_rating name name familyFriendly eatType food priceRange priceRange priceRange priceRange area area 
+priceRange priceRange priceRange priceRange near near near near near familyFriendly area area eatType food food name name 
+name name priceRange eatType area area near near near near near familyFriendly food food 
+familyFriendly priceRange area area name name eatType near near near near near food food 
+familyFriendly priceRange area area eatType near near near near near name name food food 
+eatType priceRange food food near near near near near familyFriendly name name area area 
+priceRange near near near near near familyFriendly food food eatType area area name name 
+priceRange eatType food food near near near near near name name area area familyFriendly 
+familyFriendly priceRange priceRange priceRange priceRange name name food food near near near near near area area eatType 
+near near near near near familyFriendly eatType name name area area food food priceRange priceRange priceRange priceRange 
 familyFriendly area area eatType priceRange priceRange priceRange priceRange near near near near near food food name name 
-eatType food food familyFriendly name name priceRange priceRange priceRange priceRange area area near near near near near 
-priceRange area area familyFriendly name name near near near near near eatType food food 
-name name eatType priceRange familyFriendly area area near near near near near food food 
-priceRange eatType familyFriendly area area near near near near near food food name name 
+food food eatType name name familyFriendly priceRange priceRange priceRange priceRange near near near near near area area 
+area area priceRange name name familyFriendly near near near near near food food eatType 
+name name area area eatType priceRange familyFriendly near near near near near food food 
+near near near near near priceRange eatType familyFriendly area area food food name name 
 area area familyFriendly eatType priceRange near near near near near name name food food 
-familyFriendly priceRange near near near area area eatType name name food food customer_rating customer_rating customer_rating customer_rating 
-name name priceRange priceRange priceRange priceRange near near near near near area area eatType familyFriendly food food 
-customer_rating familyFriendly food food name name priceRange priceRange priceRange priceRange eatType area area near near near 
-eatType customer_rating priceRange priceRange priceRange priceRange near near near food food familyFriendly name name area area 
-name name eatType food food familyFriendly priceRange priceRange priceRange priceRange area area customer_rating near near near 
-priceRange priceRange priceRange priceRange name name familyFriendly eatType customer_rating food food area area near near near 
-familyFriendly food name name area area eatType priceRange priceRange priceRange priceRange near near near near near 
-familyFriendly name name food area area eatType near near near priceRange priceRange priceRange priceRange customer_rating customer_rating customer_rating customer_rating 
-near near near eatType customer_rating customer_rating customer_rating customer_rating priceRange priceRange priceRange priceRange familyFriendly food name name area area 
-priceRange priceRange priceRange priceRange area area food familyFriendly near near near eatType customer_rating customer_rating customer_rating customer_rating name name 
-area area eatType familyFriendly food near near near name name priceRange priceRange priceRange priceRange customer_rating customer_rating customer_rating customer_rating 
-familyFriendly eatType food name name customer_rating customer_rating customer_rating customer_rating area area priceRange priceRange priceRange priceRange near near near near 
-food customer_rating familyFriendly priceRange priceRange priceRange priceRange eatType area area near near near near name name 
-familyFriendly name name near near near near customer_rating food eatType priceRange priceRange priceRange priceRange area area 
-customer_rating familyFriendly area area priceRange priceRange priceRange priceRange eatType food name name near near near near 
-food area area customer_rating familyFriendly eatType name name priceRange priceRange priceRange priceRange near near near near 
-priceRange area area familyFriendly food near near near near near eatType name name 
-customer_rating customer_rating customer_rating customer_rating food near near near near priceRange area area familyFriendly eatType name name 
-familyFriendly food near near near near area area priceRange customer_rating customer_rating customer_rating customer_rating eatType name name 
-priceRange familyFriendly eatType name name area area food customer_rating customer_rating customer_rating customer_rating near near near near 
-eatType familyFriendly food area area priceRange near near near near customer_rating customer_rating customer_rating customer_rating name name 
-eatType familyFriendly area area priceRange name name food near near near near near 
-priceRange area area food near near near near familyFriendly eatType name name customer_rating customer_rating customer_rating customer_rating 
-eatType customer_rating customer_rating customer_rating customer_rating near near near near area area food priceRange familyFriendly name name 
-eatType food area area name name priceRange familyFriendly near near near near customer_rating customer_rating customer_rating customer_rating 
-name name area area eatType near near near near food priceRange familyFriendly customer_rating customer_rating customer_rating customer_rating 
-name name area area priceRange priceRange priceRange priceRange food customer_rating eatType familyFriendly near near near near 
-food familyFriendly near near near near area area eatType customer_rating name name priceRange priceRange priceRange priceRange 
-priceRange priceRange priceRange priceRange eatType name name familyFriendly food area area customer_rating near near near near 
-customer_rating eatType food area area near near near near familyFriendly name name priceRange priceRange priceRange priceRange 
-food eatType customer_rating near near near near name name priceRange priceRange priceRange priceRange familyFriendly area area 
-customer_rating familyFriendly food near near near near area area name name eatType priceRange priceRange priceRange priceRange 
-familyFriendly customer_rating area area eatType food name name priceRange priceRange priceRange priceRange near near near near 
-familyFriendly food near near near near eatType area area customer_rating priceRange priceRange priceRange priceRange name name 
+familyFriendly near near near priceRange name name area area eatType food food customer_rating customer_rating customer_rating customer_rating 
+name name priceRange priceRange priceRange priceRange near near near near near food food area area eatType familyFriendly 
+customer_rating food food familyFriendly name name priceRange priceRange priceRange priceRange area area eatType near near near 
+eatType priceRange priceRange priceRange priceRange customer_rating near near near food food name name familyFriendly area area 
+name name food food eatType priceRange priceRange priceRange priceRange familyFriendly near near near area area customer_rating 
+priceRange priceRange priceRange priceRange name name food food familyFriendly eatType customer_rating near near near area area 
+familyFriendly food name name near near near near near area area eatType priceRange priceRange priceRange priceRange 
+name name familyFriendly area area food near near near eatType customer_rating customer_rating customer_rating customer_rating priceRange priceRange priceRange priceRange 
+near near near customer_rating customer_rating customer_rating customer_rating eatType name name priceRange priceRange priceRange priceRange familyFriendly food area area 
+priceRange priceRange priceRange priceRange near near near area area food familyFriendly customer_rating customer_rating customer_rating customer_rating eatType name name 
+area area eatType near near near familyFriendly food name name customer_rating customer_rating customer_rating customer_rating priceRange priceRange priceRange priceRange 
+familyFriendly eatType food name name customer_rating customer_rating customer_rating customer_rating near near near near area area priceRange priceRange priceRange priceRange 
+food customer_rating familyFriendly priceRange priceRange priceRange priceRange area area eatType near near near near name name 
+name name familyFriendly near near near near area area customer_rating food eatType priceRange priceRange priceRange priceRange 
+customer_rating familyFriendly area area priceRange priceRange priceRange priceRange eatType name name food near near near near 
+food name name area area customer_rating familyFriendly eatType near near near near priceRange priceRange priceRange priceRange 
+priceRange area area familyFriendly near near near near near food name name eatType 
+customer_rating customer_rating customer_rating customer_rating near near near near food area area priceRange name name familyFriendly eatType 
+familyFriendly near near near near food area area customer_rating customer_rating customer_rating customer_rating priceRange name name eatType 
+priceRange familyFriendly eatType name name customer_rating customer_rating customer_rating customer_rating area area food near near near near 
+eatType near near near near familyFriendly food area area priceRange customer_rating customer_rating customer_rating customer_rating name name 
+name name eatType familyFriendly area area priceRange near near near near near food 
+priceRange area area near near near near food name name familyFriendly eatType customer_rating customer_rating customer_rating customer_rating 
+customer_rating customer_rating customer_rating customer_rating eatType near near near near area area name name food priceRange familyFriendly 
+eatType food name name area area near near near near priceRange familyFriendly customer_rating customer_rating customer_rating customer_rating 
+name name near near near near area area eatType customer_rating customer_rating customer_rating customer_rating food priceRange familyFriendly 
+name name area area priceRange priceRange priceRange priceRange near near near near food customer_rating eatType familyFriendly 
+food familyFriendly near near near near area area name name eatType customer_rating priceRange priceRange priceRange priceRange 
+priceRange priceRange priceRange priceRange name name eatType near near near near familyFriendly food area area customer_rating 
+customer_rating eatType food near near near near area area name name familyFriendly priceRange priceRange priceRange priceRange 
+near near near near food eatType customer_rating name name priceRange priceRange priceRange priceRange area area familyFriendly 
+customer_rating familyFriendly near near near near food area area name name priceRange priceRange priceRange priceRange eatType 
+name name familyFriendly customer_rating area area eatType food priceRange priceRange priceRange priceRange near near near near 
+near near near near familyFriendly food priceRange priceRange priceRange priceRange eatType area area customer_rating name name 
 eatType familyFriendly priceRange food area area customer_rating customer_rating customer_rating customer_rating name name near near near near 
-food near near near near priceRange familyFriendly eatType area area name name customer_rating customer_rating customer_rating customer_rating 
-area area near near near near name name priceRange food eatType familyFriendly customer_rating customer_rating customer_rating customer_rating 
-customer_rating customer_rating customer_rating customer_rating priceRange eatType name name food familyFriendly area area near near near near 
-familyFriendly near near near near eatType priceRange priceRange priceRange priceRange food customer_rating customer_rating customer_rating customer_rating area area name name 
-name name eatType food customer_rating customer_rating customer_rating customer_rating familyFriendly priceRange priceRange priceRange priceRange area area near near near near 
-eatType priceRange priceRange priceRange priceRange familyFriendly name name area area food customer_rating customer_rating customer_rating customer_rating near near near near 
-area area familyFriendly eatType food priceRange priceRange priceRange priceRange customer_rating customer_rating customer_rating customer_rating near near near near name name 
-familyFriendly eatType food near near near near customer_rating priceRange priceRange priceRange priceRange name name area area 
-name name near near near near eatType area area food familyFriendly customer_rating priceRange priceRange priceRange priceRange 
-familyFriendly eatType customer_rating name name near near near near area area food priceRange priceRange priceRange priceRange 
-food eatType near near near near name name customer_rating familyFriendly area area priceRange priceRange priceRange priceRange 
-area area food food name name priceRange familyFriendly eatType near near near near near 
-eatType name name area area priceRange food food familyFriendly near near near near near 
-priceRange name name near near near near near familyFriendly food food eatType area area 
-familyFriendly food food eatType name name area area priceRange near near near near near 
-familyFriendly area area eatType priceRange name name food food near near near near near 
-familyFriendly name name priceRange priceRange priceRange priceRange eatType food food area area near near near near near 
-familyFriendly area area food food priceRange priceRange priceRange priceRange eatType near near near near near name name 
-near near near near near familyFriendly eatType priceRange priceRange priceRange priceRange area area name name food food 
-familyFriendly food food name name eatType area area priceRange priceRange priceRange priceRange near near near near near 
-familyFriendly area area food food name name priceRange eatType near near near near near 
-name name priceRange familyFriendly eatType near near near near near food food area area 
-eatType priceRange familyFriendly near near near near near area area name name food food 
-near near near near near priceRange food food familyFriendly eatType area area name name 
-area area priceRange priceRange priceRange priceRange familyFriendly name name eatType near near near near near food food 
-food eatType priceRange priceRange priceRange priceRange near near near near near familyFriendly area area name name 
-eatType area area name name familyFriendly food priceRange near near near near near 
+near near near near food area area priceRange familyFriendly eatType name name customer_rating customer_rating customer_rating customer_rating 
+near near near near area area name name customer_rating customer_rating customer_rating customer_rating priceRange food eatType familyFriendly 
+customer_rating customer_rating customer_rating customer_rating name name priceRange eatType near near near near food familyFriendly area area 
+familyFriendly near near near near priceRange priceRange priceRange priceRange eatType customer_rating customer_rating customer_rating customer_rating food area area name name 
+name name customer_rating customer_rating customer_rating customer_rating eatType food priceRange priceRange priceRange priceRange familyFriendly area area near near near near 
+eatType priceRange priceRange priceRange priceRange name name familyFriendly customer_rating customer_rating customer_rating customer_rating area area food near near near near 
+area area priceRange priceRange priceRange priceRange familyFriendly eatType food customer_rating customer_rating customer_rating customer_rating near near near near name name 
+near near near near familyFriendly eatType food priceRange priceRange priceRange priceRange customer_rating name name area area 
+name name near near near near area area eatType priceRange priceRange priceRange priceRange food familyFriendly customer_rating 
+name name familyFriendly eatType customer_rating near near near near priceRange priceRange priceRange priceRange area area food 
+near near near near food eatType name name priceRange priceRange priceRange priceRange customer_rating familyFriendly area area 
+area area food food name name near near near near near priceRange familyFriendly eatType 
+name name eatType area area food food priceRange near near near near near familyFriendly 
+name name priceRange near near near near near food food familyFriendly area area eatType 
+food food familyFriendly name name eatType near near near near near area area priceRange 
+familyFriendly name name area area eatType priceRange food food near near near near near 
+name name familyFriendly priceRange priceRange priceRange priceRange food food eatType area area near near near near near 
+area area familyFriendly food food priceRange priceRange priceRange priceRange near near near near near eatType name name 
+near near near near near priceRange priceRange priceRange priceRange familyFriendly eatType name name area area food food 
+familyFriendly food food name name priceRange priceRange priceRange priceRange eatType area area near near near near near 
+familyFriendly area area food food name name near near near near near priceRange eatType 
+name name near near near near near priceRange familyFriendly eatType food food area area 
+eatType near near near near near priceRange familyFriendly name name area area food food 
+near near near near near food food priceRange name name familyFriendly eatType area area 
+priceRange priceRange priceRange priceRange area area name name familyFriendly near near near near near eatType food food 
+food near near near near near eatType priceRange priceRange priceRange priceRange name name familyFriendly area area 
+name name eatType area area near near near near near familyFriendly food priceRange 
 priceRange eatType food area area familyFriendly name name near near near near near 
-food priceRange priceRange priceRange priceRange area area familyFriendly customer_rating eatType name name near near near near 
-food customer_rating near near near near familyFriendly area area eatType priceRange priceRange priceRange priceRange name name 
-familyFriendly eatType customer_rating name name area area priceRange priceRange priceRange priceRange food near near near near 
-area area eatType familyFriendly food customer_rating near near near near priceRange priceRange priceRange priceRange name name 
-familyFriendly food name name near near near near area area priceRange eatType customer_rating customer_rating customer_rating customer_rating 
-priceRange name name familyFriendly eatType customer_rating customer_rating customer_rating customer_rating food near near near near area area 
-name name area area priceRange near near near near eatType familyFriendly food customer_rating customer_rating customer_rating customer_rating 
-eatType familyFriendly priceRange customer_rating customer_rating customer_rating customer_rating area area food near near near near name name 
-eatType food familyFriendly priceRange customer_rating customer_rating customer_rating customer_rating area area name name near near near near 
-familyFriendly name name priceRange area area food customer_rating eatType near near near near 
-area area eatType food familyFriendly name name name priceRange priceRange priceRange priceRange near near near near near 
-food priceRange near near near near near familyFriendly area area eatType name name name 
-familyFriendly name name name area area priceRange eatType food near near near near near 
-familyFriendly priceRange food near near near near near eatType name name name area area 
-priceRange eatType area area food name name name familyFriendly near near near near near 
-familyFriendly eatType near near near near near food area area priceRange name name name 
-food name name name familyFriendly priceRange priceRange priceRange priceRange eatType near near near near near area area 
-priceRange priceRange priceRange priceRange eatType food familyFriendly name name name area area near near near near near 
-familyFriendly near near near near near priceRange area area food eatType name name name 
-eatType familyFriendly food name name name near near near near near priceRange area area 
-food name name name familyFriendly eatType priceRange area area near near near near near 
-priceRange eatType near near near near near familyFriendly food area area name name name 
-familyFriendly area area food name name name priceRange eatType near near near near near 
-near near near near near familyFriendly name name name eatType area area food priceRange priceRange priceRange priceRange 
-near near near near near name name name eatType priceRange priceRange priceRange priceRange food familyFriendly area area 
-food area area eatType familyFriendly priceRange priceRange priceRange priceRange near near near near near name name name 
-familyFriendly eatType area area food priceRange priceRange priceRange priceRange name name name near near near near near 
-eatType food priceRange name name name familyFriendly near near near near near area area 
-food name name name familyFriendly eatType area area priceRange near near near near near 
-area area food priceRange eatType familyFriendly near near near near near name name name 
-food familyFriendly priceRange eatType area area name name name near near near near near 
-familyFriendly eatType area area name name name food near near near near near priceRange priceRange priceRange priceRange 
-priceRange priceRange priceRange priceRange eatType food near near near near near familyFriendly area area name name name 
-near near near near near familyFriendly eatType food priceRange area area name name name 
-familyFriendly name name name eatType area area priceRange food near near near near near 
-familyFriendly priceRange near near near near near food eatType name name name area area 
-eatType priceRange familyFriendly area area near near near near near food name name name 
-near near near near near eatType priceRange food familyFriendly area area name name name 
-customer_rating food name name name area area priceRange eatType familyFriendly near near near near 
-eatType familyFriendly near near near near near name name name priceRange priceRange priceRange priceRange food area area 
-food familyFriendly name name name eatType priceRange priceRange priceRange priceRange area area near near near near near 
-food eatType area area familyFriendly near near near near near priceRange priceRange priceRange priceRange name name name 
-priceRange familyFriendly eatType near near near near near food name name name area area 
-familyFriendly priceRange near near near near near eatType food area area name name name 
-eatType area area near near near near near priceRange food familyFriendly name name name 
-familyFriendly area area priceRange near near near near near eatType food name name name 
-familyFriendly eatType food name name name area area priceRange priceRange priceRange priceRange near near near near near 
-food area area familyFriendly priceRange priceRange priceRange priceRange eatType name name name near near near near near 
-eatType area area familyFriendly priceRange food name name name near near near near near 
-area area food priceRange near near near near near familyFriendly eatType name name name 
-food eatType area area familyFriendly priceRange name name name near near near near near 
-area area eatType food priceRange familyFriendly name name name near near near near near 
-food eatType familyFriendly area area priceRange name name name near near near near near 
-priceRange customer_rating familyFriendly food area area name name name eatType near near near near 
-food eatType area area customer_rating priceRange familyFriendly name name name near near near near 
-eatType area area food customer_rating near near near near priceRange familyFriendly name name name 
-familyFriendly area area food priceRange name name name eatType customer_rating customer_rating customer_rating customer_rating near near near near 
-priceRange familyFriendly customer_rating customer_rating customer_rating customer_rating area area name name name food eatType near near near near 
-area area food familyFriendly customer_rating customer_rating customer_rating customer_rating name name name eatType priceRange near near near near 
-eatType customer_rating customer_rating customer_rating customer_rating area area near near near near familyFriendly food priceRange name name name 
-familyFriendly food priceRange eatType name name name near near near near customer_rating area area 
-priceRange food familyFriendly near near near near name name name customer_rating eatType area area 
-priceRange familyFriendly eatType area area customer_rating food near near near near name name name 
-food area area customer_rating familyFriendly near near near near eatType priceRange name name name 
-near near near near customer_rating familyFriendly food area area priceRange priceRange priceRange priceRange eatType name name name 
-familyFriendly eatType priceRange priceRange priceRange priceRange name name name food near near near near customer_rating area area 
-customer_rating food area area priceRange priceRange priceRange priceRange familyFriendly name name name eatType near near near near 
-area area eatType familyFriendly customer_rating priceRange priceRange priceRange priceRange food name name name near near near near 
-eatType food priceRange near near near near customer_rating customer_rating customer_rating customer_rating area area familyFriendly name name name 
-familyFriendly food area area priceRange customer_rating customer_rating customer_rating customer_rating near near near near eatType name name name 
-name name name priceRange eatType area area customer_rating customer_rating customer_rating customer_rating familyFriendly food near near near near 
-familyFriendly near near near near name name name priceRange eatType food area area customer_rating customer_rating customer_rating customer_rating 
-area area priceRange eatType familyFriendly name name name food near near near near customer_rating customer_rating customer_rating customer_rating 
-familyFriendly priceRange near near near near name name name eatType customer_rating customer_rating customer_rating customer_rating food area area 
-familyFriendly eatType near near near near food priceRange area area name name name customer_rating customer_rating customer_rating customer_rating 
-familyFriendly area area name name name food customer_rating customer_rating customer_rating customer_rating eatType priceRange near near near near 
-food name name name area area eatType near near near near familyFriendly customer_rating priceRange priceRange priceRange priceRange 
-food name name name priceRange priceRange priceRange priceRange customer_rating eatType familyFriendly area area near near near near 
-familyFriendly customer_rating eatType food area area near near near near priceRange priceRange priceRange priceRange name name name 
-familyFriendly area area food name name name eatType priceRange priceRange priceRange priceRange customer_rating near near near near 
-food priceRange priceRange priceRange priceRange area area familyFriendly name name name customer_rating eatType near near near near 
-customer_rating eatType familyFriendly near near near near area area priceRange priceRange priceRange priceRange food name name name 
-area area food priceRange priceRange priceRange priceRange eatType name name name familyFriendly customer_rating near near near near 
-familyFriendly eatType area area food customer_rating priceRange priceRange priceRange priceRange name name name near near near near 
-priceRange customer_rating customer_rating customer_rating customer_rating familyFriendly area area eatType near near near near food name name name 
-food eatType priceRange familyFriendly near near near near area area customer_rating customer_rating customer_rating customer_rating name name name 
-familyFriendly food near near near near area area eatType priceRange customer_rating customer_rating customer_rating customer_rating name name name 
-area area food familyFriendly customer_rating customer_rating customer_rating customer_rating eatType priceRange name name name near near near near 
-area area food customer_rating customer_rating customer_rating customer_rating familyFriendly eatType priceRange near near near near name name name 
-familyFriendly eatType area area food near near near near customer_rating priceRange name name name 
-customer_rating familyFriendly eatType food near near near near area area priceRange name name name 
-area area customer_rating eatType priceRange familyFriendly near near near near food name name name 
-customer_rating priceRange area area eatType familyFriendly food name name name near near near near 
-eatType familyFriendly priceRange name name name customer_rating customer_rating customer_rating customer_rating food near near near near area area 
-eatType familyFriendly name name name area area food priceRange near near near near customer_rating customer_rating customer_rating customer_rating 
-eatType priceRange food area area customer_rating customer_rating customer_rating customer_rating familyFriendly near near near near name name name 
-eatType priceRange name name name food area area familyFriendly customer_rating customer_rating customer_rating customer_rating near near near near 
-food area area familyFriendly priceRange name name eatType near near near near near 
-priceRange priceRange priceRange priceRange familyFriendly eatType name name area area food near near near near near 
-area area food name name priceRange priceRange priceRange priceRange familyFriendly eatType near near near near near 
-area area near near near near near food familyFriendly priceRange priceRange priceRange priceRange eatType name name 
-name name area area near near near near near eatType familyFriendly food priceRange priceRange priceRange priceRange 
-priceRange food eatType near near near near near name name familyFriendly area area 
-priceRange familyFriendly near near near near near food name name eatType area area 
-familyFriendly priceRange area area food eatType near near near near near name name 
-name name area area familyFriendly eatType priceRange food near near near near near 
-near near near near near eatType familyFriendly area area name name food priceRange priceRange priceRange priceRange 
-familyFriendly name name eatType near near near near near food area area priceRange priceRange priceRange priceRange 
-familyFriendly priceRange priceRange priceRange priceRange food area area near near near near near eatType name name 
-eatType familyFriendly area area priceRange priceRange priceRange priceRange food name name near near near near near 
-eatType area area food priceRange priceRange priceRange priceRange near near near near near familyFriendly name name 
-priceRange food area area familyFriendly eatType near near near near near name name 
-name name food priceRange near near near near near eatType familyFriendly area area 
-priceRange familyFriendly near near near near near eatType area area food name name 
-familyFriendly eatType area area customer_rating priceRange food name name near near near near 
-customer_rating food eatType area area priceRange familyFriendly near near near near name name 
-eatType customer_rating familyFriendly food area area name name priceRange near near near near 
-food area area customer_rating familyFriendly name name eatType priceRange near near near near 
-customer_rating eatType area area name name near near near near familyFriendly food priceRange priceRange priceRange priceRange 
-customer_rating eatType name name near near near near food area area familyFriendly priceRange priceRange priceRange priceRange 
-customer_rating food familyFriendly area area near near near near name name eatType priceRange priceRange priceRange priceRange 
-area area food customer_rating eatType name name familyFriendly priceRange priceRange priceRange priceRange near near near near 
-area area customer_rating customer_rating customer_rating customer_rating near near near near familyFriendly priceRange food eatType name name 
-priceRange name name food near near near near familyFriendly eatType customer_rating customer_rating customer_rating customer_rating area area 
-food area area priceRange name name near near near near eatType familyFriendly customer_rating customer_rating customer_rating customer_rating 
-familyFriendly near near near near priceRange area area food name name eatType customer_rating customer_rating customer_rating customer_rating 
-area area name name food priceRange familyFriendly eatType customer_rating customer_rating customer_rating customer_rating near near near near 
-priceRange food familyFriendly near near near near name name area area eatType customer_rating customer_rating customer_rating customer_rating 
-eatType near near near near area area familyFriendly food priceRange name name customer_rating customer_rating customer_rating customer_rating 
-priceRange food eatType near near near near familyFriendly area area customer_rating customer_rating customer_rating customer_rating name name 
-familyFriendly customer_rating area area eatType food near near near near priceRange priceRange priceRange priceRange name name 
-eatType near near near near familyFriendly area area food customer_rating name name priceRange priceRange priceRange priceRange 
-eatType area area customer_rating familyFriendly food near near near near name name priceRange priceRange priceRange priceRange 
-eatType food customer_rating familyFriendly near near near near name name area area priceRange priceRange priceRange priceRange 
-food priceRange priceRange priceRange priceRange near near near near name name familyFriendly customer_rating customer_rating customer_rating customer_rating eatType area area 
-familyFriendly name name eatType priceRange priceRange priceRange priceRange near near near near food area area customer_rating customer_rating customer_rating customer_rating 
-customer_rating customer_rating customer_rating customer_rating area area familyFriendly food name name eatType priceRange priceRange priceRange priceRange near near near near 
-eatType area area food priceRange priceRange priceRange priceRange near near near near familyFriendly name name customer_rating customer_rating customer_rating customer_rating 
-food eatType familyFriendly name name near near near near priceRange priceRange priceRange priceRange customer_rating area area 
-eatType priceRange priceRange priceRange priceRange customer_rating near near near near familyFriendly food area area name name 
-priceRange priceRange priceRange priceRange area area food name name familyFriendly customer_rating eatType near near near near 
-area area customer_rating priceRange priceRange priceRange priceRange food familyFriendly near near near near near eatType name name 
-area area food eatType familyFriendly customer_rating priceRange priceRange priceRange priceRange name name near near near near near 
-familyFriendly near near near near near customer_rating customer_rating customer_rating customer_rating name name food eatType priceRange area area 
-familyFriendly priceRange eatType customer_rating customer_rating customer_rating customer_rating near near near near near area area food name name 
-familyFriendly food priceRange area area eatType name name customer_rating customer_rating customer_rating customer_rating near near near near near 
-eatType priceRange customer_rating customer_rating customer_rating customer_rating food name name area area familyFriendly near near near near near 
-familyFriendly eatType food name name area area priceRange near near near near near customer_rating customer_rating customer_rating customer_rating 
-priceRange name name food near near near near near eatType customer_rating customer_rating customer_rating customer_rating familyFriendly area area 
-familyFriendly name name priceRange food area area near near near near near eatType customer_rating customer_rating customer_rating customer_rating 
-priceRange food eatType area area name name customer_rating customer_rating customer_rating customer_rating familyFriendly near near near near near 
-food near near near near near area area customer_rating name name eatType familyFriendly priceRange priceRange priceRange priceRange 
-familyFriendly food priceRange priceRange priceRange priceRange customer_rating eatType name name near near near near near area area 
-area area eatType familyFriendly near near near near near customer_rating priceRange priceRange priceRange priceRange food name name 
-eatType food area area customer_rating name name familyFriendly near near near near near priceRange priceRange priceRange priceRange 
-food customer_rating eatType name name near near near near near priceRange priceRange priceRange priceRange familyFriendly area area 
-food near near near near near familyFriendly customer_rating name name priceRange priceRange priceRange priceRange eatType area area 
-eatType food area area near near near near near customer_rating name name familyFriendly priceRange priceRange priceRange priceRange 
-area area food familyFriendly name name priceRange priceRange priceRange priceRange eatType customer_rating near near near near near 
-food familyFriendly customer_rating customer_rating customer_rating customer_rating eatType name name near near near near near priceRange area area 
-area area name name near near near near near eatType priceRange familyFriendly food customer_rating customer_rating customer_rating customer_rating 
-food eatType near near near near near priceRange area area familyFriendly name name 
-near near near near near food eatType familyFriendly priceRange priceRange priceRange priceRange area area name name 
-eatType area area priceRange priceRange priceRange priceRange familyFriendly name name food near near near near near 
-food eatType near near near near near familyFriendly priceRange priceRange priceRange priceRange area area name name 
-eatType food priceRange priceRange priceRange priceRange area area familyFriendly near near near near near name name 
-familyFriendly priceRange name name area area food eatType near near near near near 
-near near near near near food area area eatType priceRange familyFriendly name name 
-food near near near near near priceRange eatType familyFriendly area area name name 
-priceRange familyFriendly food eatType near near near near near area area name name 
-familyFriendly eatType name name food priceRange priceRange priceRange priceRange near near near near near area area 
-familyFriendly food name name near near near near near priceRange priceRange priceRange priceRange eatType area area 
-familyFriendly name name eatType food area area near near near near near priceRange priceRange priceRange priceRange 
-familyFriendly area area priceRange priceRange priceRange priceRange eatType name name food near near near near near 
-eatType familyFriendly priceRange priceRange priceRange priceRange food area area name name near near near near near 
-food priceRange eatType name name familyFriendly area area near near near near near 
-near near near near near eatType familyFriendly food priceRange name name area area 
-eatType priceRange area area familyFriendly near near near near near food name name 
-eatType area area name name name food familyFriendly priceRange near near near near near 
-near near near near near food priceRange area area familyFriendly eatType name name name 
-area area food familyFriendly name name name eatType priceRange near near near near near 
-food priceRange priceRange priceRange priceRange name name name eatType familyFriendly area area near near near near near 
-familyFriendly name name name area area eatType near near near near near food priceRange priceRange priceRange priceRange 
-familyFriendly area area near near near near near name name name food eatType priceRange priceRange priceRange priceRange 
-familyFriendly area area eatType near near near near near priceRange priceRange priceRange priceRange food name name name 
-eatType priceRange near near near near near area area food familyFriendly name name name 
-name name name eatType priceRange area area familyFriendly food near near near near near 
-near near near near near area area eatType familyFriendly priceRange food name name name 
-food familyFriendly area area eatType near near near near near priceRange name name name 
-eatType food priceRange priceRange priceRange priceRange familyFriendly name name name area area near near near near near 
-eatType familyFriendly food near near near near near priceRange priceRange priceRange priceRange area area name name name 
-food area area priceRange eatType near near near near near familyFriendly name name name 
-eatType priceRange familyFriendly food area area near near near near near name name name 
-priceRange eatType familyFriendly area area near near near near near food name name name 
-eatType food familyFriendly priceRange area area name name name near near near near near 
-name name name familyFriendly food area area priceRange eatType near near near near near 
-eatType name name name near near near near near familyFriendly food area area priceRange priceRange priceRange priceRange 
-eatType familyFriendly name name name food priceRange priceRange priceRange priceRange near near near near near area area 
-familyFriendly eatType area area near near near near near food priceRange priceRange priceRange priceRange name name name 
-familyFriendly priceRange eatType food name name name area area near near near near near 
-priceRange food eatType familyFriendly near near near near near area area name name name 
-food eatType familyFriendly name name name area area priceRange near near near near near 
-priceRange priceRange priceRange priceRange familyFriendly eatType name name name near near near near near food area area 
-familyFriendly name name name food near near near near near eatType area area priceRange priceRange priceRange priceRange 
-priceRange priceRange priceRange priceRange food near near near near near familyFriendly area area eatType name name name 
-familyFriendly food area area name name name near near near near near eatType priceRange priceRange priceRange priceRange 
-familyFriendly priceRange food area area near near near near near eatType name name name 
-near near near near near eatType familyFriendly food name name name priceRange area area 
-area area food eatType familyFriendly near near near near near priceRange name name name 
-food area area eatType priceRange name name name familyFriendly near near near near near 
-familyFriendly priceRange priceRange priceRange priceRange area area food eatType name name name near near near near near 
-priceRange priceRange priceRange priceRange eatType name name name familyFriendly food area area near near near near near 
-familyFriendly area area name name name eatType priceRange food near near near near near 
-familyFriendly eatType priceRange food near near near near near name name name area area 
-familyFriendly food eatType priceRange name name name area area near near near near near 
-area area eatType familyFriendly food priceRange name name name near near near near near 
-food familyFriendly area area priceRange near near near near near eatType name name name 
-name name name familyFriendly food priceRange priceRange priceRange priceRange eatType near near near near near area area 
-area area name name name familyFriendly eatType food priceRange priceRange priceRange priceRange near near near near near 
-food name name name area area eatType familyFriendly priceRange priceRange priceRange priceRange near near near near near 
-area area food name name name near near near near near eatType familyFriendly priceRange priceRange priceRange priceRange 
-area area near near near near near familyFriendly eatType food priceRange priceRange priceRange priceRange name name name 
-priceRange area area eatType food name name name familyFriendly near near near near near 
-familyFriendly near near near near near eatType name name name food priceRange area area 
-food area area priceRange familyFriendly name name name eatType near near near near near 
-food priceRange area area familyFriendly eatType near near near near near name name name 
-name name name familyFriendly eatType area area food near near near near near priceRange priceRange priceRange priceRange 
-eatType near near near near near food familyFriendly area area priceRange priceRange priceRange priceRange name name name 
-priceRange area area food eatType near near near near near familyFriendly name name name 
-area area food eatType name name name priceRange familyFriendly near near near near near 
-familyFriendly eatType name name name near near near near near food priceRange priceRange priceRange priceRange area area 
-food eatType familyFriendly name name name priceRange priceRange priceRange priceRange area area near near near near near 
-area area eatType familyFriendly near near near near near food priceRange priceRange priceRange priceRange name name name 
-food area area near near near near near priceRange priceRange priceRange priceRange familyFriendly eatType name name name 
-food eatType familyFriendly near near near near near priceRange name name name area area 
-familyFriendly near near near near near food priceRange name name name eatType area area 
-priceRange familyFriendly eatType name name name area area food near near near near near 
-familyFriendly eatType priceRange food name name name area area near near near near near 
-food familyFriendly eatType area area name name name priceRange customer_rating customer_rating customer_rating customer_rating near near near near near 
-familyFriendly area area near near near near near eatType food priceRange name name name customer_rating customer_rating customer_rating customer_rating 
-priceRange familyFriendly name name name eatType area area near near near near near food customer_rating customer_rating customer_rating customer_rating 
+area area food priceRange priceRange priceRange priceRange name name familyFriendly customer_rating eatType near near near near 
+food customer_rating near near near near area area familyFriendly name name eatType priceRange priceRange priceRange priceRange 
+familyFriendly eatType customer_rating name name near near near near area area priceRange priceRange priceRange priceRange food 
+area area eatType near near near near familyFriendly food customer_rating name name priceRange priceRange priceRange priceRange 
+familyFriendly food name name near near near near area area customer_rating customer_rating customer_rating customer_rating priceRange eatType 
+priceRange name name customer_rating customer_rating customer_rating customer_rating familyFriendly eatType near near near near food area area 
+name name near near near near area area priceRange customer_rating customer_rating customer_rating customer_rating eatType familyFriendly food 
+customer_rating customer_rating customer_rating customer_rating eatType familyFriendly priceRange near near near near area area food name name 
+eatType food familyFriendly priceRange customer_rating customer_rating customer_rating customer_rating name name area area near near near near 
+name name familyFriendly area area priceRange near near near near food customer_rating eatType 
+area area eatType food familyFriendly name name name near near near near near priceRange priceRange priceRange priceRange 
+food near near near near near priceRange name name name familyFriendly area area eatType 
+name name name familyFriendly area area near near near near near priceRange eatType food 
+near near near near near familyFriendly priceRange food name name name eatType area area 
+priceRange eatType area area name name name food near near near near near familyFriendly 
+familyFriendly eatType near near near near near name name name food area area priceRange 
+food name name name priceRange priceRange priceRange priceRange familyFriendly near near near near near eatType area area 
+name name name priceRange priceRange priceRange priceRange eatType food familyFriendly near near near near near area area 
+near near near near near familyFriendly name name name priceRange area area food eatType 
+name name name eatType familyFriendly food near near near near near area area priceRange 
+food name name name area area familyFriendly eatType priceRange near near near near near 
+near near near near near priceRange eatType name name name familyFriendly food area area 
+familyFriendly area area name name name food near near near near near priceRange eatType 
+near near near near near name name name familyFriendly area area eatType priceRange priceRange priceRange priceRange food 
+near near near near near name name name priceRange priceRange priceRange priceRange eatType area area food familyFriendly 
 food priceRange priceRange priceRange priceRange area area eatType familyFriendly near near near near near name name name 
-eatType food familyFriendly priceRange priceRange priceRange priceRange area area name name name near near near near near 
-familyFriendly name name name near near near near near eatType area area food priceRange priceRange priceRange priceRange 
+familyFriendly eatType area area food priceRange priceRange priceRange priceRange name name name near near near near near 
+eatType food priceRange name name name near near near near near familyFriendly area area 
+name name name food area area familyFriendly eatType near near near near near priceRange 
+near near near near near area area food priceRange eatType familyFriendly name name name 
+food familyFriendly priceRange eatType area area name name name near near near near near 
+familyFriendly eatType area area name name name near near near near near food priceRange priceRange priceRange priceRange 
+near near near near near priceRange priceRange priceRange priceRange eatType food name name name familyFriendly area area 
+near near near near near name name name familyFriendly eatType food priceRange area area 
+name name name familyFriendly area area eatType near near near near near priceRange food 
+familyFriendly priceRange near near near near near name name name food eatType area area 
+eatType priceRange familyFriendly area area near near near near near name name name food 
+near near near near near name name name eatType priceRange food familyFriendly area area 
+customer_rating name name name food area area near near near near priceRange eatType familyFriendly 
+eatType near near near near near familyFriendly name name name priceRange priceRange priceRange priceRange area area food 
+food name name name familyFriendly priceRange priceRange priceRange priceRange eatType near near near near near area area 
+food eatType area area familyFriendly near near near near near priceRange priceRange priceRange priceRange name name name 
+priceRange familyFriendly near near near near near eatType name name name food area area 
+familyFriendly near near near near near priceRange area area eatType food name name name 
+eatType area area near near near near near name name name priceRange food familyFriendly 
+near near near near near familyFriendly area area priceRange name name name eatType food 
+name name name familyFriendly eatType food priceRange priceRange priceRange priceRange area area near near near near near 
+food name name name area area familyFriendly priceRange priceRange priceRange priceRange eatType near near near near near 
+eatType area area familyFriendly priceRange name name name food near near near near near 
+area area near near near near near food priceRange name name name familyFriendly eatType 
+food eatType area area name name name familyFriendly priceRange near near near near near 
+area area name name name eatType food priceRange familyFriendly near near near near near 
+food eatType familyFriendly area area name name name priceRange near near near near near 
+area area priceRange customer_rating familyFriendly food name name name near near near near eatType 
+food eatType area area customer_rating name name name priceRange familyFriendly near near near near 
+eatType area area food customer_rating near near near near name name name priceRange familyFriendly 
+area area familyFriendly name name name food priceRange customer_rating customer_rating customer_rating customer_rating eatType near near near near 
+priceRange customer_rating customer_rating customer_rating customer_rating familyFriendly area area name name name near near near near food eatType 
+area area food customer_rating customer_rating customer_rating customer_rating familyFriendly name name name near near near near eatType priceRange 
+eatType customer_rating customer_rating customer_rating customer_rating near near near near area area name name name familyFriendly food priceRange 
+familyFriendly food name name name priceRange eatType near near near near area area customer_rating 
+priceRange food familyFriendly near near near near name name name area area customer_rating eatType 
+priceRange near near near near familyFriendly eatType area area customer_rating food name name name 
+near near near near food area area customer_rating familyFriendly name name name eatType priceRange 
+near near near near area area customer_rating familyFriendly food priceRange priceRange priceRange priceRange name name name eatType 
+familyFriendly eatType priceRange priceRange priceRange priceRange name name name near near near near food area area customer_rating 
+customer_rating food area area priceRange priceRange priceRange priceRange name name name familyFriendly near near near near eatType 
+area area eatType familyFriendly priceRange priceRange priceRange priceRange customer_rating name name name food near near near near 
+eatType food near near near near priceRange customer_rating customer_rating customer_rating customer_rating area area name name name familyFriendly 
+familyFriendly food area area customer_rating customer_rating customer_rating customer_rating priceRange near near near near name name name eatType 
+name name name customer_rating customer_rating customer_rating customer_rating priceRange eatType area area near near near near familyFriendly food 
+near near near near familyFriendly name name name customer_rating customer_rating customer_rating customer_rating priceRange eatType food area area 
+area area name name name priceRange eatType familyFriendly near near near near food customer_rating customer_rating customer_rating customer_rating 
+familyFriendly near near near near priceRange name name name customer_rating customer_rating customer_rating customer_rating eatType area area food 
+familyFriendly eatType near near near near name name name food priceRange area area customer_rating customer_rating customer_rating customer_rating 
+name name name familyFriendly area area customer_rating customer_rating customer_rating customer_rating food near near near near eatType priceRange 
+food name name name area area near near near near eatType priceRange priceRange priceRange priceRange familyFriendly customer_rating 
+food name name name priceRange priceRange priceRange priceRange area area customer_rating eatType familyFriendly near near near near 
+familyFriendly customer_rating near near near near eatType food area area priceRange priceRange priceRange priceRange name name name 
+name name name familyFriendly area area food priceRange priceRange priceRange priceRange eatType near near near near customer_rating 
+food area area priceRange priceRange priceRange priceRange name name name familyFriendly near near near near customer_rating eatType 
+near near near near customer_rating eatType familyFriendly area area name name name priceRange priceRange priceRange priceRange food 
+area area food priceRange priceRange priceRange priceRange eatType name name name near near near near familyFriendly customer_rating 
+familyFriendly name name name eatType area area food customer_rating priceRange priceRange priceRange priceRange near near near near 
+priceRange customer_rating customer_rating customer_rating customer_rating area area familyFriendly near near near near eatType name name name food 
+food eatType priceRange near near near near familyFriendly area area customer_rating customer_rating customer_rating customer_rating name name name 
+familyFriendly near near near near food area area customer_rating customer_rating customer_rating customer_rating eatType priceRange name name name 
+area area food familyFriendly customer_rating customer_rating customer_rating customer_rating name name name eatType priceRange near near near near 
+area area customer_rating customer_rating customer_rating customer_rating food near near near near familyFriendly eatType priceRange name name name 
+familyFriendly area area eatType near near near near food name name name customer_rating priceRange 
+near near near near customer_rating familyFriendly eatType food area area name name name priceRange 
+near near near near area area customer_rating eatType priceRange familyFriendly name name name food 
+customer_rating priceRange area area eatType familyFriendly food name name name near near near near 
+name name name eatType familyFriendly priceRange customer_rating customer_rating customer_rating customer_rating near near near near food area area 
+eatType familyFriendly name name name area area near near near near food priceRange customer_rating customer_rating customer_rating customer_rating 
+customer_rating customer_rating customer_rating customer_rating eatType priceRange food area area near near near near familyFriendly name name name 
+name name name eatType priceRange customer_rating customer_rating customer_rating customer_rating food area area familyFriendly near near near near 
+food area area familyFriendly priceRange name name near near near near near eatType 
+priceRange priceRange priceRange priceRange name name familyFriendly eatType area area near near near near near food 
+area area name name food priceRange priceRange priceRange priceRange near near near near near familyFriendly eatType 
+area area near near near near near priceRange priceRange priceRange priceRange food familyFriendly name name eatType 
+name name near near near near near area area priceRange priceRange priceRange priceRange eatType familyFriendly food 
+priceRange food eatType near near near near near name name area area familyFriendly 
+priceRange near near near near near familyFriendly name name food area area eatType 
+familyFriendly priceRange near near near near near area area food eatType name name 
+name name near near near near near area area familyFriendly eatType priceRange food 
+near near near near near area area eatType familyFriendly name name priceRange priceRange priceRange priceRange food 
+familyFriendly name name near near near near near eatType area area food priceRange priceRange priceRange priceRange 
+familyFriendly priceRange priceRange priceRange priceRange near near near near near food area area name name eatType 
+eatType familyFriendly area area priceRange priceRange priceRange priceRange name name food near near near near near 
+eatType area area near near near near near food priceRange priceRange priceRange priceRange name name familyFriendly 
+priceRange near near near near near food area area familyFriendly eatType name name 
+name name near near near near near food priceRange area area eatType familyFriendly 
+priceRange familyFriendly near near near near near area area eatType name name food 
+familyFriendly area area eatType name name customer_rating priceRange food near near near near 
+customer_rating area area food eatType near near near near priceRange familyFriendly name name 
+eatType customer_rating familyFriendly name name food area area near near near near priceRange 
+food area area customer_rating name name familyFriendly near near near near eatType priceRange 
+customer_rating eatType area area name name near near near near priceRange priceRange priceRange priceRange familyFriendly food 
+customer_rating name name eatType near near near near area area food priceRange priceRange priceRange priceRange familyFriendly 
+customer_rating food near near near near familyFriendly area area name name priceRange priceRange priceRange priceRange eatType 
+name name area area food customer_rating eatType priceRange priceRange priceRange priceRange familyFriendly near near near near 
+area area customer_rating customer_rating customer_rating customer_rating near near near near name name familyFriendly priceRange food eatType 
+name name priceRange near near near near food customer_rating customer_rating customer_rating customer_rating familyFriendly eatType area area 
+food area area priceRange name name near near near near customer_rating customer_rating customer_rating customer_rating eatType familyFriendly 
+near near near near familyFriendly name name priceRange area area food customer_rating customer_rating customer_rating customer_rating eatType 
+area area name name customer_rating customer_rating customer_rating customer_rating food priceRange familyFriendly eatType near near near near 
+priceRange near near near near food familyFriendly name name area area customer_rating customer_rating customer_rating customer_rating eatType 
+near near near near eatType name name area area familyFriendly food priceRange customer_rating customer_rating customer_rating customer_rating 
+near near near near priceRange food eatType customer_rating customer_rating customer_rating customer_rating familyFriendly area area name name 
+familyFriendly customer_rating area area near near near near eatType food priceRange priceRange priceRange priceRange name name 
+near near near near eatType area area familyFriendly name name food customer_rating priceRange priceRange priceRange priceRange 
+eatType near near near near area area customer_rating familyFriendly food name name priceRange priceRange priceRange priceRange 
+eatType food customer_rating familyFriendly near near near near name name priceRange priceRange priceRange priceRange area area 
+food near near near near priceRange priceRange priceRange priceRange name name customer_rating customer_rating customer_rating customer_rating familyFriendly area area eatType 
+familyFriendly name name near near near near eatType priceRange priceRange priceRange priceRange area area food customer_rating customer_rating customer_rating customer_rating 
+customer_rating customer_rating customer_rating customer_rating name name area area familyFriendly food near near near near eatType priceRange priceRange priceRange priceRange 
+eatType near near near near area area food priceRange priceRange priceRange priceRange name name familyFriendly customer_rating customer_rating customer_rating customer_rating 
+name name food eatType familyFriendly near near near near area area priceRange priceRange priceRange priceRange customer_rating 
+eatType priceRange priceRange priceRange priceRange near near near near customer_rating area area familyFriendly food name name 
+priceRange priceRange priceRange priceRange area area food name name near near near near familyFriendly customer_rating eatType 
+area area customer_rating priceRange priceRange priceRange priceRange food familyFriendly near near near near near name name eatType 
+name name area area food eatType familyFriendly customer_rating priceRange priceRange priceRange priceRange near near near near near 
+familyFriendly near near near near near customer_rating customer_rating customer_rating customer_rating name name area area food eatType priceRange 
+familyFriendly customer_rating customer_rating customer_rating customer_rating priceRange eatType near near near near near area area name name food 
+name name familyFriendly food priceRange area area eatType customer_rating customer_rating customer_rating customer_rating near near near near near 
+customer_rating customer_rating customer_rating customer_rating eatType priceRange name name food near near near near near area area familyFriendly 
+familyFriendly eatType food name name area area near near near near near priceRange customer_rating customer_rating customer_rating customer_rating 
+name name priceRange near near near near near food customer_rating customer_rating customer_rating customer_rating eatType area area familyFriendly 
+familyFriendly name name near near near near near priceRange food area area customer_rating customer_rating customer_rating customer_rating eatType 
+priceRange food name name eatType area area customer_rating customer_rating customer_rating customer_rating near near near near near familyFriendly 
+near near near near near food area area name name customer_rating priceRange priceRange priceRange priceRange eatType familyFriendly 
+familyFriendly priceRange priceRange priceRange priceRange food name name customer_rating eatType near near near near near area area 
+near near near near near area area eatType familyFriendly priceRange priceRange priceRange priceRange customer_rating name name food 
+eatType food area area name name customer_rating near near near near near familyFriendly priceRange priceRange priceRange priceRange 
+food customer_rating name name eatType near near near near near priceRange priceRange priceRange priceRange area area familyFriendly 
+food near near near near near name name familyFriendly customer_rating priceRange priceRange priceRange priceRange area area eatType 
+near near near near near eatType food area area name name customer_rating priceRange priceRange priceRange priceRange familyFriendly 
+area area name name food familyFriendly priceRange priceRange priceRange priceRange near near near near near eatType customer_rating 
+customer_rating customer_rating customer_rating customer_rating food familyFriendly name name eatType near near near near near area area priceRange 
+area area name name near near near near near customer_rating customer_rating customer_rating customer_rating eatType priceRange familyFriendly food 
+food near near near near near eatType name name priceRange area area familyFriendly 
+near near near near near priceRange priceRange priceRange priceRange food eatType familyFriendly area area name name 
+area area eatType priceRange priceRange priceRange priceRange name name familyFriendly near near near near near food 
+near near near near near food eatType priceRange priceRange priceRange priceRange familyFriendly name name area area 
+eatType priceRange priceRange priceRange priceRange food near near near near near area area familyFriendly name name 
+familyFriendly priceRange name name area area near near near near near food eatType 
+near near near near near area area food name name eatType priceRange familyFriendly 
+food near near near near near name name priceRange eatType familyFriendly area area 
+priceRange near near near near near familyFriendly food eatType name name area area 
+familyFriendly eatType name name priceRange priceRange priceRange priceRange food near near near near near area area 
+familyFriendly name name food near near near near near priceRange priceRange priceRange priceRange area area eatType 
+familyFriendly name name near near near near near eatType food area area priceRange priceRange priceRange priceRange 
+familyFriendly priceRange priceRange priceRange priceRange area area name name eatType near near near near near food 
+eatType familyFriendly name name priceRange priceRange priceRange priceRange food area area near near near near near 
+food priceRange name name eatType near near near near near familyFriendly area area 
+near near near near near name name eatType familyFriendly food priceRange area area 
+eatType area area priceRange near near near near near familyFriendly name name food 
+area area eatType name name name near near near near near food familyFriendly priceRange 
+near near near near near name name name food priceRange area area familyFriendly eatType 
+area area food familyFriendly name name name near near near near near eatType priceRange 
+food priceRange priceRange priceRange priceRange name name name area area eatType familyFriendly near near near near near 
+name name name familyFriendly area area near near near near near eatType priceRange priceRange priceRange priceRange food 
+familyFriendly area area near near near near near name name name priceRange priceRange priceRange priceRange food eatType 
+near near near near near familyFriendly area area eatType priceRange priceRange priceRange priceRange name name name food 
+eatType near near near near near priceRange area area name name name food familyFriendly 
+name name name area area eatType priceRange near near near near near familyFriendly food 
+near near near near near name name name area area eatType familyFriendly priceRange food 
+near near near near near food familyFriendly area area eatType name name name priceRange 
+eatType priceRange priceRange priceRange priceRange food name name name familyFriendly near near near near near area area 
+near near near near near eatType familyFriendly food name name name priceRange priceRange priceRange priceRange area area 
+food near near near near near area area priceRange eatType name name name familyFriendly 
+eatType area area priceRange familyFriendly food near near near near near name name name 
+area area priceRange eatType familyFriendly near near near near near name name name food 
+eatType name name name food familyFriendly priceRange area area near near near near near 
+name name name near near near near near familyFriendly food area area priceRange eatType 
+eatType name name name near near near near near area area familyFriendly food priceRange priceRange priceRange priceRange 
+name name name eatType familyFriendly priceRange priceRange priceRange priceRange food near near near near near area area 
+familyFriendly near near near near near eatType area area priceRange priceRange priceRange priceRange food name name name 
+familyFriendly priceRange eatType food name name name area area near near near near near 
+priceRange food eatType near near near near near familyFriendly name name name area area 
+food name name name eatType familyFriendly near near near near near area area priceRange 
+priceRange priceRange priceRange priceRange name name name familyFriendly eatType near near near near near area area food 
+familyFriendly name name name near near near near near food area area eatType priceRange priceRange priceRange priceRange 
+priceRange priceRange priceRange priceRange near near near near near food name name name familyFriendly area area eatType 
+familyFriendly name name name food area area near near near near near priceRange priceRange priceRange priceRange eatType 
+familyFriendly area area priceRange food near near near near near name name name eatType 
+near near near near near name name name eatType familyFriendly food area area priceRange 
+area area near near near near near food eatType familyFriendly name name name priceRange 
+name name name food area area eatType priceRange near near near near near familyFriendly 
+familyFriendly priceRange priceRange priceRange priceRange name name name area area food eatType near near near near near 
+priceRange priceRange priceRange priceRange name name name eatType near near near near near familyFriendly food area area 
+familyFriendly name name name area area near near near near near eatType priceRange food 
+near near near near near familyFriendly eatType priceRange food name name name area area 
+familyFriendly food eatType priceRange name name name area area near near near near near 
+area area name name name eatType familyFriendly food priceRange near near near near near 
+near near near near near food familyFriendly area area priceRange name name name eatType 
+name name name priceRange priceRange priceRange priceRange familyFriendly food near near near near near eatType area area 
+area area name name name priceRange priceRange priceRange priceRange familyFriendly eatType food near near near near near 
+food name name name priceRange priceRange priceRange priceRange area area eatType familyFriendly near near near near near 
+area area food name name name near near near near near priceRange priceRange priceRange priceRange eatType familyFriendly 
+area area near near near near near priceRange priceRange priceRange priceRange familyFriendly eatType food name name name 
+priceRange area area name name name eatType food near near near near near familyFriendly 
+near near near near near familyFriendly name name name eatType area area food priceRange 
+food area area priceRange familyFriendly name name name near near near near near eatType 
+food near near near near near priceRange area area familyFriendly eatType name name name 
+name name name near near near near near familyFriendly eatType area area food priceRange priceRange priceRange priceRange 
+near near near near near eatType name name name food familyFriendly area area priceRange priceRange priceRange priceRange 
+priceRange area area near near near near near food eatType name name name familyFriendly 
+area area name name name food eatType near near near near near priceRange familyFriendly 
+familyFriendly name name name eatType near near near near near priceRange priceRange priceRange priceRange food area area 
+food eatType familyFriendly name name name priceRange priceRange priceRange priceRange area area near near near near near 
+area area eatType familyFriendly near near near near near priceRange priceRange priceRange priceRange food name name name 
+food area area near near near near near priceRange priceRange priceRange priceRange name name name familyFriendly eatType 
+near near near near near food eatType familyFriendly name name name priceRange area area 
+familyFriendly near near near near near name name name food priceRange area area eatType 
+priceRange familyFriendly name name name eatType near near near near near area area food 
+familyFriendly eatType name name name priceRange food near near near near near area area 
+food area area familyFriendly eatType name name name customer_rating customer_rating customer_rating customer_rating priceRange near near near near near 
+familyFriendly near near near near near area area name name name eatType food priceRange customer_rating customer_rating customer_rating customer_rating 
+priceRange name name name familyFriendly near near near near near eatType area area customer_rating customer_rating customer_rating customer_rating food 
+food priceRange priceRange priceRange priceRange area area near near near near near eatType familyFriendly name name name 
+eatType food priceRange priceRange priceRange priceRange familyFriendly area area name name name near near near near near 
+familyFriendly name name name near near near near near priceRange priceRange priceRange priceRange eatType area area food 
 food familyFriendly eatType area area near near near near near name name name priceRange priceRange priceRange priceRange 
-near near near near near food familyFriendly name name name customer_rating customer_rating customer_rating customer_rating eatType area area priceRange priceRange priceRange priceRange 
-name name name eatType familyFriendly customer_rating customer_rating customer_rating customer_rating food priceRange priceRange priceRange priceRange area area near near near near near 
-eatType familyFriendly area area near near near near near name name name food priceRange priceRange priceRange priceRange customer_rating customer_rating customer_rating customer_rating 
-familyFriendly name name name food customer_rating customer_rating customer_rating customer_rating priceRange priceRange priceRange priceRange area area eatType near near near near near 
-eatType priceRange priceRange priceRange priceRange name name name food area area customer_rating familyFriendly near near near near near 
-customer_rating eatType near near near near near familyFriendly priceRange priceRange priceRange priceRange food area area name name name 
-familyFriendly food eatType near near near near near name name name customer_rating area area priceRange priceRange priceRange priceRange 
-area area familyFriendly eatType food near near near near near customer_rating name name name priceRange priceRange priceRange priceRange 
-familyFriendly near near near near near eatType name name name food area area priceRange priceRange priceRange priceRange 
-area area food familyFriendly name name name priceRange priceRange priceRange priceRange eatType near near near near near 
-food familyFriendly priceRange near near near near near name name name eatType area area 
-eatType priceRange familyFriendly near near near near near area area food name name name 
-familyFriendly eatType food priceRange area area name name name near near near near near 
-familyFriendly name name name area area priceRange eatType food near near near near near 
-food eatType area area familyFriendly priceRange priceRange priceRange priceRange name name name near near near near near 
-familyFriendly eatType priceRange priceRange priceRange priceRange area area food near near near near near name name name 
-priceRange food name name name familyFriendly area area eatType near near near near near 
-priceRange area area eatType food near near near near near familyFriendly name name name 
-familyFriendly name name name priceRange priceRange priceRange priceRange area area eatType food near near near near near 
-eatType familyFriendly near near near near near food name name name priceRange priceRange priceRange priceRange area area 
-name name name area area food familyFriendly priceRange priceRange priceRange priceRange eatType near near near near near 
-near near near near near familyFriendly food name name name eatType area area priceRange priceRange priceRange priceRange 
-food familyFriendly area area priceRange near near near near near eatType name name name 
-familyFriendly food name name name area area priceRange eatType near near near near near 
-familyFriendly eatType area area priceRange food near near near near near name name name 
-familyFriendly eatType priceRange area area food name name name near near near near near 
-eatType food near near near near near familyFriendly priceRange priceRange priceRange priceRange area area name name name 
-food area area familyFriendly eatType near near near near near name name name priceRange priceRange priceRange priceRange 
-food area area familyFriendly near near near near near name name name eatType priceRange priceRange priceRange priceRange 
-area area priceRange priceRange priceRange priceRange familyFriendly food near near near near near eatType name name name 
-name name area area eatType eatType 
+near near near near near name name name food familyFriendly customer_rating customer_rating customer_rating customer_rating area area eatType priceRange priceRange priceRange priceRange 
+name name name customer_rating customer_rating customer_rating customer_rating eatType familyFriendly priceRange priceRange priceRange priceRange food area area near near near near near 
+eatType familyFriendly near near near near near area area name name name priceRange priceRange priceRange priceRange food customer_rating customer_rating customer_rating customer_rating 
+name name name familyFriendly customer_rating customer_rating customer_rating customer_rating food priceRange priceRange priceRange priceRange near near near near near area area eatType 
+eatType priceRange priceRange priceRange priceRange name name name area area food near near near near near customer_rating familyFriendly 
+near near near near near customer_rating eatType priceRange priceRange priceRange priceRange familyFriendly area area food name name name 
+familyFriendly food eatType near near near near near name name name priceRange priceRange priceRange priceRange customer_rating area area 
+area area familyFriendly near near near near near eatType food name name name customer_rating priceRange priceRange priceRange priceRange 
+near near near near near familyFriendly name name name eatType priceRange priceRange priceRange priceRange food area area 
+area area name name name food familyFriendly priceRange priceRange priceRange priceRange near near near near near eatType 
+food near near near near near familyFriendly priceRange name name name area area eatType 
+eatType priceRange near near near near near familyFriendly area area name name name food 
+familyFriendly eatType food name name name priceRange area area near near near near near 
+familyFriendly name name name near near near near near area area priceRange eatType food 
+food priceRange priceRange priceRange priceRange eatType area area familyFriendly name name name near near near near near 
+familyFriendly near near near near near eatType priceRange priceRange priceRange priceRange area area food name name name 
+priceRange name name name food near near near near near familyFriendly area area eatType 
+priceRange area area near near near near near eatType food name name name familyFriendly 
+familyFriendly name name name priceRange priceRange priceRange priceRange area area near near near near near eatType food 
+eatType familyFriendly near near near near near name name name food priceRange priceRange priceRange priceRange area area 
+name name name priceRange priceRange priceRange priceRange area area food familyFriendly near near near near near eatType 
+near near near near near name name name familyFriendly food priceRange priceRange priceRange priceRange eatType area area 
+food familyFriendly area area near near near near near priceRange name name name eatType 
+familyFriendly name name name food area area near near near near near priceRange eatType 
+familyFriendly near near near near near eatType area area priceRange food name name name 
+name name name familyFriendly eatType priceRange area area food near near near near near 
+near near near near near eatType food priceRange priceRange priceRange priceRange familyFriendly area area name name name 
+food area area near near near near near familyFriendly eatType name name name priceRange priceRange priceRange priceRange 
+food area area familyFriendly near near near near near name name name priceRange priceRange priceRange priceRange eatType 
+area area priceRange priceRange priceRange priceRange near near near near near familyFriendly food name name name eatType 
+name name eatType eatType area area 
 name name eatType area area 
-name name food familyFriendly area area eatType near near near near near 
-familyFriendly food name name area area eatType near near near near near 
-eatType food near near near near near familyFriendly name name area area 
-food area area name name eatType familyFriendly near near near near near 
-eatType name name food area area familyFriendly near near near near near 
-familyFriendly name name food near near near near near eatType area area 
-food familyFriendly eatType near near near near near name name area area 
-familyFriendly eatType name name food area area near near near near near 
-food name name eatType area area familyFriendly near near near near near 
-food eatType name name area area familyFriendly near near near near near 
-area area familyFriendly eatType name name food near near near near near 
-name name eatType food area area familyFriendly near near near near near 
+name name food familyFriendly area area near near near near near eatType 
+area area familyFriendly food name name near near near near near eatType 
+eatType near near near near near food area area familyFriendly name name 
+food area area near near near near near name name eatType familyFriendly 
+near near near near near eatType name name food area area familyFriendly 
+familyFriendly name name near near near near near food area area eatType 
+food near near near near near familyFriendly eatType area area name name 
+familyFriendly eatType name name near near near near near food area area 
+food name name eatType near near near near near area area familyFriendly 
+near near near near near food eatType name name area area familyFriendly 
+area area near near near near near familyFriendly eatType name name food 
+name name area area eatType food near near near near near familyFriendly 
 food eatType area area name name familyFriendly near near near near near 
-food familyFriendly name name area area eatType near near near near near 
-name name familyFriendly near near near near near food eatType area area 
-name name food area area familyFriendly eatType near near near near near 
-food familyFriendly name name area area eatType near near near near near 
-food area area name name familyFriendly eatType near near near near near 
-name name name area area eatType eatType 
-customer_rating name name name near near eatType eatType 
-name name name near near customer_rating eatType eatType 
-name name name near near near near eatType eatType 
+food familyFriendly name name near near near near near area area eatType 
+name name familyFriendly near near near near near area area food eatType 
+name name food area area near near near near near familyFriendly eatType 
+near near near near near food familyFriendly name name area area eatType 
+food near near near near near area area name name familyFriendly eatType 
+name name name eatType eatType area area 
+customer_rating near near name name name eatType eatType 
+name name name near near eatType eatType customer_rating 
+near near near near name name name eatType eatType 
 eatType name name name area area 
-eatType name name name customer_rating near near 
+eatType name name name near near customer_rating 
 customer_rating name name name eatType near near 
-eatType name name name near near near near 
+eatType near near near near name name name 

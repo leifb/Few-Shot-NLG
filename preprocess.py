@@ -32,21 +32,13 @@ def join_box(list_in):
             continue
         field_value = each_item.split(":")[1]
 
-        #if field_name == "":
-        #    continue
-
-        if not field_name[-1].isdigit():
-            if field_value != "<none>":
-                out_list.append((field_name, field_value))
-            continue
-
-        field_name = "_".join(field_name.split("_")[:-1])
+        if field_name[-1].isdigit():
+            field_name = "_".join(field_name.split("_")[:-1])
 
         if field_name != current_name:
             if current_name != "":
                 # remove none value
-                if current_value.strip() != "<none>":
-                    out_list.append((current_name, current_value.strip()))
+                out_list.append((current_name, current_value.strip()))
                 current_name = ""
                 current_value = ""
 
