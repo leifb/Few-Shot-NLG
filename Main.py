@@ -50,9 +50,9 @@ tf.app.flags.DEFINE_integer("field_size", 768, "Size of embedding.")
 tf.app.flags.DEFINE_integer("pos_size", 5, "Size of embedding.")
 
 # training
-tf.app.flags.DEFINE_integer("batch_size", 4, "Batch size of train set.")
-tf.app.flags.DEFINE_integer("batch_update", 44, "apply gradients after steps")
-tf.app.flags.DEFINE_integer("epoch", 3, "Number of training epoch.")
+tf.app.flags.DEFINE_integer("batch_size", 2, "Batch size of train set.")
+tf.app.flags.DEFINE_integer("batch_update", 22, "apply gradients after steps")
+tf.app.flags.DEFINE_integer("epoch", 5000, "Number of training epoch.")
 tf.app.flags.DEFINE_float("learning_rate", 0.0003,'learning rate')
 
 # logging
@@ -73,8 +73,8 @@ else:
     model_dir = os.path.join(FLAGS.output_path, 'inference_only_' + model_dir_name)
     results_path = os.path.join(model_dir, FLAGS.domain, "results")
 
-os.makedirs(results_path, exist_ok=False)
-os.makedirs(saved_model_path, exist_ok=False)
+os.makedirs(results_path, exist_ok=True)
+os.makedirs(saved_model_path, exist_ok=True)
 log_file = os.path.join(results_path, 'log.txt')
 
 
